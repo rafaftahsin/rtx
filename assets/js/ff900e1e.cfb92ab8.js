@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrtx=self.webpackChunkrtx||[]).push([[565],{2219:e=>{e.exports=JSON.parse('{"permalink":"/rtx/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

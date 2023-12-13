@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrtx=self.webpackChunkrtx||[]).push([[6303],{7722:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/rtx/blog/tags/facebook","allTagsPath":"/rtx/blog/tags","count":1,"unlisted":false}')}}]);

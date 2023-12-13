@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrtx=self.webpackChunkrtx||[]).push([[4124],{8432:l=>{l.exports=JSON.parse('[{"label":"facebook","permalink":"/rtx/blog/tags/facebook","count":1},{"label":"hello","permalink":"/rtx/blog/tags/hello","count":2},{"label":"docusaurus","permalink":"/rtx/blog/tags/docusaurus","count":4},{"label":"hola","permalink":"/rtx/blog/tags/hola","count":1}]')}}]);
