@@ -60,6 +60,29 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'aboutme',
+        path: 'aboutme',
+        routeBasePath: 'aboutme',
+        // sidebarPath: './sidebars.js',
+        // ... other options
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'linux',
+        path: 'linux',
+        routeBasePath: 'linux',
+        sidebarPath: './sidebars.js',
+        // ... other options
+      }
+    ]
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -81,6 +104,16 @@ const config = {
           {
             to: '/blog', 
             label: 'Blog', 
+            position: 'left'
+          },
+          {
+            to: '/linux', 
+            label: 'Linux', 
+            position: 'left'
+          },
+          {
+            to: '/aboutme',
+            label: 'About me', 
             position: 'left'
           },
           {
