@@ -11,3 +11,7 @@
 ### NavBar DropDown Manu
 
 - https://docusaurus.io/docs/api/themes/configuration#navbar-dropdown
+
+### Example other tech docs to get idea from
+
+- https://theochu.com/engineering/git/
