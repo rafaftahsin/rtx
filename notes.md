@@ -15,3 +15,8 @@
 ### Example other tech docs to get idea from
 
 - https://theochu.com/engineering/git/
+
+=> Wordpress theme to get inspiration
+- https://wordpress.com/theme/disco?tab_filter=blog
+- https://wordpress.com/theme/sten?tab_filter=blog
+- https://wordpress.com/theme/pixl?tab_filter=blog
