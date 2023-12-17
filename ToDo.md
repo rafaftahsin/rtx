@@ -1,3 +1,6 @@
 - [x] Multiple Blog -> https://docusaurus.io/docs/blog
 - [x] Whom
 - [ ] Migrate infrastructure
+- [ ] Update Aboutme page 
+  - [ ] Rename it to About
+  - [ ] Make it a page ... not blog or docs
