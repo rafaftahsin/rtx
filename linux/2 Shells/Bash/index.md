@@ -1,9 +1,6 @@
 ---
 sidebar_position: 1
-title: Linux
+title: Bash
 ---
 
-Linux
-
-
-Linux
+Bash

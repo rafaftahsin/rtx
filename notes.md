@@ -20,3 +20,12 @@
 - https://wordpress.com/theme/disco?tab_filter=blog
 - https://wordpress.com/theme/sten?tab_filter=blog
 - https://wordpress.com/theme/pixl?tab_filter=blog
+
+### Front Matters
+
+[Front Matters](https://docusaurus.io/docs/next/markdown-features#front-matter)
+
+- Docs Front Matter - https://docusaurus.io/docs/next/api/plugins/@docusaurus/plugin-content-docs#markdown-front-matter
+- Blog Front Matter - https://docusaurus.io/docs/next/api/plugins/@docusaurus/plugin-content-blog#markdown-front-matter
+- Pages Front Matter - https://docusaurus.io/docs/next/api/plugins/@docusaurus/plugin-content-pages#markdown-front-matter
+
