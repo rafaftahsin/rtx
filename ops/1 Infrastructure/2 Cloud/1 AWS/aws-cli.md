@@ -34,7 +34,7 @@ export AWS_DEFAULT_REGION=$(aws configure get region --profile $AWS_PROFILE)
 => you can also make a script. Ref: https://gist.github.com/mjul/f93ee7d144c5090e6e3c463f5f312587
 
 ----
-#### How to remove temporary access i.e. cli sessions from aws-cli
+### How to remove temporary access i.e. cli sessions from aws-cli
 
 ```shell
 rm -r ~/.aws/cli/cache
