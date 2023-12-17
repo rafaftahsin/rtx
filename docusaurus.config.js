@@ -115,15 +115,24 @@ const config = {
             position: 'left'
           },
           {
-            to: '/linux', 
-            label: 'Linux', 
-            position: 'left'
+            label: 'Tech',
+            items: [
+              {
+                label: 'linux',
+                to: '/linux'
+              },
+              {
+                label: 'ops',
+                to: 'ops'
+              }
+            ]
           },
           {
             to: '/aboutme',
             label: 'About me', 
             position: 'left'
           },
+
           {
             href: 'https://github.com/rafaftahsin/rtx',
             label: 'GitHub',
