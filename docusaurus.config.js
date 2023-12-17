@@ -77,8 +77,16 @@ const config = {
         id: 'linux',
         path: 'linux',
         routeBasePath: 'linux',
-        sidebarPath: './sidebars.js',
-        // ... other options
+        sidebarPath: './sidebars.js'
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ops',
+        path: 'ops',
+        routeBasePath: 'ops',
+        sidebarPath: './sidebars.js'
       }
     ]
   ],
