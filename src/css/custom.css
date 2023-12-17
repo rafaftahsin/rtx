@@ -15,7 +15,7 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --ifm-font-family-base: 'Andalé Mono', monospace;
-  /*--ifm-font-family-monospace: 'Consolas';*/
+  /*--ifm-font-family-monospace: 'Space Mono', monospace;*/
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
