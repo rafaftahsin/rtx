@@ -2,6 +2,7 @@
 title: EC2
 ---
 
+----
 ### Create Image of an Instance
 
 ```shell
@@ -15,6 +16,7 @@ aws ec2 create-image \
 
 - Ref: https://docs.aws.amazon.com/cli/latest/reference/ec2/create-image.html
 
+----
 ### Share AMI with Another AWS Account
 
 ```shell
