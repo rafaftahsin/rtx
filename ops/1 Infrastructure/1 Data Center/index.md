@@ -4,31 +4,14 @@ title: Data Center
 ---
 
 ### Virtualization
-- Xen
-- kvm
-- VirtualBox
-- VMWare ESXi
-- Windows System Center | Hyper-V
-- OpenStack
-- Apache CloudStack *** [ Promising ]
-- LXD
-  - multipass
+- Distributed 
+  - Xen (type-1)
+  - VMWare ESXi (type-1)
+  - Windows System Center (type-1)
+  - OpenStack 
+  - Apache CloudStack
+- Non Distributed
+  - VirtualBox
+  - QEMU
+  - KVM
 
-### Router
-- Juniper
-- Mikrotik
-- Cisco Meraki
-
-### Switch
-- Cisco
-
-### NAS
-- WD MyCloud [Not MyCloud Home]
-- QNAP
-- Netgear ReadyNAS
-- Synology 
-### NAS OS
-- Streama - https://docs.streama-project.com/
-
-### Firewall
-- Palo Alto

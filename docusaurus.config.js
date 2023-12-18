@@ -88,6 +88,15 @@ const config = {
         routeBasePath: 'ops',
         sidebarPath: './sidebars.js'
       }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'dev',
+        path: 'dev',
+        routeBasePath: 'dev',
+        sidebarPath: './sidebars.js'
+      }
     ]
   ],
 
@@ -122,7 +131,11 @@ const config = {
                 to: '/linux'
               },
               {
-                label: 'ops',
+                label: 'Dev',
+                to: 'dev'
+              },
+              {
+                label: 'Ops',
                 to: 'ops'
               }
             ]
