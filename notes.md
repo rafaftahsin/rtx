@@ -29,3 +29,11 @@
 - Blog Front Matter - https://docusaurus.io/docs/next/api/plugins/@docusaurus/plugin-content-blog#markdown-front-matter
 - Pages Front Matter - https://docusaurus.io/docs/next/api/plugins/@docusaurus/plugin-content-pages#markdown-front-matter
 
+### Document Organisation
+
+- [ ] Vagrant will be added to automation
+- [ ] Need to write a blog on how RSA Algorithm works
+- [ ] DSA Doc
+- [ ] SOP should be added to DevOps Documentation Type
+- [ ] Planning, Mocking, Documentation, Database Refactoring etc ... Collaboration will be discussed in SE part
+- [ ] Unit Testing, Containerisation, will be discussed in Dev

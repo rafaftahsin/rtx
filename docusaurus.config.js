@@ -145,7 +145,6 @@ const config = {
             label: 'About me', 
             position: 'left'
           },
-
           {
             href: 'https://github.com/rafaftahsin/rtx',
             label: 'GitHub',
