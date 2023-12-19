@@ -10,6 +10,7 @@ title: Data Center
   - Windows System Center (type-1)
   - OpenStack 
   - Apache CloudStack
+  - ProxMox
 - Non Distributed
   - VirtualBox
   - QEMU

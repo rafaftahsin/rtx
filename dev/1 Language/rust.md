@@ -18,3 +18,8 @@ title: Rust
 | Test                   |           |
 | Queue                  |           |
 | Tutorial               |           |
+
+----
+### Some Vids about Rust
+
+- https://www.youtube.com/watch?v=lpSlbeJyr6M 

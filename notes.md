@@ -37,3 +37,27 @@
 - [ ] SOP should be added to DevOps Documentation Type
 - [ ] Planning, Mocking, Documentation, Database Refactoring etc ... Collaboration will be discussed in SE part
 - [ ] Unit Testing, Containerisation, will be discussed in Dev
+
+Infrastructure
+
+Cloud ->
+- AWS
+- 
+
+Data Center (Distributed Virtual Server) ->
+- OpenStack
+- VMWare
+- Xen
+- KVM
+
+Virtualisation (Non Distributed)
+- ProxMox
+-
+
+Containerisation (Non Distributed)
+- docker
+- docker-compose
+- lxc
+
+Container Orchestration (Distributed)
+	
