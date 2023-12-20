@@ -9,3 +9,7 @@ pip install boto3
 ```
 
 Ref: https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html
+
+### python AWS SDK 
+
+- https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
