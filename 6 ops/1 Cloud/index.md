@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Cloud
 ---
 
-### Mejor Cloud providers
+### Major Cloud providers
 - AWS
 - Brilliant Cloud [Bangladesh] - https://bcp.brilliant.com.bd/
 - Rackspace
@@ -13,6 +13,7 @@ title: Cloud
 - Hetznar
 - Azure
 - GCP
+- Vultr
 
 ### Major Cloud and their services comparison
 
@@ -33,3 +34,9 @@ title: Cloud
 - https://platform.sh/
 - rig.dev
 - https://hasura.io/
+
+### In house Cloud 
+
+- [OpenStack](https://www.openstack.org/)
+- [Apache CloudStack](https://cloudstack.apache.org/)
+- [Open Nebula](https://opennebula.io/)
