@@ -2,7 +2,40 @@
 title: Storages
 ---
 
-Distributed Storage
-- Ceph
-- minio
-- 
+### Distributed Object Storage
+- Managed
+  - AWS S3
+  - MinIO
+  - https://wasabi.com/
+- Self Hosted
+  - Rook
+  - Ceph
+
+### NAS Server
+
+- Streama - https://docs.streama-project.com/
+- TrueNAS
+- Open Media
+- Vault
+- Rockstor
+
+### File Server
+
+- FTP/SFTP
+- Samba
+
+### File Sync
+
+- Managed
+  - Dropbox
+  - Google Drive
+- Self Hosted
+  - SeaFile
+  - NextCloud
+
+### NFS
+
+### Version Control System
+
+- git
+- SVN

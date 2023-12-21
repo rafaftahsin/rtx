@@ -11,11 +11,5 @@ title: Storages
 - Synology
 
 ----
-### NAS OS
-- Streama - https://docs.streama-project.com/
-
-----
 ### SAN
 
-----
-### NFS
