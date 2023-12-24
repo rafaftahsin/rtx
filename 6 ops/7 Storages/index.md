@@ -19,6 +19,8 @@ title: Storages
 - Vault
 - Rockstor
 
+N.B. For installing NAS on baremetal check sysadmin>Storage>NasOS
+
 ### File Server
 
 - FTP/SFTP
