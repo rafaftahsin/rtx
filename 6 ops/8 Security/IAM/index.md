@@ -7,3 +7,7 @@ title: IAM Server
 - https://www.keycloak.org/
 - AWS Cognito
 - https://clerk.com/
+
+### IAM tools
+
+- htpasswd
