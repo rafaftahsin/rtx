@@ -191,7 +191,7 @@ const config = {
               },
               {
                 label: 'Sys',
-                to: 'sys'
+                to: '/sys'
               }
             ]
           },
