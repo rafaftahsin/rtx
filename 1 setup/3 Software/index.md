@@ -2,6 +2,23 @@
 title: Software
 ---
 
+### Creating Writing
+
+- Word 
+  - MS Word
+  - Google Docs
+  - Libre Office 
+- Excel 
+  - Google Sheet
+  - MS Excel
+  - Libre Office Calc
+- MS Presentation 
+  - MS PowerPoint
+  - Libre Office Impress
+- AI Writing Tool
+  - https://www.linkedin.com/posts/nayeemahmad_20-ai-tools-for-writing-activity-7100492956243017728-QkPF/
+  - Grammerly
+
 ### Graphics Design
 
 - Vector Graphics
