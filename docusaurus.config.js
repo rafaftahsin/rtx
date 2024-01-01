@@ -64,11 +64,37 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'about',
-        path: '9 about',
-        routeBasePath: 'about',
-        // sidebarPath: './sidebars.js',
-        // ... other options
+        id: 'setup',
+        path: '1 setup',
+        routeBasePath: 'setup',
+        sidebarPath: './sidebars.js',
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'dev',
+        path: '2 dev',
+        routeBasePath: 'dev',
+        sidebarPath: './sidebars.js',
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'swe',
+        path: '3 swe',
+        routeBasePath: 'swe',
+        sidebarPath: './sidebars.js',
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'dsa',
+        path: '4 dsa',
+        routeBasePath: 'dsa',
+        sidebarPath: './sidebars.js'
       }
     ],
     [
@@ -83,21 +109,30 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'operations',
-        path: '6 operations',
-        routeBasePath: 'operations',
+        id: 'ops',
+        path: '6 ops',
+        routeBasePath: 'ops',
         sidebarPath: './sidebars.js'
       }
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'development',
-        path: '2 development',
-        routeBasePath: 'development',
+        id: 'sec',
+        path: '7 sec',
+        routeBasePath: 'sec',
         sidebarPath: './sidebars.js'
       }
-    ]
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'sys',
+        path: '8 sys',
+        routeBasePath: 'sys',
+        sidebarPath: './sidebars.js'
+      }
+    ],
   ],
 
   themeConfig:
@@ -112,31 +147,51 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            to: '/blog', 
-            label: 'Blog', 
-            position: 'left'
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
+          // {
+          //   to: '/blog',
+          //   label: 'Blog',
+          //   position: 'left'
+          // },
           {
             label: 'Tech',
             items: [
               {
-                label: 'linux',
-                to: '/linux'
+                label: 'Setup',
+                to: '/setup'
               },
               {
                 label: 'Dev',
-                to: 'dev'
+                to: '/dev'
+              },
+              {
+                label: 'SWE',
+                to: '/swe'
+              },
+              {
+                label: 'DSA',
+                to: '/dsa'
+              },
+              {
+                label: 'Linux',
+                to: '/linux'
               },
               {
                 label: 'Ops',
-                to: 'ops'
+                to: '/ops'
+              },
+              {
+                label: 'Sec',
+                to: '/sec'
+              },
+              {
+                label: 'Sys',
+                to: 'sys'
               }
             ]
           },
