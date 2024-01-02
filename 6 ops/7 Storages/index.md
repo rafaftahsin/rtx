@@ -31,6 +31,7 @@ N.B. For installing NAS on baremetal check sysadmin>Storage>NasOS
 - Managed
   - Dropbox
   - Google Drive
+  - OneDrive
 - Self Hosted
   - SeaFile
   - NextCloud

@@ -19,3 +19,15 @@ Terminal=false
 
 Ref: https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html
 
+### How to enable RDP in ubuntu?
+
+- Go to settings and select Remote Desktop
+
+![img.png](img.png)
+
+- Enable Remote Desktop
+
+![img_1.png](img_1.png)
+
+### How to enable bridge network in ubuntu
+
