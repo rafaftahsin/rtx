@@ -1,8 +1,10 @@
 ---
 title: VPN
 ---
-
-IPSec
-L2TP
-P2P
-OpenVPN
+- Managed
+  - 
+- Self Hosted
+  - IPSec
+  - L2TP
+  - P2P
+  - OpenVPN

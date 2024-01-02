@@ -31,7 +31,7 @@ N.B. For installing NAS on baremetal check sysadmin>Storage>NasOS
     - Filezilla
 - Samba
 
-### File Sync
+### Cloud Storage with File Sync
 
 - Managed
   - Dropbox
@@ -39,7 +39,7 @@ N.B. For installing NAS on baremetal check sysadmin>Storage>NasOS
   - OneDrive
 - Self Hosted
   - SeaFile
-  - NextCloud
+  - NextCloud/Own Cloud
 
 ### NFS
 

@@ -3,4 +3,6 @@ sidebar_position: 3
 title: Databases
 ---
 
-Db
+### Universal DB Client
+
+- DBeaver

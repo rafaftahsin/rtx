@@ -2,6 +2,8 @@
 title: Text Audio and Video Collaboration
 ---
 
+### Team Collaboration
+
 - Paid
   - Slack
   - Discord
@@ -25,6 +27,7 @@ title: Text Audio and Video Collaboration
 - Managed
   - Google Meet
   - M/S Team
+  - zoom
 - Self Hosted
   - jitsi
   - https://openvidu.io/

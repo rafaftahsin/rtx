@@ -3,4 +3,10 @@ sidebar_position: 1
 title: Dev
 ---
 
-Dev
+### A good Documentation 
+
+- https://devdocs.io/
+
+### Various Tools
+
+- https://www.omkar.cloud/devtools/
