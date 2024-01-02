@@ -35,5 +35,4 @@ Ref: https://www.vpsserver.com/ubuntu-server-remote-desktop/
 
 ### How to enable bridge network in ubuntu
 
-
 https://www.tecmint.com/create-network-bridge-in-ubuntu/

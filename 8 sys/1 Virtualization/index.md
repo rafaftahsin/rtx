@@ -12,15 +12,13 @@ title: Virtualization
 - Windows System
 - ProxMox
 - KVM
+  - client (Virtual Machine Manager)
 
 #### Type-2 Virtualization
 
 - VirtualBox
+- VMWare Workstation
 - [QEMU - Quick EMUlator](https://www.qemu.org/)
   - It's an Emulator. Sometimes used 
-- HyperV
+- Microsoft HyperV
 - multipass (lxc)
-
-### Network Virtualization
-
-### 

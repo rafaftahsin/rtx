@@ -24,6 +24,11 @@ N.B. For installing NAS on baremetal check sysadmin>Storage>NasOS
 ### File Server
 
 - FTP/SFTP
+  - Server
+    - ProFTPd
+    - vsftpd
+  - Client
+    - Filezilla
 - Samba
 
 ### File Sync
