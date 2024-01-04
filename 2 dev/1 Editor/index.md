@@ -2,6 +2,10 @@
 title: Editor
 ---
 
+### Terminal Editor
+
+- Links to Linux > Terminal Editor
+
 ### Text Editor	
 - SublimeText
 - VSCode **

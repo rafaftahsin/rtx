@@ -45,5 +45,9 @@ N.B. For installing NAS on baremetal check sysadmin>Storage>NasOS
 
 ### Version Control System
 
-- git
-- SVN
+Links -> Dev > Version Control
+
+### SCP Client
+
+- WinSCP [Windows]
+- Nautilus

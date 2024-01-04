@@ -7,6 +7,15 @@ title: Version Control
 - SVN
 
 ### git provider
-- github
-- bitbucket
-- gitlab
+
+- Managed
+  - github
+  - bitbucket
+  - gitlab
+- Self Hosted
+  - gogs.io [100% Open Source]
+  - gitlab [Self Hosted Paid]
+
+### Notes
+
+- https://dev.to/rivea0/a-reminder-to-use-single-quotes-when-writing-commit-messages-530j

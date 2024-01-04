@@ -2,8 +2,7 @@
 title: Software
 ---
 
-----
-
+---
 ### Creating Writing
 
 #### Word 
@@ -27,8 +26,7 @@ title: Software
 #### Bangla Keyboard
 - Avro Keyboard
 
-----
-
+---
 ### Essential Software
 
 #### Image Burner
@@ -47,6 +45,11 @@ title: Software
 - Edge
 - Firefox
 - Opera
+
+### Browser Extensions
+
+- Tahir
+- Session Manager
 
 #### ScreenShot
 
@@ -105,36 +108,39 @@ title: Software
   - Blender
 
 #### AI Generated Image
-  - https://hotpot.ai/
-  - Midjourney - https://docs.midjourney.com/docs/quick-start
-  - https://www.fotor.com/features/ai-image-generator/
-  - https://www.canva.com/ai-image-generator/
-  - https://id.freepikcompany.com/
-  - https://www.bluewillow.ai/
-  - https://clipdrop.co/pricing
+- https://hotpot.ai/
+- Midjourney - https://docs.midjourney.com/docs/quick-start
+- https://www.fotor.com/features/ai-image-generator/
+- https://www.canva.com/ai-image-generator/
+- https://id.freepikcompany.com/
+- https://www.bluewillow.ai/
+- https://clipdrop.co/pricing
 
 #### Online Logo Maker
-  - Wix Logo Maker
+- Wix Logo Maker
 
-----
+---
 ### Security
 
 #### Password Manager
-  - Managed
-    - Lastpass
-    - 1password
-  - Self Managed
-    - KeePassXC
+- Managed
+  - Lastpass
+  - 1password
+- Self Managed
+  - KeePassXC
 
 #### VPN
-  - VPN Unlimited
-  - Cyberghost
+- VPN Unlimited
+- Cyberghost
 
-Ref: VPN Service comparison - https://www.listvpn.net, https://vpnstore.com.
+Ref: 
+
+- VPN Service comparison - https://www.listvpn.net, https://vpnstore.com.
+- For personal self hosted or office VPN 
 
 #### DNS Settings
-  - 1.1.1.1
-  - Cloudflare DNS
+- 1.1.1.1
+- Cloudflare DNS
 
 #### GPG Key Management
 
