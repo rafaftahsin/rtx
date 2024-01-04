@@ -65,7 +65,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'setup',
-        path: '1 setup',
+        path: '1 tech/1 setup',
         routeBasePath: 'setup',
         sidebarPath: './sidebars.js',
       }
@@ -74,7 +74,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'dev',
-        path: '2 dev',
+        path: '1 tech/2 dev',
         routeBasePath: 'dev',
         sidebarPath: './sidebars.js',
       }
@@ -83,7 +83,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'swe',
-        path: '3 swe',
+        path: '1 tech/3 swe',
         routeBasePath: 'swe',
         sidebarPath: './sidebars.js',
       }
@@ -92,7 +92,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'dsa',
-        path: '4 dsa',
+        path: '1 tech/4 dsa',
         routeBasePath: 'dsa',
         sidebarPath: './sidebars.js'
       }
@@ -101,7 +101,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'linux',
-        path: '5 linux',
+        path: '1 tech/5 linux',
         routeBasePath: 'linux',
         sidebarPath: './sidebars.js'
       }
@@ -110,7 +110,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'ops',
-        path: '6 ops',
+        path: '1 tech/6 ops',
         routeBasePath: 'ops',
         sidebarPath: './sidebars.js'
       }
@@ -119,7 +119,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'sec',
-        path: '7 sec',
+        path: '1 tech/7 sec',
         routeBasePath: 'sec',
         sidebarPath: './sidebars.js'
       }
@@ -128,7 +128,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'sys',
-        path: '8 sys',
+        path: '1 tech/8 sys',
         routeBasePath: 'sys',
         sidebarPath: './sidebars.js'
       }
