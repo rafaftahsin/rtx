@@ -20,6 +20,12 @@ title: c++
 | Queue                  |                                                                                                                                                                   |
 | Tutorial               |                                                                                                                                                                   |
 
+
+### Language Specification
+
+- Unofficial
+  - https://en.cppreference.com/w/
+
 ### cpp for backend
 
 - https://www.reddit.com/r/cpp/comments/afh0mo/c_backend_service_framework/ 
