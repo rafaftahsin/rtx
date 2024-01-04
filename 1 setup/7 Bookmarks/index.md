@@ -68,4 +68,4 @@ https://www.paritydeals.com/
 
 ### Image Resize
 
-- picresize
+- pic resize
