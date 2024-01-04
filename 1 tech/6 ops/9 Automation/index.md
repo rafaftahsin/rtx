@@ -4,3 +4,8 @@ title: Automation
 ---
 
 Automation
+
+### Build Automation
+
+- `make`
+
