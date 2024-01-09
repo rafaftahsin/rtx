@@ -133,6 +133,15 @@ const config = {
         sidebarPath: './sidebars.js'
       }
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'about',
+        path: '4 about',
+        routeBasePath: 'about',
+        sidebarPath: './sidebars.js'
+      }
+    ],
   ],
 
   themeConfig:
