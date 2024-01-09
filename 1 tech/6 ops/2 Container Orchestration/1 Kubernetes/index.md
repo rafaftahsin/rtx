@@ -36,6 +36,7 @@ title: Kubernetes
   - terminal based 
 - [Lens](https://github.com/lensapp/lens)
   - VSCode Like k8s client
+- `kubectl`
 
 ----
 ### Backup and Recovery

@@ -49,4 +49,5 @@ sidebar_position: 1
 
 ### Matric and Log
 - https://signoz.io/
-- Loki + Grafana + Mimir
+- [Loki](https://grafana.com/oss/loki/) + Grafana + [Mimir](https://grafana.com/oss/mimir/)
+

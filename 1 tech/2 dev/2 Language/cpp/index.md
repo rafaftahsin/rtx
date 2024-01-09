@@ -29,3 +29,13 @@ title: c++
 ### cpp for backend
 
 - https://www.reddit.com/r/cpp/comments/afh0mo/c_backend_service_framework/ 
+
+### c http library
+
+- [Libmicrohttpd](https://www.gnu.org/software/libmicrohttpd/)
+
+### Various cpp libraries
+
+- [boost](https://github.com/boostorg/beast)
+- [qt library](https://www.qt.io/)
+
