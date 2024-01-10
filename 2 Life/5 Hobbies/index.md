@@ -1,0 +1,21 @@
+---
+title: Hobbies
+---
+
+- Watch
+  - Documentaries
+  - TV/Web Series
+  - Animations
+  - Movies
+- Song
+- Reading 
+  - Books
+- Video Games
+- Physical Games
+  - Indoor Games
+  - Outdoor Games
+- Toys
+- Memes
+- Magic
+- Pets
+- Lock Picking
