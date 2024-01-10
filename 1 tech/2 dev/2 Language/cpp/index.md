@@ -28,7 +28,7 @@ title: c++
 
 ### cpp for backend
 
-- https://www.reddit.com/r/cpp/comments/afh0mo/c_backend_service_framework/ 
+- https://www.reddit.com/r/cpp/comments/afh0mo/c_backend_service_framework/
 
 ### c http library
 
@@ -37,5 +37,6 @@ title: c++
 ### Various cpp libraries
 
 - [boost](https://github.com/boostorg/beast)
+  - https://www.boost.org/
 - [qt library](https://www.qt.io/)
 
