@@ -22,3 +22,9 @@ Ref: https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spe
 ### How to enable bridge network in ubuntu
 
 https://www.tecmint.com/create-network-bridge-in-ubuntu/
+
+
+### Alow Remote Connection during screen lock
+
+https://askubuntu.com/a/1491181/428566
+
