@@ -7,8 +7,12 @@ title: DNS
 - Adguard
 - NextDNS
 - Technitium DNS Server
+- PowerDNS
+- Bind
 
 N.B. https://serverfault.com/questions/1083189/dns-resolver-vs-dns-server
+
+Ref: https://www.reddit.com/r/selfhosted/comments/9v1eth/selfhosted_dns_recommendations/
 
 ### Domain Reseller
 

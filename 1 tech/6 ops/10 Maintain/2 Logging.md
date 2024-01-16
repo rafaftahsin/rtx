@@ -12,6 +12,10 @@ sidebar_position: 2
 - Splunk
 - datadog
 - Rsyslog
+- [Loki](https://grafana.com/oss/loki/)
+- https://www.sexilog.fr/
+- https://vector.dev/ and https://github.com/toshi-search/Toshi
+- 
 
 ### Error Logging
 

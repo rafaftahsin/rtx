@@ -8,7 +8,7 @@ title: pylon
 
 ### Image Stitching Example
 
-```c++
+```
 #include <iostream>
 #include <pylon/Pixel.h>
 #include <pylon/PylonIncludes.h>

@@ -7,8 +7,11 @@ title: Image Processing
 - [OpenCV](https://opencv.org/)
 - ImageMagick
 
-### Panaroma Stitching
+### Image Stitching
 
 - https://kediarahul.medium.com/panorama-stitching-stitching-two-images-using-opencv-python-c-3702e4993d8
+- https://hugin.sourceforge.io/
+- Other Types of stitching - OpenCV
+- https://stackoverflow.com/questions/64659657/fast-and-robust-image-stitching-algorithm-for-many-images-in-python
 - 
 
