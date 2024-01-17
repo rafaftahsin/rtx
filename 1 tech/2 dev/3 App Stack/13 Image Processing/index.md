@@ -2,6 +2,10 @@
 title: Image Processing
 ---
 
+### Tutorials Blogs and
+
+- https://www.youtube.com/@ComputerVisionEngineer
+
 ### Image Processing Libraries
 
 - [OpenCV](https://opencv.org/)
@@ -13,5 +17,10 @@ title: Image Processing
 - https://hugin.sourceforge.io/
 - Other Types of stitching - OpenCV
 - https://stackoverflow.com/questions/64659657/fast-and-robust-image-stitching-algorithm-for-many-images-in-python
-- 
+
+### Homography Concept
+
+- https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html
+
+
 

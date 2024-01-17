@@ -19,6 +19,7 @@ sudo make install
 
 - https://www.geeksforgeeks.org/how-to-install-opencv-in-c-on-linux/
 - https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html
+- https://docs.opencv.org/4.x/db/df5/tutorial_linux_gcc_cmake.html
 
 ### Different types of stitching in OpenCV
 
@@ -41,5 +42,7 @@ Ref: https://pypi.org/project/opencv-python/#installation-and-usage
   - https://www.opencvhelp.org/
 - Youtube
   - https://www.youtube.com/watch?v=2FYm3GOonhk
+
+
 
 
