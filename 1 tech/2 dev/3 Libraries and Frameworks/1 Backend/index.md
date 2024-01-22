@@ -17,3 +17,9 @@ title: Web
 
 
 
+### API Communication Strategies
+
+- SOUP
+- REST
+- gRPC
+- GraphQL
