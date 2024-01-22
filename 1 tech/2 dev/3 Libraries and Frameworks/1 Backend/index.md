@@ -3,13 +3,17 @@ title: Web
 ---
 
 
-FastAPI
-spring boot
-Laravel
-django
-Express
-NextJS
-NuxtJS
-NestJS
-T3
+### Web Frameworks
+
+| Name        | Language       | MVC | ORM    | Communication | Site                  |
+|-------------|----------------|-----|--------|---------------|-----------------------|
+| FastAPI     | Python         |     |        | REST          |                       |
+| Spring Boot | Java           | Yes |        | REST          |                       |
+| Laravel     | PHP            | Yes |        |               |                       |
+| django      | Python         | Yes |        |               |                       |
+| NextJS      | NodeJS (React) |     | Prisma |               | https://nextjs.org/   |
+| NestJS      | NodeJS         |     |        |               | https://nestjs.com/   |
+| T3          |                |     | Prisma | gRPC          | https://create.t3.gg/ |
+
+
 
