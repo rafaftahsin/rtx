@@ -6,11 +6,12 @@ title: Fitness
 - Alternative Medications
   - Herbal Medicine
   - Homeopathic Medicine
-  - Unani Medicine
-  - Ayurvadic Medicine
-- Symtops and Cure
+  - Un-ani Medicine
+  - Ayurvedic Medicine
+  - Indigenous Tribal Medicine
+- Symptoms and Cure
   - First Aid
-- Healthey way of living
+- Healthy way of living
   - Workout
   - Diet
   - Meditation
