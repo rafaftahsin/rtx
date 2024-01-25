@@ -2,9 +2,6 @@
 title: OpenCV
 ---
 
-
-
-
 ### How to configure OpenCV C++ dev environment in Ubuntu 22.04
 
 ```shell
@@ -43,6 +40,59 @@ Ref: https://pypi.org/project/opencv-python/#installation-and-usage
 - Youtube
   - https://www.youtube.com/watch?v=2FYm3GOonhk
 
+### K-Means clustering
 
+- https://docs.opencv.org/3.4/d1/d5c/tutorial_py_kmeans_opencv.html
+- https://docs.opencv.org/3.4/d5/d38/group__core__cluster.html#ga9a34dc06c6ec9460e90860f15bcd2f88
 
+### Stiching
 
+- https://docs.opencv.org/4.x/d8/d19/tutorial_stitcher.html
+- https://docs.opencv.org/4.x/d1/d46/group__stitching.html
+- https://github.com/whdlgp/Stitching-tutorial-with-OpenCV/blob/master/parameter_module_setup/parameter_module_setup.md
+- https://pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/
+
+### OpenCV Color Detection
+
+- https://www.geeksforgeeks.org/multiple-color-detection-in-real-time-using-python-opencv/
+
+### How to check opencv version
+
+- https://stackoverflow.com/questions/11030640/how-to-determine-opencv-version
+
+### Hello World OpenCV program
+
+CMakeLists.txt
+```
+cmake_minimum_required(VERSION 3.27)
+project(opencv_hello_world)
+
+set(CMAKE_CXX_STANDARD 17)
+
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+
+add_executable(opencv_hello_world main.cpp)
+target_link_libraries(opencv_hello_world ${OpenCV_LIBS})
+```
+
+main.cpp
+```
+#include <iostream>
+#include <opencv4/opencv2/opencv.hpp>
+#include <opencv4/opencv2/highgui/highgui.hpp>
+
+using namespace cv;
+
+int main() {
+    namedWindow("Output", 1);
+    Mat output = Mat::zeros(120, 350, CV_8UC3);
+    putText(output, "Hello World :)", Point(15, 70), FONT_HERSHEY_PLAIN, 3, Scalar(0,255, 0), 4);
+    imshow("Output", output);
+    waitKey(0);
+    std::printf("Hello World");
+    return 0;
+}
+```
+
+Ref: https://gist.github.com/EyalAr/3940636

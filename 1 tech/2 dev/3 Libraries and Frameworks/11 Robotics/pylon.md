@@ -39,5 +39,31 @@ int main(int argc, char * argv[]) {
 
     return 0;
 }
-
 ```
+
+### pylon Network configuration 
+
+- https://docs.baslerweb.com/network-configuration-%28gige-cameras%29
+
+### pylon recommended NICs
+
+- For 1g GiE 
+  - Intel Pro 1000 series
+  - Intel i210 series
+  - Intel i340 series
+  - Intel i350 series
+- For 5g GigE
+  - Marvell AQtion AQC107
+
+- https://docs.baslerweb.com/hardware-installation-(gige-cameras)#recommended-gige-network-adapters
+
+### ROI 
+
+- https://docs.baslerweb.com/image-roi#c-native
+- https://docs.baslerweb.com/dual-roi
+- https://docs.baslerweb.com/stacked-roi
+
+### Stacked Zone Imaging
+
+- https://docs.baslerweb.com/stacked-zone-imaging
+
