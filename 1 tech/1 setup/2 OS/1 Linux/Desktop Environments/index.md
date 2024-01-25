@@ -11,3 +11,9 @@ title: Linux Desktop Environments
 - Cinnamon
 - MATE
 - GNOME *
+
+### Manage gnome remote rdp session from command line
+
+```shell
+
+```

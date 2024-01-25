@@ -11,8 +11,12 @@ title: Remote Connection
   - MobaXTerm [Windows]
   - Asbru CM [Linux]
 
-### RDP
-
+### Remote Desktop Connection
+- Server
+  - xrdp
+  - vnc (classic)
+  - Ubuntu has built-in Remote Connection gnome-remote-d
+    - For more ... Look up in Ubuntu Desktop Section
 - Client
   - Remmina [Linux]
   - MS Remote Desktop Client
