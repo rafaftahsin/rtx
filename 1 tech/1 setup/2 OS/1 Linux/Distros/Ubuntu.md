@@ -19,9 +19,7 @@ Terminal=false
 
 Ref: https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html
 
-### How to enable bridge network in ubuntu
 
-https://www.tecmint.com/create-network-bridge-in-ubuntu/
 
 
 ### Alow Remote Connection during screen lock
