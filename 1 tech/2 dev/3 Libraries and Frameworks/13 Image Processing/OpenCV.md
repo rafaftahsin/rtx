@@ -39,6 +39,7 @@ Ref: https://pypi.org/project/opencv-python/#installation-and-usage
   - https://www.opencvhelp.org/
 - Youtube
   - https://www.youtube.com/watch?v=2FYm3GOonhk
+- https://learnopencv.com/getting-started-with-opencv/
 
 ### K-Means clustering
 
@@ -96,3 +97,5 @@ int main() {
 ```
 
 Ref: https://gist.github.com/EyalAr/3940636
+
+# 

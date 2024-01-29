@@ -67,3 +67,7 @@ int main(int argc, char * argv[]) {
 
 - https://docs.baslerweb.com/stacked-zone-imaging
 
+### OpenCV pylon
+
+- https://github.com/basler/pypylon/blob/master/samples/opencv.py
+
