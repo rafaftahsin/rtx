@@ -20,6 +20,13 @@ title: c++
 | Queue                  |                                                                                                                                                                   |
 | Tutorial               |                                                                                                                                                                   |
 
+### CPP Other Testing Libraries
+
+- Google Test
+- Catch2
+- doctest
+
+Ref: https://yurigeronimus.medium.com/guide-for-choosing-a-test-framework-for-your-c-project-2a7741b53317
 
 ### Language Specification
 
