@@ -64,72 +64,72 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'setup',
-        path: '1 tech/1 setup',
-        routeBasePath: 'setup',
+        id: 'Workstations',
+        path: '1 tech/1 Workstation',
+        routeBasePath: 'Workstation',
         sidebarPath: './sidebars.js',
       }
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'dev',
-        path: '1 tech/2 dev',
-        routeBasePath: 'dev',
+        id: 'OS',
+        path: '1 tech/2 OS',
+        routeBasePath: 'OS',
         sidebarPath: './sidebars.js',
       }
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'swe',
-        path: '1 tech/3 swe',
-        routeBasePath: 'swe',
+        id: 'Softwares',
+        path: '1 tech/3 Softwares',
+        routeBasePath: 'Softwares',
         sidebarPath: './sidebars.js',
       }
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'dsa',
-        path: '1 tech/4 dsa',
-        routeBasePath: 'dsa',
+        id: 'DSA',
+        path: '1 tech/4 DSA',
+        routeBasePath: 'DSA',
         sidebarPath: './sidebars.js'
       }
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'linux',
-        path: '1 tech/5 linux',
-        routeBasePath: 'linux',
+        id: 'Development',
+        path: '1 tech/5 Development',
+        routeBasePath: 'Development',
         sidebarPath: './sidebars.js'
       }
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'ops',
-        path: '1 tech/6 ops',
-        routeBasePath: 'ops',
+        id: 'Linux',
+        path: '1 tech/6 Linux',
+        routeBasePath: 'Linux',
         sidebarPath: './sidebars.js'
       }
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'sec',
-        path: '1 tech/7 sec',
-        routeBasePath: 'sec',
+        id: 'Operations',
+        path: '1 tech/7 Operations',
+        routeBasePath: 'Operations',
         sidebarPath: './sidebars.js'
       }
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'sys',
-        path: '1 tech/8 sys',
-        routeBasePath: 'sys',
+        id: 'Security',
+        path: '1 tech/8 Security',
+        routeBasePath: 'Security',
         sidebarPath: './sidebars.js'
       }
     ],
