@@ -64,73 +64,10 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'Workstations',
-        path: '1 tech/1 Workstation',
-        routeBasePath: 'Workstation',
+        id: 'tech',
+        path: '1 Tech',
+        routeBasePath: 'tech',
         sidebarPath: './sidebars.js',
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'OS',
-        path: '1 tech/2 OS',
-        routeBasePath: 'OS',
-        sidebarPath: './sidebars.js',
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'Softwares',
-        path: '1 tech/3 Softwares',
-        routeBasePath: 'Softwares',
-        sidebarPath: './sidebars.js',
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'DSA',
-        path: '1 tech/4 DSA',
-        routeBasePath: 'DSA',
-        sidebarPath: './sidebars.js'
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'Development',
-        path: '1 tech/5 Development',
-        routeBasePath: 'Development',
-        sidebarPath: './sidebars.js'
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'Linux',
-        path: '1 tech/6 Linux',
-        routeBasePath: 'Linux',
-        sidebarPath: './sidebars.js'
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'Operations',
-        path: '1 tech/7 Operations',
-        routeBasePath: 'Operations',
-        sidebarPath: './sidebars.js'
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'Security',
-        path: '1 tech/8 Security',
-        routeBasePath: 'Security',
-        sidebarPath: './sidebars.js'
       }
     ],
     [

@@ -1,6 +1,6 @@
 ---
-sidebar_position: 0
-title: Ops
+title: Operations
+sidebar_position: 700
 ---
 
 ### Blogs & Repos

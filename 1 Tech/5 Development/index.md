@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-title: Dev
+title: Development
+sidebar_position: 500
 ---
 
 ### A good Documentation 
