@@ -27,3 +27,9 @@ Ref: https://stackoverflow.com/a/15321456/4814427
 
 Ref: https://stackoverflow.com/questions/48330742/file-encryption-in-git-repository
 
+### How to delete a branch 
+
+Remote: `git push -d <remote_name> <branchname>`
+Local: `git branch -d <branchname>`
+
+Ref: https://stackoverflow.com/a/2003515
