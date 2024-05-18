@@ -1,3 +1,0 @@
----
-title: IT Service Management
----
