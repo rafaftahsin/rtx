@@ -65,7 +65,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'tech',
-        path: '1 Tech',
+        path: '2 Tech',
         routeBasePath: 'tech',
         sidebarPath: './sidebars.js',
       }
@@ -74,7 +74,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'about',
-        path: '4 about',
+        path: '5 About',
         routeBasePath: 'about',
         sidebarPath: './sidebars.js'
       }

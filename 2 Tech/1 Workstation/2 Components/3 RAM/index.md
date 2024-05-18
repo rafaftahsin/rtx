@@ -13,3 +13,6 @@ sudo dmidecode -t 17
 ```shell
 sudo dmidecode -t 16
 ```
+
+### Different RAM Version
+
