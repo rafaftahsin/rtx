@@ -7,6 +7,11 @@ title: Laptops
 - Thinkpad
 
 
+### Why I prefer Thinkpad over MacBook
+
+- Linux acts weirad with Mac Machines
+- Macbook's Wifi devices acts weired with Linux OS
+
 ### ### How to disable laptop keyboard
 
 ```shell
