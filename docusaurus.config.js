@@ -105,41 +105,9 @@ const config = {
           //   position: 'left'
           // },
           {
-            label: 'Tech',
-            items: [
-              {
-                label: 'Setup',
-                to: '/setup'
-              },
-              {
-                label: 'Dev',
-                to: '/dev'
-              },
-              {
-                label: 'SWE',
-                to: '/swe'
-              },
-              {
-                label: 'DSA',
-                to: '/dsa'
-              },
-              {
-                label: 'Linux',
-                to: '/linux'
-              },
-              {
-                label: 'Ops',
-                to: '/ops'
-              },
-              {
-                label: 'Sec',
-                to: '/sec'
-              },
-              {
-                label: 'Sys',
-                to: '/sys'
-              }
-            ]
+            to: '/tech',
+            label: 'Tech-Notes',
+            position: 'left'
           },
           {
             to: '/about',
