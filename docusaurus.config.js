@@ -136,18 +136,25 @@ const config = {
             className: 'stackoverflow-link'
           },
           {
-            to: 'https://github.com/rafaftahsin/rtx',
+            to: 'https://github.com/rafaftahsin',
             // label: 'GitHub',
             position: 'right',
             target: '_blank',
             className: 'github-link'
           },
           {
-            to: 'https://github.com/rafaftahsin/rtx',
+            to: 'https://www.linkedin.com/in/rafaftahsin/',
             // label: 'Linkedin',
             position: 'right',
             target: '_blank',
             className: 'linkedin-link'
+          },
+          {
+            to: 'https://dev.to/rafaftahsin',
+            // label: 'dev.to',
+            position: 'right',
+            target: '_blank',
+            className: 'dev-to-link'
           },
         ],
       },
