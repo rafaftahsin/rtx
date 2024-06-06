@@ -8,6 +8,9 @@
 - [ ] In Ops Documentation - Need to ADD SOP
 - [ ] Need to write a blog on How to configure bridge network
 - [ ] Different Types of Network
+- [ ] All Social Media Links with Icon should be displayed in Left
+- [ ] Should add blog and start writing blog
+- [ ] Should Add a page for CV / Achivements
 
 - Components
   - PS
