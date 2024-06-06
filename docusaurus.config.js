@@ -64,9 +64,18 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'tech',
-        path: '2 Tech',
-        routeBasePath: 'tech',
+        id: 'notes',
+        path: '1 Notes',
+        routeBasePath: 'notes',
+        sidebarPath: './sidebars.js',
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'projects',
+        path: '2 Projects',
+        routeBasePath: 'projects',
         sidebarPath: './sidebars.js',
       }
     ],
@@ -74,7 +83,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'about',
-        path: '5 About',
+        path: '3 About',
         routeBasePath: 'about',
         sidebarPath: './sidebars.js'
       }
@@ -105,13 +114,18 @@ const config = {
           //   position: 'left'
           // },
           {
-            to: '/tech',
-            label: 'Tech-Notes',
+            to: '/notes',
+            label: 'Notes',
+            position: 'left'
+          },
+          {
+            to: '/projects',
+            label: 'Projects',
             position: 'left'
           },
           {
             to: '/about',
-            label: 'about',
+            label: 'About',
             position: 'left'
           },
           {
