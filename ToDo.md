@@ -12,6 +12,7 @@
 - [ ] Should add blog and start writing blog
 - [ ] Should Add a page for CV / Achivements
 - [ ] Should Add mentorship afer mentoring
+- [ ] Need to Add Stackoverflow, LinkedIn
 
 - Components
   - PS

@@ -3,7 +3,10 @@ title: Projects
 sidebar_position: 0
 ---
 
-### Ops Problems to solve
+### Ideas
 
-- https://sadservers.com/scenarios
+1. chirkut
+2. askdhaka
+3. lenden
+4. book management
 

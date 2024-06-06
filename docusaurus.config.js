@@ -129,9 +129,25 @@ const config = {
             position: 'left'
           },
           {
-            href: 'https://github.com/rafaftahsin/rtx',
-            label: 'GitHub',
+            to: 'https://stackoverflow.com/users/4814427/rafaf-tahsin',
+            // label: 'Stackoverflow',
             position: 'right',
+            target: '_blank',
+            className: 'stackoverflow-link'
+          },
+          {
+            to: 'https://github.com/rafaftahsin/rtx',
+            // label: 'GitHub',
+            position: 'right',
+            target: '_blank',
+            className: 'github-link'
+          },
+          {
+            to: 'https://github.com/rafaftahsin/rtx',
+            // label: 'Linkedin',
+            position: 'right',
+            target: '_blank',
+            className: 'linkedin-link'
           },
         ],
       },
