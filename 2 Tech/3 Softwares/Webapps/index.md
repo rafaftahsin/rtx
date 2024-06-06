@@ -71,3 +71,7 @@ https://www.paritydeals.com/
 ### Image Resize
 
 - pic resize
+
+### AI Tools 
+
+- domo ai 

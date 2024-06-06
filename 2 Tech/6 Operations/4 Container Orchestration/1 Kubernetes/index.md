@@ -3,6 +3,11 @@ sidebar_position: 1
 title: Kubernetes
 ---
 
+---
+### Documentation
+
+- https://kubernetes.io/docs/home/
+
 ----
 ### k8s social communities
 
