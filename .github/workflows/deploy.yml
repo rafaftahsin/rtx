@@ -13,5 +13,5 @@ jobs:
         with:
           source-folder: website
           git-user: $SOME_USERNAME
-          git-password: ${{ secrets.GITHUB_TOKEN }}
+          git-password: ${{ secrets.TOKEN }}
           deployment-branch: gh-pages
