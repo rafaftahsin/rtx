@@ -2,10 +2,6 @@
 title: Linux
 ---
 
-
-
-
-
 Linux Tutorials
 
 - https://linuxcommand.org/

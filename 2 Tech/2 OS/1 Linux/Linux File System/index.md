@@ -1,0 +1,20 @@
+---
+title: Linux File System
+---
+
+### mount
+
+### Folder structure 
+
+/root
+/bin
+/sbin/
+/opt 
+
+etc
+
+### Symbolic linking . Hard Link vs solft link
+
+### lvm 
+
+### ext4 vs FAT32 vs NTFS explained

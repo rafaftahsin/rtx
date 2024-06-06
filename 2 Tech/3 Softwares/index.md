@@ -46,6 +46,7 @@ sidebar_position: 300
 - Edge
 - Firefox
 - Opera
+- Lynx [Terminal Browser]
 
 ### Browser Extensions
 
