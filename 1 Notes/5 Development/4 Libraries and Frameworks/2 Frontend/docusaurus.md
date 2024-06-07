@@ -57,11 +57,14 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 ```
-
+---
 ### How to stop minification in build ?
 
 Use `--no-minify` hook in build command. Minification might produce error prone naming for several docusaurus properties.
 
+Ref: https://docusaurus.io/docs/cli#options-1
+
+---
 ### Docusaurus Icon 
 
 - https://docusaurus.io/feature-requests/p/ability-to-use-font-awesome-icons-in-sidebar-and-tabs
