@@ -45,3 +45,20 @@ title: Web Frontend
 ### UI Builders
 
 - Vaaden
+
+### Static Site Generators 
+
+| Name       | Language  | Maintainer |
+|------------|-----------|------------|
+| jekyll     | ruby      | Github     |
+| Hugo       | Go        | Google     |
+| Astro      |           |            |
+| Docusaurus | React, JS | Facebook   |
+| Hexo       |           |            |
+| Eleventy   |           |            |
+| Pelican    | Python    |            |
+
+### WebSite Builder
+
+- Wix
+- Weebly

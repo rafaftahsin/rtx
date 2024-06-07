@@ -2,8 +2,7 @@
 title: Mobile
 ---
 
-### Mobile Application Development Frameworks
+### Cross Platform Mobile App Development Frameworks
 
 - React Native
 - Xamarin
-- Flutter
