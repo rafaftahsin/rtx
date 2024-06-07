@@ -14,6 +14,7 @@ title: Cloud
 - Azure
 - GCP
 - Vultr
+- https://platform9.com/
 
 ### Major Cloud and their services comparison
 

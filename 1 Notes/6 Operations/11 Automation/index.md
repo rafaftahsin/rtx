@@ -3,9 +3,20 @@ sidebar_position: 9
 title: Automation
 ---
 
-Automation
+### Cloud Infrastructure Provision
 
-### Build Automation
+- Terraform
+- Pulumi
 
-- `make`
+### Configuration Management
+
+- Ansible
+- Chef
+- SaltStack
+- Puppet
+
+### Image Build Automation
+
+- Packer
+- Vagrant
 

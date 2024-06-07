@@ -11,7 +11,11 @@ title: CICD
   - Circle CI
   - VCS Integrated
   - Capistrano
+- VCS Backed
+  - GitHub Action
+  - Gitlab CI
+  - Bitbucket Pipeline
 
-Deployment Strategies
+### Deployment Strategies
 
 - https://www.plutora.com/blog/deployment-strategies-6-explained-in-depth
