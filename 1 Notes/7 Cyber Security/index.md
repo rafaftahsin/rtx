@@ -18,7 +18,7 @@ Encryption Techniques
 
 ### Security Compliances
 
-### Oa
+### Owasp
 
 https://owasp.org/
 
@@ -26,3 +26,31 @@ https://owasp.org/
 
 - Kali
 - Parrot
+
+### Pentest Tools
+
+- Packet Analyzer 
+  - Wireshirk
+- Key Logger
+- Devices
+  - Rubber Ducky
+
+### List of attacks
+
+- Phishing
+- Ransomware
+- Malware
+- Man In The Middle attacks
+- SQL Injection
+- DNS Tunnelling
+- Password Attack
+- Spoofing
+- Brute force
+- XSS
+- Trojan
+- Cryptojacking
+- Spyware
+- Code Injection attacks
+- Social Engineering
+- Virus
+- DDoS

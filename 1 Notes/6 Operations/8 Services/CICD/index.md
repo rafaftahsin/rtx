@@ -11,10 +11,10 @@ title: CICD
   - Circle CI
   - VCS Integrated
   - Capistrano
-- VCS Backed
-  - GitHub Action
-  - Gitlab CI
-  - Bitbucket Pipeline
+
+### VCS Backed
+
+- [Development/CICD Pipelines](http://localhost:3000/rtx/notes/5%20Development/9%20CICD%20Pipelines/#vcs-backed-pipelines)
 
 ### Deployment Strategies
 

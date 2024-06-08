@@ -9,4 +9,6 @@ title: Build Tools and Package Managers
 | pip    |            |   |
 | maven  | Java       |   |
 | Gradle | Java       |   |
+| Gem    | Ruby       |   |
+| Cargo  | Rust       |   |
 

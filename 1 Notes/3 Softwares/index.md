@@ -4,21 +4,21 @@ sidebar_position: 300
 ---
 
 ---
-### Creating Writing
+### Office Suits
 
-#### Word 
-  - MS Word
-  - Google Docs
+- Destop Apps
+  - MS Office
   - Libre Office
-
-#### Excel 
-  - Google Sheet
-  - MS Excel
-  - Libre Office Calc
-
-#### MS Presentation 
-  - MS PowerPoint
-  - Libre Office Impress
+- Web Apps
+  - Managed
+    - Google Docs
+    - MS office 365
+    - https://www.onlyoffice.com/
+  - Self Hosted
+    - https://nextcloud.com/office/
+    - https://www.onlyoffice.com/
+    - https://cryptpad.org/
+    - https://www.collaboraoffice.com/
 
 #### AI Writing Tool
   - https://www.linkedin.com/posts/nayeemahmad_20-ai-tools-for-writing-activity-7100492956243017728-QkPF/
@@ -26,6 +26,12 @@ sidebar_position: 300
 
 #### Bangla Keyboard
 - Avro Keyboard
+
+#### Documentation
+- Notion
+- Gitbook
+- Markup Supported Documentations with Static Site Generators
+  - [SSG](http://localhost:3000/rtx/notes/5%20Development/4%20Libraries%20and%20Frameworks/2%20Frontend/#static-site-generators)
 
 ---
 ### Essential Software
@@ -48,7 +54,7 @@ sidebar_position: 300
 - Opera
 - Lynx [Terminal Browser]
 
-### Browser Extensions
+##### Browser Extensions
 
 - Tahir
 - Session Manager
@@ -73,7 +79,7 @@ sidebar_position: 300
 
 #### File Cloud Backup and Sync
 
-- [Link](http://localhost:3000/rtx/ops/7%20Storages/#cloud-storage-with-file-sync)
+- [Discussed in Operations/Storage](./../6%20Operations/9%20Storages/#cloud-storage-with-file-sync)
 
 ----
 ### Graphics Design
@@ -118,6 +124,10 @@ sidebar_position: 300
 - https://www.bluewillow.ai/
 - https://clipdrop.co/pricing
 
+### Image to Cartoon
+
+- domo ai
+
 #### Online Logo Maker
 - Wix Logo Maker
 
@@ -148,4 +158,15 @@ Ref:
 
 - `gpg`
 
+### Productivity Tools
 
+- ToDo 
+  - Google Tasks (*)
+  - MS Todo
+- Short Notes
+  - Google Keep
+  - MS One Note
+  - Apple Notes
+- Calendar
+  - Google Calendar (*)
+  - Apple Calendar

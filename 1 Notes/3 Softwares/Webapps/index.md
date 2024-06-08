@@ -1,5 +1,5 @@
 ---
-title: Bookmarks
+title: Web Bookmarks
 ---
 
 ### Search Engin
@@ -20,8 +20,6 @@ bing
 - Tiktok [ Short Video ]
 - Youtube [ Video ]
 - reddit
-
-
 
 ### p2p file share
 
@@ -62,16 +60,17 @@ https://www.paritydeals.com/
 
 ### Email
 
-- Gmail
-- Yandex
-- Live
-- Yahoo
-- Proton
+- Managed
+  - Gmail
+  - Yandex
+  - Live
+  - Yahoo
+  - Proton
+- [Self Hosted Alternatives](http://localhost:3000/rtx/notes/6%20Operations/8%20Services/Email%20Server/#email-server)
 
 ### Image Resize
 
 - pic resize
 
-### AI Tools 
+### Chat and Collaboration
 
-- domo ai 

@@ -12,7 +12,9 @@
 - [ ] Should add blog and start writing blog
 - [ ] Should Add a page for CV / Achivements
 - [ ] Should Add mentorship afer mentoring
-- [ ] Need to Add Stackoverflow, LinkedIn
+- [ ] Need to Add FAQs, Most Frequest Questions asked in meeting
+- [ ] Need Add Reference section where quotes from people about me will be listed
+- [x] Need to Add Stackoverflow, LinkedIn
 
 - Components
   - PS

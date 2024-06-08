@@ -33,6 +33,7 @@ title: Email Server
 - Dovecot
 - Poste.io
 - Mailbird
+- https://zextras.com/carbonio-community-edition
 
 ### Webmail Servers
 

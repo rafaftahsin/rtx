@@ -2,7 +2,7 @@
 title: Text Audio and Video Collaboration
 ---
 
-### Team Collaboration
+### Chat Collaboration
 
 - Paid
   - Slack
