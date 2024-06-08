@@ -54,3 +54,10 @@ https://owasp.org/
 - Social Engineering
 - Virus
 - DDoS
+
+#### Courses
+
+https://www.isc2.org/landing/1mcc
+https://www.youtube.com/@mehedishakeel
+https://www.youtube.com/@sstectutorials
+https://academy.mehedishakeel.com/
