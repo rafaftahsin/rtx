@@ -79,7 +79,7 @@ sidebar_position: 300
 
 #### File Cloud Backup and Sync
 
-- [Discussed in Operations/Storage](./../6%20Operations/9%20Storages/#cloud-storage-with-file-sync)
+[//]: # (- [Discussed in Operations/Storage]&#40;./../6%20Operations/9%20Storages/#cloud-storage-with-file-sync&#41;)
 
 ----
 ### Graphics Design
