@@ -54,3 +54,9 @@ You can also read more about the differences between `[` and `[[` from [here](ht
 ```shell
 [[ $a == $b ]] && echo "Equal" || echo "Not equal"
 ```
+
+6. One Liner 
+
+```shell
+if [ -d "/var/www/html/" ]; then echo "html Directory exists"; else echo "html Directory not exist "; fi
+```

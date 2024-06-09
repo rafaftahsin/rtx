@@ -15,6 +15,7 @@
 - [ ] Need to Add FAQs, Most Frequest Questions asked in meeting
 - [ ] Need Add Reference section where quotes from people about me will be listed
 - [x] Need to Add Stackoverflow, LinkedIn
+- [ ] Cheatsheets to write - Kubernetes | Linux | Terraform
 
 - Components
   - PS

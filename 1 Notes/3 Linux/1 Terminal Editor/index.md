@@ -8,6 +8,7 @@ title: Terminal Editor
   - vim
   - NeoVim - https://github.com/neovim/neovim
 - EMACS
+- nano
 
 ----
 ### Terminal Multiplexer

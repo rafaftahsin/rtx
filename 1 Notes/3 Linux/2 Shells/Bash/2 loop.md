@@ -3,24 +3,35 @@ sidebar_position: 2
 title: Loop
 ---
 
-- one line while loop
+### one line while loop
 
   ```shell
   while true; do foo; sleep 2; done
   ```
 
-- Export env variable from .env file.
+### Export env variable from .env file.
 
-    ````shell
-    while read line; do export $line; done < .env
-    ````
+```shell
+while read line; do export $line; done < .env
+```
 
-    Ref: https://stackoverflow.com/a/43267479/4814427
+Ref: https://stackoverflow.com/a/43267479/4814427
 
-- for loop
+### for loop
 
-    ```shell
-    for i in `seq 1 10`; do echo $i; done
-    ```
+```shell
+for i in `seq 1 10`; do echo $i; done
+```
 
-    Ref: https://www.cyberciti.biz/faq/bash-for-loop/tutorialspoint.com/bash-break-how-to-exit-from-a-loop 
+Multiline with indentation 
+
+```shell
+for i in `seq 1 10`; 
+do 
+  echo $i; 
+done
+```
+
+Ref: 
+- https://tutorialspoint.com/bash-break-how-to-exit-from-a-loop 
+- https://www.cyberciti.biz/faq/bash-for-loop/tutorialspoint.com/bash-break-how-to-exit-from-a-loop 
