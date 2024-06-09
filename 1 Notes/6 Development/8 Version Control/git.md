@@ -33,3 +33,9 @@ Remote: `git push -d <remote_name> <branchname>`
 Local: `git branch -d <branchname>`
 
 Ref: https://stackoverflow.com/a/2003515
+
+### `git` re add deleted file
+
+`git checkout HEAD src/path/file`
+
+Ref: https://stackoverflow.com/a/22976202/4814427
