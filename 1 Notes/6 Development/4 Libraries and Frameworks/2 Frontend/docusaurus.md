@@ -69,3 +69,9 @@ Ref: https://docusaurus.io/docs/cli#options-1
 
 - https://docusaurus.io/feature-requests/p/ability-to-use-font-awesome-icons-in-sidebar-and-tabs
 - https://docusaurus.community/knowledge/design/svg/
+
+### Disable default `doc`
+
+disable the `docs` plugin using `docs: false` in the preset.
+
+Ref: https://github.com/facebook/docusaurus/discussions/4249#discussioncomment-386564
