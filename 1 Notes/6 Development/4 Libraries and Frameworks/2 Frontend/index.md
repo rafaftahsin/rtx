@@ -30,6 +30,7 @@ title: Web Frontend
 - Radix UI
 
 ### Integration
+
 - Form
   - https://www.jotform.com/
 - Google Review
@@ -58,7 +59,15 @@ title: Web Frontend
 | Eleventy   |           |            |
 | Pelican    | Python    |            |
 
+### SSG deployment options 
+
+- GitHub Pages
+- Netlify
+- https://surge.sh/
+- AWS S3 Static Site
+
 ### WebSite Builder
 
 - Wix
 - Weebly
+

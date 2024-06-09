@@ -21,23 +21,22 @@ title: Cloud
 ![img.png](img.png)
 
 ### PaaS providers
-- Heroku
-- Cloudfoundry
-- render.com
-- dokku
-- https://www.section.io/docs/
-- AWS Amplify
-- Google Firebase / App Engine
-- https://www.amazee.io/ - Container Paas
-- https://supabase.com/
-- Amplication - Backend As a Service
-- Cyclic - https://docs.cyclic.sh/ [ Mostly Containers ]
-- https://platform.sh/
-- rig.dev
-- https://hasura.io/
 
-### In house Cloud 
+- Managed
+  - Heroku
+  - Cloudfoundry
+  - render.com
+  - https://www.section.io/docs/
+  - AWS Amplify
+  - Google Firebase / App Engine
+  - https://www.amazee.io/ - Container Paas
+  - https://supabase.com/ - Firebase Alternative
+  - Amplication - Backend As a Service
+  - Cyclic - https://docs.cyclic.sh/ [ Mostly Containers ]
+  - https://platform.sh/
+  - rig.dev
+  - https://hasura.io/ - GraphQL simplified
+  - https://backendless.com/
+- Self Hosted
+  - - dokku
 
-- [OpenStack](https://www.openstack.org/)
-- [Apache CloudStack](https://cloudstack.apache.org/)
-- [Open Nebula](https://opennebula.io/)

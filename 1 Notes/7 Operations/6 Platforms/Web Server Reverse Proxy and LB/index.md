@@ -2,6 +2,8 @@
 title: Web Server Reverse Proxy and LB
 ---
 
+### List of Web Servers
+
 - Nginx
 - Apache HTTP Server
 - HAProxy
@@ -10,3 +12,11 @@ title: Web Server Reverse Proxy and LB
 - Lighttpd
 - gunicorn
 - LiteSpeed
+
+### Paid Managed Alternatives
+
+- 000WebHost
+
+### Static File Server 
+
+- [Static File Server](https://static-web-server.net/)

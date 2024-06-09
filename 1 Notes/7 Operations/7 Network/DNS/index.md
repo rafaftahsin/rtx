@@ -22,3 +22,8 @@ Ref: https://www.reddit.com/r/selfhosted/comments/9v1eth/selfhosted_dns_recommen
 - NameCheap
 - https://home.omg.lol/
 - .bd and বাংলা domain - https://www.btcl.gov.bd/services/domain 
+
+### Handshake Domain
+
+- https://handshake.org/
+- https://www.namecheap.com/support/knowledgebase/article.aspx/10484/2278/namecheap-handshake-tlds/
