@@ -65,3 +65,8 @@ https://academy.mehedishakeel.com/
 ### Podcasts
 
 - https://darknetdiaries.com/
+
+### Security Compliences
+
+- HIPPA
+- GDPR

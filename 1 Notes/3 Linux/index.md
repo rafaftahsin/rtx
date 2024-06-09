@@ -2,7 +2,7 @@
 title: Linux
 ---
 
-Linux Tutorials
+### Linux Tutorials
 
 - https://linuxcommand.org/
 - https://www.freecodecamp.org/news/the-linux-commands-handbook/
@@ -17,3 +17,16 @@ Linux Tutorials
 ### List all connected network interface
 
 - https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/
+
+### Linux Kernel Development 
+
+- https://openwrt.org/
+- https://www.quora.com/How-do-I-learn-Linux-kernel-development
+- https://kernelnewbies.org/KernelProjects
+- https://kernelnewbies.org/FirstKernelPatch
+
+### Linux Documentation 
+
+- https://tldp.org/
+- https://www.linuxdoc.org/
+- The Linux Command Line - https://ia802505.us.archive.org/13/items/tlcl-19.01/TLCL-19.01.pdf

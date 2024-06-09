@@ -20,3 +20,4 @@ title: Web Server Reverse Proxy and LB
 ### Static File Server 
 
 - [Static File Server](https://static-web-server.net/)
+- `python -m http.server`
