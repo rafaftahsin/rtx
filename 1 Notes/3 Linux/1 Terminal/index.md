@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
 title: Terminal
+sidebar_position: 100
 ---
 ----
 ### Terminal Editors

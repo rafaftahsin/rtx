@@ -1,5 +1,6 @@
 ---
 title: Linux File System
+sidebar_position: 600
 ---
 
 ### mount

@@ -1,5 +1,6 @@
 ---
-title: Linus Distros
+title: Distros and Contents
+sidebar_position: 500
 ---
 
 ### Linux Distros

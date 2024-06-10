@@ -1,5 +1,6 @@
 ---
 title: Command
+sidebar_position: 300
 ---
 
 `who` - List of active users
