@@ -1,0 +1,6 @@
+---
+title: Shebang
+---
+
+#!/bin/bash
+

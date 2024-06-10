@@ -14,3 +14,18 @@ title: Command
 ### System Observability 
 
 ### Math operations with `expr` ... condition with test 
+
+### exposing variables to sub processes with `export` declare set ... 
+
+- 
+
+whoami ... which ... 
+
+
+### System Variables
+
+$PATH
+$USER
+
+
+

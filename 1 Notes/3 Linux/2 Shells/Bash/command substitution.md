@@ -1,0 +1,7 @@
+---
+title: command substitution
+---
+
+$() 
+
+`` 
