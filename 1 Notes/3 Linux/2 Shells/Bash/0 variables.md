@@ -4,5 +4,17 @@ title: Variables
 
 ### Assigning Variables
 
-<i class="fa-brands fa-dev"></i>
+### Shell Variables
 
+$0
+$1
+
+$?
+
+$SHELL
+
+
+### System Variables
+
+$PATH
+$USER

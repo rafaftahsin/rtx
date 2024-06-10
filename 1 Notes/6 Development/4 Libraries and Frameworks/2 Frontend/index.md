@@ -66,8 +66,16 @@ title: Web Frontend
 - https://surge.sh/
 - AWS S3 Static Site
 
+### SSG Toolkit 
+
+https://frontmatter.codes/
+
 ### WebSite Builder
 
 - Wix
 - Weebly
 
+
+### Fontawesoem icons
+
+https://fontawesome.com/

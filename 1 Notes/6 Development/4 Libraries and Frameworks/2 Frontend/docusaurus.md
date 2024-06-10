@@ -75,3 +75,38 @@ Ref: https://docusaurus.io/docs/cli#options-1
 disable the `docs` plugin using `docs: false` in the preset.
 
 Ref: https://github.com/facebook/docusaurus/discussions/4249#discussioncomment-386564
+
+### FontAwesome in docusaurus 
+
+- Install 
+
+```shell
+npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+npm install --save @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons
+```
+
+- Add `src/theme/MDXComponents.js` 
+
+```javascript
+import React from 'react';
+// Import the original mapper
+import MDXComponents from '@theme-original/MDXComponents';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'; // Import the FontAwesomeIcon component.
+import { library } from '@fortawesome/fontawesome-svg-core'; // Import the library component.
+import { fab } from '@fortawesome/free-brands-svg-icons'; // Import all brands icons.
+import { fas } from '@fortawesome/free-solid-svg-icons'; // Import all solid icons.
+
+library.add(fab, fas); // Add all icons to the library so you can use them without importing them individually.
+
+export default {
+    // Re-use the default mapping
+    ...MDXComponents,
+    FAIcon: FontAwesomeIcon, // Make the FontAwesomeIcon component available in MDX as <icon />.
+};
+```
+
+- Use FontAwesome icon 
+
+`<FAIcon icon="fa-brands fa-github" size="4x" /> This is a GitHub icon.`
+
+Ref: https://docusaurus.community/knowledge/design/icons/fontawesome/
