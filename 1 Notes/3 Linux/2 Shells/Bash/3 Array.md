@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Array ${}
+title: Array
 ---
 
 ### Initialization of an Array

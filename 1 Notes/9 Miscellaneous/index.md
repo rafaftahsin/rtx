@@ -1,6 +1,6 @@
 ---
-title: Others
-sidebar_position: 800
+title: Miscellaneous
+sidebar_position: 900
 ---
 
 ### Concentrate

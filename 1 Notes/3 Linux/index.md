@@ -1,5 +1,6 @@
 ---
 title: Linux
+sidebar_position: 300
 ---
 
 ### Linux Tutorials

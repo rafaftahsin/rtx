@@ -1,6 +1,6 @@
 ---
 title: Data Structure and Algorithm
-sidebar_position: 400
+sidebar_position: 500
 ---
 
 ### Curated list
