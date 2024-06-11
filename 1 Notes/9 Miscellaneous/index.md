@@ -26,3 +26,10 @@ sidebar_position: 900
 
 ### Songs to listen during Brainstorming
 
+### Programming Humors
+
+xkcd
+
+Interview Preparation 
+- Hackerrank
+- AlgoExpert

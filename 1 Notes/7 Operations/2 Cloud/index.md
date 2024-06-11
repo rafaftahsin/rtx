@@ -38,5 +38,5 @@ title: Cloud
   - https://hasura.io/ - GraphQL simplified
   - https://backendless.com/
 - Self Hosted
-  - - dokku
+  - dokku
 

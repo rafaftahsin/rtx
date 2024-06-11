@@ -23,9 +23,6 @@ title: Web
 - REST
 - gRPC
 - GraphQL
-- Real Time Communication 
-  - https://webrtc.org/
-- P2P Communication
 
 ### Backend as a Service Providers
 

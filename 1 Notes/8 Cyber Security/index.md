@@ -57,6 +57,8 @@ https://owasp.org/
 
 #### Courses
 
+https://tryhackme.com/
+
 https://www.isc2.org/landing/1mcc
 https://www.youtube.com/@mehedishakeel
 https://www.youtube.com/@sstectutorials
@@ -70,3 +72,5 @@ https://academy.mehedishakeel.com/
 
 - HIPPA
 - GDPR
+
+https://www.hackthebox.com/
