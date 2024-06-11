@@ -1,5 +1,5 @@
 ---
-title: Distros and Contents
+title: Distros and Components
 sidebar_position: 500
 ---
 
