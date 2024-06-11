@@ -1,5 +1,6 @@
 ---
 title: Math
+sidebar_position: 500
 ---
 
 ### How to add numbers in bash ?
@@ -13,4 +14,4 @@ num=$((num1 + 2 + 3))         # ...
 num=$[num1+num2]              # Old, deprecated arithmetic expression syntax
 ```
 
-- https://stackoverflow.com/a/6348941/4814427
+- Ref:  https://stackoverflow.com/a/6348941/4814427

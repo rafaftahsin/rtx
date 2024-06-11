@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 200
 title: Conditions
 ---
 
@@ -9,7 +9,7 @@ title: Conditions
 if print; then echo "foo"; else echo "bar"; fi
 ```
 
-2. There's a command called test to evaluate conditional expression.
+2. There's a command called `test` to evaluate conditional expression.
 
 ```shell
 if test $a -ge $b;
@@ -20,9 +20,9 @@ else
 fi
 ```
 
-see the test command ? It evaluates the conditional expression and return true / false base on the evaluation.
+see the `test` command ? It evaluates the conditional expression and return `true` / `false` based on the evaluation.
 
-3. test is later replaced with `[`.
+3. `test` is later replaced with `[`.
 
 ```shell
 if [ $a -ge $b ];

@@ -3,6 +3,13 @@ title: Command
 sidebar_position: 300
 ---
 
+declare export set let unset 
+
+Condition
+
+`[ = test`
+
+
 `who` - List of active users
 
 #### Encoding 

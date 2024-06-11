@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 300
 title: Loop
 ---
 
@@ -35,3 +35,7 @@ done
 Ref: 
 - https://tutorialspoint.com/bash-break-how-to-exit-from-a-loop 
 - https://www.cyberciti.biz/faq/bash-for-loop/tutorialspoint.com/bash-break-how-to-exit-from-a-loop 
+
+### Other Loops
+
+- [There the `while` loop and `until` loop](https://www.gnu.org/software/bash/manual/html_node/Looping-Constructs.html)

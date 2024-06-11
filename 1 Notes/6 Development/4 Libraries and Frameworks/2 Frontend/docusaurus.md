@@ -110,3 +110,14 @@ export default {
 `<FAIcon icon="fa-brands fa-github" size="4x" /> This is a GitHub icon.`
 
 Ref: https://docusaurus.community/knowledge/design/icons/fontawesome/
+
+### docusaurus front matter 
+
+- https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#markdown-front-matter
+
+### docusaurus plugins
+
+docs-plugin - https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#markdown-front-matter
+blog-plugin - https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
+
+all plugins - https://docusaurus.io/docs/api/plugins

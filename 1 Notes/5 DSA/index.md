@@ -62,3 +62,14 @@ sidebar_position: 500
 - Back Tracking
 - Huffman Compression Algorithm
 
+### Complexity Analysis
+
+- Big O Notation
+
+
+
+### Communities
+
+- https://therealbcs.com/
+  - https://www.facebook.com/the.cooler.bcs
+

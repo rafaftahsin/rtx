@@ -1,7 +1,0 @@
----
-title: Comments
----
-
-```shell
-#
-```

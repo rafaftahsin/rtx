@@ -10,6 +10,9 @@ title: Bash
 - https://github.com/koalaman/shellcheck/wiki/SC2002
 
 
+### bash variable 
+
+
 
 Process substitution 
 Command Substitution 
@@ -26,8 +29,7 @@ Output redirection .. https://www.gnu.org/software/bash/manual/html_node/Redirec
 
 Here String ... https://www.gnu.org/software/bash/manual/html_node/Redirections.html#Here-Strings
 
-
-set export ... declare x 
-
 bash builtin commands ... https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
 https://www.gnu.org/software/bash/manual/html_node/Bourne-Shell-Builtins.html
+
+### Double Quote vs Single Quote
