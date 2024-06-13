@@ -11,6 +11,10 @@ sidebar_position: 300
 - https://www.hackerrank.com/domains/shell
 - https://btholt.github.io/complete-intro-to-linux-and-the-cli/
 
+### Blogs to follow 
+
+- https://www.linuxjournal.com/
+
 ### How to tune Network interface
 
 - https://www.cyberciti.biz/faq/linux-tcp-tuning/

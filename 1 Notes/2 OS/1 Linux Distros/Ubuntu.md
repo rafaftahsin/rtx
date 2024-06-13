@@ -41,3 +41,16 @@ https://askubuntu.com/a/1491181/428566
 Ref: https://www.vpsserver.com/ubuntu-server-remote-desktop/
 
 
+### Ubuntu Split Window
+
+Shortcut : 
+
+Split to The Left : Window + <- 
+Split to The Right : Winodows + -> 
+
+
+Or
+
+drag the window all the way to the left or right edge of the screen.
+
+Ref: https://askubuntu.com/questions/586424/how-do-i-display-two-windows-as-split-screen
