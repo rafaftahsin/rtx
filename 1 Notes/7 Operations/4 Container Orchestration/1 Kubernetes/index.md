@@ -49,3 +49,8 @@ title: Kubernetes
 
 ### Reverse Proxy
 - https://traefik.io/traefik/
+
+### Cheat sheet and quick reference
+
+https://kubernetes.io/docs/reference/kubectl/quick-reference/
+

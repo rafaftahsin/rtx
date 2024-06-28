@@ -45,9 +45,9 @@ Ref: https://www.vpsserver.com/ubuntu-server-remote-desktop/
 
 Shortcut : 
 
-Split to The Left : Window + <- 
-Split to The Right : Winodows + -> 
-
+Split to The Left : `Window + <- `
+Split to The Right : `Winodows + ->` 
+`
 
 Or
 
