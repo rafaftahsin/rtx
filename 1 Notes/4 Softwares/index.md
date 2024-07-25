@@ -142,13 +142,9 @@ sidebar_position: 400
   - KeePassXC
 
 #### VPN
-- VPN Unlimited
-- Cyberghost
 
-Ref: 
 
-- VPN Service comparison - https://www.listvpn.net, https://vpnstore.com.
-- For personal self hosted or office VPN 
+Ref:
 
 #### DNS Settings
 - 1.1.1.1
