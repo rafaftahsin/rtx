@@ -51,3 +51,8 @@ Ref: https://yurigeronimus.medium.com/guide-for-choosing-a-test-framework-for-yo
 
 - https://www.linkedin.com/pulse/what-good-tools-unit-testing-c-maria-martin/
 - https://www.jetbrains.com/help/clion/unit-testing-tutorial.html
+
+
+### c++ `virtual` base class
+
+https://www.geeksforgeeks.org/virtual-base-class-in-c/

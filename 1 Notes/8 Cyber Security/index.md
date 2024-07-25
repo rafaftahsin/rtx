@@ -7,6 +7,7 @@ sidebar_position: 800
 
 Encryption Techniques
 - RSA Algorithm
+- https://safecurves.cr.yp.to/
 
 ### Offensive Security
 
@@ -74,3 +75,5 @@ https://academy.mehedishakeel.com/
 - GDPR
 
 https://www.hackthebox.com/
+
+https://wazuh.com/
