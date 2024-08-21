@@ -10,5 +10,6 @@ sidebar_position: 500
 - Fedora - Developer Centric
 - Kali - Pentest
 - ZorinOS
+- https://nixos.org/
 
 Ref: https://distrowatch.com/

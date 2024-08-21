@@ -13,6 +13,7 @@ sidebar_position: 100
 ----
 ### Terminal Multiplexer
 - tmux
+  - https://github.com/tmux/tmux/wiki/Installing
 
 ----
 ### Terminal Session Manager

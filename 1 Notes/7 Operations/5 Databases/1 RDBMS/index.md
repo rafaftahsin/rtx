@@ -36,3 +36,8 @@ In short, a database transaction is a sequence of multiple operations performed 
 ----
 
 ### ACID
+
+
+### Database Cluster with master replication
+
+- https://galeracluster.com/
