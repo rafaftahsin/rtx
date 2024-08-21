@@ -105,6 +105,7 @@ sidebar_position: 400
 
 #### Audio Editing
   - Audacity
+  - melodyne audio
 
 #### Live Streaming
   - Veed.io

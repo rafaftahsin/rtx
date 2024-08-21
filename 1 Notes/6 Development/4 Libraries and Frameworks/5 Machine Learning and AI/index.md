@@ -15,3 +15,8 @@ Auto Encoder -> https://www.geeksforgeeks.org/auto-encoders/
 - https://llama.meta.com/
 - https://claude.ai/
 
+
+### Cloud Alternative 
+
+- https://www.cloudera.com/why-cloudera/enterprise-ai.html
+
