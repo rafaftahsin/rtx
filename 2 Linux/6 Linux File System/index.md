@@ -14,7 +14,7 @@ sidebar_position: 600
 
 etc
 
-### Symbolic linking . Hard Link vs solft link
+### Symbolic linking . Hard Link vs soft link
 
 ### lvm 
 

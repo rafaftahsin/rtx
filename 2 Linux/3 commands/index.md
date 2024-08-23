@@ -21,6 +21,20 @@ Condition
 
 ### System Observability 
 
+- Network
+  - dig
+  - netstat
+  - ip
+  - ifconfig
+  - ethtool
+  - nmap
+- Monitoring
+  - top
+  - htop
+  - ps
+- kill
+- 
+
 ### Math operations with `expr` ... condition with test 
 
 ### exposing variables to sub processes with `export` declare set ... 
@@ -37,3 +51,6 @@ $USER
 
 
 
+### Directory traverse
+
+- ls
