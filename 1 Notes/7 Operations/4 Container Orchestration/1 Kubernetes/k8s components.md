@@ -49,3 +49,7 @@ title: k8s components
 
    - Ref: k8s Arch -> https://www.clickittech.com/devops/kubernetes-architecture-diagram/
    - Ref: https://dev.to/clickit_devops/openshift-vs-kubernetes-the-unfair-battle-6f2 
+
+### Ingress
+
+- https://kubernetes.io/docs/concepts/services-networking/ingress/
