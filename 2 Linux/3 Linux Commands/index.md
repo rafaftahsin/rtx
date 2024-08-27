@@ -3,8 +3,27 @@ title: Linux Commands
 sidebar_position: 30
 ---
 
-### Input 
+### File Navigation
 
+- pwd
+- ls
+- cd
+- tree
+- find
+- which
+
+### Linux Folder Structure
+
+https://linuxcommand.org/lc3_lts0040.php
+
+### Identifying command
+
+- type
+- which
+- help
+- man
+
+### Input
 
 - echo
 - input 
@@ -30,7 +49,6 @@ sidebar_position: 30
 - find
 - which
 
-
 ### File Content
 
 - cat 
@@ -39,6 +57,7 @@ sidebar_position: 30
 - touch
 - head
 - tail
+- file
 
 ### Update File
 
@@ -67,7 +86,7 @@ sidebar_position: 30
 - dh
 - df
 
-### Shell Variable
+### Shell Variable declaration
 
 - declare 
 - export 
@@ -78,11 +97,12 @@ sidebar_position: 30
 
 ### Condition
 
-`[ = test`
+- [ or test
 
 ### User and Permission Management
 
-- `who` - List of active users
+- who
+  - List of active users
 - passwd
 - whoami - active user
 
@@ -111,3 +131,7 @@ sidebar_position: 30
 ### Encoding
 
 `base64`
+
+### List of command as Reference
+
+- https://linuxcommand.org/lc3_man_page_index.php
