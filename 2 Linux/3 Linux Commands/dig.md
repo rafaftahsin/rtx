@@ -46,3 +46,7 @@ $ dig +short rfft.nl
 185.199.109.153
 ```
 
+### References
+
+- https://serverfault.com/questions/740245/how-to-find-what-authoritative-name-server-provided-the-answer-using-dig
+
