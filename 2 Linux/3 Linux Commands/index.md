@@ -1,137 +1,93 @@
 ---
 title: Linux Commands
 sidebar_position: 30
+
 ---
 
-### File Navigation
+## Linux File System
 
-- pwd
-- ls
-- cd
-- tree
-- find
-- which
+- ### File System Commands
+
+| Purpose         | Commands                                      |
+|-----------------|-----------------------------------------------|
+| File Navigation | `pwd`, `ls`, `cd`, `tree`, `find`, `which`    |
+| File Content    | `cat`, `diff`, `less`, `head`, `tail`, `file` |
+| File Manipulate | `cp`, `mv`, `rm`, `mkdir`, `touch`            |
+| File Permission | `chown`, `chmod`                              |
+| Link File       | `ln`                                          |
+
 
 ### Linux Folder Structure
 
-https://linuxcommand.org/lc3_lts0040.php
+- https://linuxcommand.org/lc3_lts0040.php
 
-### Identifying command
+### Difference between Short Link and Hard Link
 
-- type
-- which
-- help
-- man
+- https://stackoverflow.com/questions/185899/what-is-the-difference-between-a-symbolic-link-and-a-hard-link
 
-### Input
-
-- echo
-- input 
-- xclip 
+---
 
 ### Text Processing
 
-- cut
-- tr
-- sort
-- uniq
-- paste
-- awk
-- grep
-- sed
+- `cut`
+- `tr`
+- `sort`
+- `uniq`
+- `paste`
+- `awk`
+- `grep`
+- `sed`
 
-### File Navigation
+---
 
-- pwd
-- ls
-- cd
-- tree
-- find
-- which
+### Identifying command
 
-### File Content
+- `alias`
+  - makes alias of a command
+- `type`
+  - type of the file
+- `help`
+  - help
+- `man`
+  - Manual of a command
 
-- cat 
-- diff
-- less
-- touch
-- head
-- tail
-- file
+---
+### terminal io
 
-### Update File
+- `echo`
+- `input`
+- `xclip` 
+- `tee`
 
-- cp
-- mv
-- rm 
-- mkdir
-- tee
-
-### Linux File System
-
-- chmod
-- chown
-- ln
-
+---
 ### Remote Connection
 
-- ssh
-- scp 
-- rsync
+- `ssh`
+- `scp`
+- `rsync`
+---
 
-### Disk Management
+## Diagnostic and Management Tools
 
-- dd
-- du
-- dh
-- df
+| Purpose                    | Commands                                                         |
+|----------------------------|------------------------------------------------------------------|
+| Disk Management            | `du`, `dd`, `dh`, `df`                                           |
+| Network Diagnoses          | `dig`, `netstat`, `ip`, `ifconfig`, `ethtool`, `nmap`, `tracert` |
+| System Resource Monitoring | `top`, `htop`                                                    |
+| Process Management         | `ps`, `kill`, `pkill`                                            |
 
-### Shell Variable declaration
+---
 
-- declare 
-- export 
-- set 
-- let 
-- unset
-  exposing variables to sub processes with `export` declare set
+### Math operations 
 
-### Condition
+- `expr`
 
-- [ or test
-
-### User and Permission Management
-
-- who
-  - List of active users
-- passwd
-- whoami - active user
-
-### Network Diagnosis Tools
-
-- dig
-- netstat
-- ip
-- ifconfig
-- ethtool
-- nmap
-- tracert
-
-### System Resource Monitoring
-  - top
-  - htop
-
-### Process Monitoring
-  - ps
-  - kill
-  - pkill
-
-### Math operations with `expr` ... condition with test 
-
-
+---
 ### Encoding
 
-`base64`
+- `base64`
 
+---
 ### List of command as Reference
 
 - https://linuxcommand.org/lc3_man_page_index.php

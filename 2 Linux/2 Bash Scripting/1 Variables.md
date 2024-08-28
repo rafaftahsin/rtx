@@ -47,5 +47,13 @@ bash-3.2$
 | `$USER`                  | Shell Username                   |
 
 
+### Shell Variable declaration
+
+- declare
+- export
+- set
+- let
+- unset
+
 
 
