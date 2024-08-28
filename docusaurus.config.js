@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Rafaf Tahsin',
   tagline: 'Rafaf Tahsin',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/r.png',
 
   // Set the production url of your site here
   url: 'https://rfft.nl',
@@ -110,7 +110,7 @@ const config = {
         title: 'Rafaf Tahsin',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/r.png',
         },
         items: [
           // {

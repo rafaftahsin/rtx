@@ -1,5 +1,5 @@
 ---
-title: Kernel Virtual Machine (KVM)
+title: Kernel Virtual Machine
 ---
 
 KVM

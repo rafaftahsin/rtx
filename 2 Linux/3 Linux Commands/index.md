@@ -8,13 +8,14 @@ sidebar_position: 30
 
 - ### File System Commands
 
-| Purpose         | Commands                                      |
-|-----------------|-----------------------------------------------|
-| File Navigation | `pwd`, `ls`, `cd`, `tree`, `find`, `which`    |
-| File Content    | `cat`, `diff`, `less`, `head`, `tail`, `file` |
-| File Manipulate | `cp`, `mv`, `rm`, `mkdir`, `touch`            |
-| File Permission | `chown`, `chmod`                              |
-| Link File       | `ln`                                          |
+| Purpose         | Commands                                           |
+|-----------------|----------------------------------------------------|
+| File Navigation | `pwd`, `ls`, `cd`, `tree`, `find`, `which`         |
+| File Content    | `cat`, `diff`, `less`, `head`, `tail`, `file`      |
+| File Manipulate | `cp`, `mv`, `rm`, `mkdir`, `touch`, `zip`, `unzip` |
+| File Permission | `chown`, `chmod`                                   |
+| Link File       | `ln`                                               |
+| Open File List  | `lsof`                                             |
 
 
 ### Linux Folder Structure
@@ -72,27 +73,31 @@ sidebar_position: 30
 - `ssh`
 - `scp`
 - `rsync`
+- `wget`
+- `curl`
+
 ---
 
 ## Diagnostic and Management Tools
 
-| Purpose                    | Commands                                                         |
-|----------------------------|------------------------------------------------------------------|
-| Disk Management            | `du`, `dd`, `dh`, `df`                                           |
-| Network Diagnoses          | `dig`, `netstat`, `ip`, `ifconfig`, `ethtool`, `nmap`, `tracert` |
-| System Resource Monitoring | `top`, `htop`                                                    |
-| Process Management         | `ps`, `kill`, `pkill`                                            |
+| Purpose                    | Commands                                                                                                                      |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Disk Management            | `du`, `dd`, `dh`, `df`                                                                                                        |
+| System Resource Monitoring | `top`, `htop`                                                                                                                 |
+| Process Management         | `ps`, `kill`, `pkill`                                                                                                         |
 
 ---
+### Miscellaneous Tools
 
-### Math operations 
+| Command  | Description                                                            |
+|----------|------------------------------------------------------------------------|
+| `base64` | Base64 Encoding and Decoding                                           |
+| `expr`   | Math Expression                                                        |
+| `cal`    | Visual Calendar in Terminal                                            |
+| `sl`     | Coz you don't always end up typing ls                                  |
+| `cowsay` | Because `cowsay -f dragon "Run for cover, I feel a sneeze coming on."` |
+| `date`   | Linux date utility                                                     |
 
-- `expr`
-
----
-### Encoding
-
-- `base64`
 
 ---
 ### List of command as Reference
