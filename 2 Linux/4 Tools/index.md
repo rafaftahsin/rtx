@@ -1,4 +1,4 @@
 ---
 title: Tools
-sidebar_position: 400
+sidebar_position: 40
 ---

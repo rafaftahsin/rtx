@@ -1,14 +1,7 @@
 ---
 title: Terminal
-sidebar_position: 100
+sidebar_position: 10
 ---
-----
-### Terminal Editors
-- vi
-  - vim
-  - NeoVim - https://github.com/neovim/neovim
-- EMACS
-- nano
 
 ----
 ### Terminal Multiplexer

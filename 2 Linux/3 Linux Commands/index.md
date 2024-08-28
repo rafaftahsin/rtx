@@ -25,6 +25,10 @@ sidebar_position: 30
 
 - https://stackoverflow.com/questions/185899/what-is-the-difference-between-a-symbolic-link-and-a-hard-link
 
+### Understanding stderr and stout stream
+
+- https://www.reddit.com/r/bash/comments/w522np/understanding_stdin_stdout_and_stderr/
+
 ---
 
 ### Text Processing
@@ -51,12 +55,15 @@ sidebar_position: 30
 - `man`
   - Manual of a command
 
+### Command execution
+
+- `source`
+- `./filename`
+
 ---
 ### terminal io
 
 - `echo`
-- `input`
-- `xclip` 
 - `tee`
 
 ---
