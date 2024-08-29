@@ -32,19 +32,6 @@ sidebar_position: 30
 
 ---
 
-### Text Processing
-
-- `cut`
-- `tr`
-- `sort`
-- `uniq`
-- `paste`
-- `awk`
-- `grep`
-- `sed`
-
----
-
 ### Identifying command
 
 - `alias`
@@ -55,6 +42,7 @@ sidebar_position: 30
   - help
 - `man`
   - Manual of a command
+
 
 ### Command execution
 
@@ -97,6 +85,7 @@ sidebar_position: 30
 | `sl`     | Coz you don't always end up typing ls                                  |
 | `cowsay` | Because `cowsay -f dragon "Run for cover, I feel a sneeze coming on."` |
 | `date`   | Linux date utility                                                     |
+| `lynx`   | cli web browser                                                        |
 
 
 ---
