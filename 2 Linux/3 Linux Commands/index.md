@@ -68,11 +68,12 @@ sidebar_position: 30
 
 ## Diagnostic and Management Tools
 
-| Purpose                    | Commands                                                                                                                      |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Disk Management            | `du`, `dd`, `dh`, `df`                                                                                                        |
-| System Resource Monitoring | `top`, `htop`                                                                                                                 |
-| Process Management         | `ps`, `kill`, `pkill`                                                                                                         |
+| Purpose                    | Commands               |
+|----------------------------|------------------------|
+| Disk Management            | `du`, `dd`, `dh`, `df` |
+| Memory ( RAM ) Diagnosis   | `free`                 |
+| System Resource Monitoring | `top`, `htop`          |
+| Process Management         | `ps`, `kill`, `pkill`  |
 
 ---
 ### Miscellaneous Tools
