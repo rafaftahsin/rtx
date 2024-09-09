@@ -1,8 +1,8 @@
 ---
-title: Server OS
+title: VPS Hosting
 ---
 
-### Linux Based
+### OS
 
 - RedHat Enterprise Linux
 - Windows Server
