@@ -20,3 +20,7 @@ title: Automation
 - Packer
 - Vagrant
 
+### Difference between Vagrant and Packer 
+
+https://groups.google.com/g/packer-tool/c/4lB4OqhILF8
+

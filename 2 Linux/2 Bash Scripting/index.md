@@ -46,3 +46,8 @@ bash builtin commands ... https://www.gnu.org/software/bash/manual/html_node/Bas
 https://www.gnu.org/software/bash/manual/html_node/Bourne-Shell-Builtins.html
 
 ### Double Quote vs Single Quote
+
+
+### Unlimited bash history 
+
+https://stackoverflow.com/questions/9457233/unlimited-bash-history

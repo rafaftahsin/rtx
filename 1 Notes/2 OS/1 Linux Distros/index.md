@@ -11,5 +11,6 @@ sidebar_position: 500
 - Kali - Pentest
 - ZorinOS
 - https://nixos.org/
+- https://www.deepin.org/index/en
 
 Ref: https://distrowatch.com/

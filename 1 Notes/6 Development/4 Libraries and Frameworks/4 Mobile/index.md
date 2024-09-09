@@ -6,3 +6,9 @@ title: Mobile
 
 - React Native
 - Xamarin
+
+### Mobile OS
+- iOS
+- Android
+- FirefoxOS
+- KaiOS
