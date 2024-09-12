@@ -46,3 +46,13 @@ sudo apt install php-mysqli
 ### Some cool features of php
 
 - https://www.youtube.com/watch?v=ZRV3pBuPxEQ 
+
+### Dockerization of php application
+
+```Dockerfile
+FROM php:7.4-apache
+RUN docker-php-source extract && docker-php-ext-install mysqli && docker-php-source delete
+COPY --chown=www-data:www-data htdocs /var/www/html
+```
+
+Ref: https://hub.docker.com/_/php
