@@ -47,3 +47,12 @@ https://stackoverflow.com/a/5083681/4814427
 
 In Finder, click on Finder at the top of the screen, then Preferences. Underneath Show these items on the desktop make sure External Disks is checked. 
 
+### Mouse Smoother 
+
+- https://linearmouse.app/
+  - Yet to review
+- https://www.plentycom.jp/en/cursorsense/index.html
+  - Yet to review
+
+Ref: https://forums.macrumors.com/threads/a-way-to-make-the-mouse-pointer-feel-like-windows.2330656/
+
