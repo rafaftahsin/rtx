@@ -31,7 +31,7 @@ Move Window to Left Side of Screen : ⌃⌥⌘←
 Move Window to Right Side of Screen : ⌃⌥⌘→
 
 Ref: https://medium.com/@mohsen-vaziri/mac-keyboard-shortcuts-for-moving-app-windows-bdff89e2d163
-
+- https://machow2.com/split-screen-on-mac/
 ### Mac Keyboard shortcut for screen Lock ... 
 
 Just simply press the power button
@@ -42,3 +42,8 @@ System Preferences => Keyboard => increase Key Repeat Rate
 System Preferences => Keyboard => Delay Until Repeat
 
 https://stackoverflow.com/a/5083681/4814427
+
+### How to show connected mounted harddisk/pendrive in mac ?
+
+In Finder, click on Finder at the top of the screen, then Preferences. Underneath Show these items on the desktop make sure External Disks is checked. 
+
