@@ -167,3 +167,14 @@ Ref:
 - Calendar
   - Google Calendar (*)
   - Apple Calendar
+
+### SSH Connection Manager 
+
+- Windows 
+  - MobaXTerm
+- Linux (GNOME Desktop)
+  - [Gnome Connection Manager](https://github.com/kuthulux/gnome-connection-manager/tree/master)
+- MacOS
+  - tarmius
+
+Ref: https://www.geeksforgeeks.org/best-ssh-client-for-mac/

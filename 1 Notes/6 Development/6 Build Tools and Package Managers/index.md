@@ -6,7 +6,8 @@ title: Build Tools and Package Managers
 |--------|------------|---|
 | make   |            |   |
 | npm    | JavaScript |   |
-| pip    |            |   |
+| pip    | Python     |   |
+| pipx   | Python     |   |
 | maven  | Java       |   |
 | Gradle | Java       |   |
 | Gem    | Ruby       |   |

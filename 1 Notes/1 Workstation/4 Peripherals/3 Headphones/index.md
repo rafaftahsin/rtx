@@ -14,3 +14,8 @@ title: Headphones
 - jabra
 - sony
 - beats [overrated to me]
+
+### Difference between ANC and ENC
+
+ANC - Active Noise Cancellation [ Filters out Noise from your speaker ]
+ENC - Environment Noise Cancellation [ Filters out Noise from your mic ]

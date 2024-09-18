@@ -2,21 +2,21 @@
 title: python
 ---
 
-| Feature                | Tool                                         |
-|------------------------|----------------------------------------------|
-| Language               | python                                       |
-| MVC FrameWork          | Django                                       |
-| Other Web Framework    | FastAPI<br/>flask                            |
-| ORM                    | SQLAlchemy                                   |
-| DB Access Library      |                                              |
-| IDE                    | PyCharm                                      |
-| Server                 | gunicorn                                     |
-| Package Manager        | pip                                          |
-| Related Other Tools    | virtualenv                                   |
-| Artifactory Repository |                                              |
-| Test                   |                                              |
-| Queue                  | RQ                                           |
-| Tutorial               | [DJango Girls](https://djangogirls.org/en/)  |
+| Feature                | Tool                                        |
+|------------------------|---------------------------------------------|
+| Language               | python                                      |
+| MVC FrameWork          | Django                                      |
+| Other Web Framework    | FastAPI<br/>flask                           |
+| ORM                    | SQLAlchemy                                  |
+| DB Access Library      |                                             |
+| IDE                    | PyCharm                                     |
+| Server                 | gunicorn                                    |
+| Package Manager        | pip, pipx                                   |
+| Related Other Tools    | virtualenv                                  |
+| Artifactory Repository |                                             |
+| Test                   |                                             |
+| Queue                  | RQ                                          |
+| Tutorial               | [DJango Girls](https://djangogirls.org/en/) |
 
 
 ----
