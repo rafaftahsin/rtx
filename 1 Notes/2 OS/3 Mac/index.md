@@ -36,3 +36,9 @@ Ref: https://medium.com/@mohsen-vaziri/mac-keyboard-shortcuts-for-moving-app-win
 
 Just simply press the power button
 
+### How to increase cursor speed in Mac ? 
+
+System Preferences => Keyboard => increase Key Repeat Rate
+System Preferences => Keyboard => Delay Until Repeat
+
+https://stackoverflow.com/a/5083681/4814427
