@@ -56,3 +56,6 @@ In Finder, click on Finder at the top of the screen, then Preferences. Underneat
 
 Ref: https://forums.macrumors.com/threads/a-way-to-make-the-mouse-pointer-feel-like-windows.2330656/
 
+### How to turn off Check for
+- https://support.examsoft.com/hc/en-us/articles/11145629796877-How-to-Disable-Automatic-Operating-System-Updates#:~:text=On%20your%20Mac%2C%20choose%20Apple,next%20to%20the%20information%20icon.
+
