@@ -59,3 +59,6 @@ Ref: https://forums.macrumors.com/threads/a-way-to-make-the-mouse-pointer-feel-l
 ### How to turn off Check for
 - https://support.examsoft.com/hc/en-us/articles/11145629796877-How-to-Disable-Automatic-Operating-System-Updates#:~:text=On%20your%20Mac%2C%20choose%20Apple,next%20to%20the%20information%20icon.
 
+### Quickly align scattered folders
+
+- Quickly realign icons: Choose Clean Up after right click
