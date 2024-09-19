@@ -50,3 +50,10 @@ sudo lvextend -r -l +100%FREE <root logical volume name from above step>
 ```
 
 Ref: https://unix.stackexchange.com/a/583544/158650
+
+
+### how to establishing a bridge
+
+- https://oper.io/?p=Ubuntu_Bridging_Network_Interfaces
+- https://www.tecmint.com/create-network-bridge-in-ubuntu/
+- 
