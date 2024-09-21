@@ -26,3 +26,38 @@ Ref: https://www.digitalocean.com/community/tutorials/how-to-view-and-update-the
 ### How to change hostname 
 
 Ref: https://phoenixnap.com/kb/ubuntu-20-04-change-hostname
+
+### How to increase a lvm partition
+
+1. Run below command to get PV (Physical Volume) name (Ex: /dev/sda1)
+
+```
+sudo pvs
+```
+
+2. Resize the PV (Ex: sudo pvresize /dev/sda1)
+
+```
+sudo pvresize <PV name from above step>   
+``` 
+
+3. Run below command to get root logical volume name (Filesystem value of / row; ex: /dev/mapper/ubuntu--vg-root)
+
+```
+df -h
+```
+
+4. Expand logical volume (ex : sudo lvextend -r -l +100%FREE /dev/mapper/ubuntu--vg-ubuntu--lv):
+
+```
+sudo lvextend -r -l +100%FREE <root logical volume name from above step>
+```
+
+Ref: https://unix.stackexchange.com/a/583544/158650
+
+
+### how to establishing a bridge
+
+- https://oper.io/?p=Ubuntu_Bridging_Network_Interfaces
+- https://www.tecmint.com/create-network-bridge-in-ubuntu/
+- 

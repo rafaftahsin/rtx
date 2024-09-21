@@ -39,6 +39,7 @@ sidebar_position: 400
 #### Image Burner
 
 - Etcher
+- Rufus
 
 #### Media Player
 
