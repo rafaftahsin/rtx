@@ -178,3 +178,10 @@ Ref:
   - tarmius
 
 Ref: https://www.geeksforgeeks.org/best-ssh-client-for-mac/
+
+
+### API Testing 
+
+- postman
+- https://www.thunderclient.com/ (VS Code Extension)
+- https://testfully.io/

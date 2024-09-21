@@ -23,3 +23,6 @@ Persist the change in `.bashrc` file if you need to automatically update it in e
 
 Ref: https://www.digitalocean.com/community/tutorials/how-to-view-and-update-the-linux-path-environment-variable
 
+### How to change hostname 
+
+Ref: https://phoenixnap.com/kb/ubuntu-20-04-change-hostname

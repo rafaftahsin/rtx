@@ -24,3 +24,8 @@ title: Automation
 
 https://groups.google.com/g/packer-tool/c/4lB4OqhILF8
 
+
+### Identity and Authorization Automation 
+
+- Boundary
+

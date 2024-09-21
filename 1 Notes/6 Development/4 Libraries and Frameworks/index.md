@@ -10,4 +10,8 @@ title: Libraries and Frameworks
 
 ### CMS 
 
-- Wordpress
+- Wordpress 
+
+### Automatic API Documentation 
+
+- Swagger
