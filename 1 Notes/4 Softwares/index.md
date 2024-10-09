@@ -175,8 +175,10 @@ Ref:
   - MobaXTerm
 - Linux (GNOME Desktop)
   - [Gnome Connection Manager](https://github.com/kuthulux/gnome-connection-manager/tree/master)
+  - xpipe (better than Gnome Connection Manager)
 - MacOS
   - tarmius
+  - xpipe (Better than tarmius)
 
 Ref: https://www.geeksforgeeks.org/best-ssh-client-for-mac/
 

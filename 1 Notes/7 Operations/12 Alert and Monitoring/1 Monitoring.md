@@ -23,15 +23,13 @@ sidebar_position: 1
 - AlertLogic [Cyber Threat Detector]
 - collectd.org
 
-### API Endpoint Monitoring [Synthetic Monitor]
+### Api Endpoint Monitoring [Synthetic Monitor]
 - Site24x7
 - pingdom
-- Testfully
-- Postman
-- Runscope
-- Datadog Synthetic Testing & Monitoring
-- 
-
+- RunScope 
+- testfully
+- postman
+- datadog
 
 ### Paging
 - PagerDuty
