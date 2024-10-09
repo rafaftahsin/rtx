@@ -14,3 +14,7 @@ Ref: https://pve.proxmox.com/wiki/Qemu-guest-agent
 
 - https://registry.terraform.io/providers/Telmate/proxmox/latest/docs
 
+### Fatal glibc error: CPU does not support x86-64-v2
+
+change the CPU type of VM 
+> Hardware section> processors> Type= "host" instead of "x86-64-v2"

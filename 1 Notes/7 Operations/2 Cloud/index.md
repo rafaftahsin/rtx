@@ -22,7 +22,7 @@ title: Cloud
 
 ### PaaS providers
 
-- Managed
+- Zero DevOps Cloud
   - Heroku
   - Cloudfoundry
   - render.com
@@ -37,6 +37,7 @@ title: Cloud
   - rig.dev
   - https://hasura.io/ - GraphQL simplified
   - https://backendless.com/
+  - Stackhero
 - Self Hosted
   - dokku
 
