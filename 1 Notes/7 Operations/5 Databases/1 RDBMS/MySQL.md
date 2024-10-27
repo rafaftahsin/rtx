@@ -45,3 +45,8 @@ Edit /etc/mysql/mysql.conf.d/mysqld.cnf file.
 change `bind-address = 127.0.0.1` to `bind-address = 0.0.0.0`
 
 Ref: https://phoenixnap.com/kb/mysql-remote-connection
+
+### What is TableSpace in mysql?
+
+https://stackoverflow.com/a/39116665/4814427
+
