@@ -20,3 +20,8 @@ http://www.lagmonster.org/docs/vi.html
 
 http://stackoverflow.com/a/3665058/4814427
 
+### Set line numbers in vim editor
+
+set nu
+
+Ref: https://www.cyberciti.biz/faq/how-to-display-line-number-in-vim/

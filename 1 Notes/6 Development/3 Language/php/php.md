@@ -56,3 +56,9 @@ COPY --chown=www-data:www-data htdocs /var/www/html
 ```
 
 Ref: https://hub.docker.com/_/php
+
+
+### How to install php 7.4 in ubuntu
+
+https://www.digitalocean.com/community/tutorials/how-to-install-php-7-4-and-set-up-a-local-development-environment-on-ubuntu-20-04
+
