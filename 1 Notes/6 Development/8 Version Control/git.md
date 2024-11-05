@@ -39,3 +39,7 @@ Ref: https://stackoverflow.com/a/2003515
 `git checkout HEAD src/path/file`
 
 Ref: https://stackoverflow.com/a/22976202/4814427
+
+### How revert to a previous commit in remote
+
+https://hackernoon.com/how-to-delete-commits-from-remote-in-git

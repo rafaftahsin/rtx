@@ -60,5 +60,9 @@ Ref: https://hub.docker.com/_/php
 
 ### How to install php 7.4 in ubuntu
 
+Ref: https://vitux.com/how-to-install-php-72-73-74-on-ubuntu-22-04/
 https://www.digitalocean.com/community/tutorials/how-to-install-php-7-4-and-set-up-a-local-development-environment-on-ubuntu-20-04
 
+### composer
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04
