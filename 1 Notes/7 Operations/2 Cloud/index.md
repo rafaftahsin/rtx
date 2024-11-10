@@ -15,6 +15,7 @@ title: Cloud
 - GCP
 - Vultr
 - https://platform9.com/
+- Huaweicloud
 
 ### Major Cloud and their services comparison
 

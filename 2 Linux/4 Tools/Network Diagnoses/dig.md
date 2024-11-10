@@ -50,3 +50,8 @@ $ dig +short rfft.nl
 
 - https://serverfault.com/questions/740245/how-to-find-what-authoritative-name-server-provided-the-answer-using-dig
 
+### dig txt 
+
+dig +short -t txt  domain
+
+Ref: https://serverfault.com/questions/148721/linux-command-to-inspect-txt-records-of-a-domain
