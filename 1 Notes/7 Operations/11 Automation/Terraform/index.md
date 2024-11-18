@@ -28,3 +28,21 @@ resource "aws_elb" "example" {
 ### How to save an arbitary value in tf state ?
 
 Save the value as a variable and output the value as output.
+
+### terraform AWS main file example 
+
+```
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = "~> 5.0"
+    }
+  }
+}
+
+# Configure the AWS Provider
+provider "aws" {
+  region = "us-east-1"
+}
+```

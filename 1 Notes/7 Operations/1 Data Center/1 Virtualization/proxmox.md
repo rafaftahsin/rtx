@@ -18,3 +18,8 @@ Ref: https://pve.proxmox.com/wiki/Qemu-guest-agent
 
 change the CPU type of VM 
 > Hardware section> processors> Type= "host" instead of "x86-64-v2"
+
+### Performance tweaks
+
+https://pve.proxmox.com/wiki/Performance_Tweaks
+

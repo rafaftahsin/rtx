@@ -25,3 +25,12 @@ http://stackoverflow.com/a/3665058/4814427
 set nu
 
 Ref: https://www.cyberciti.biz/faq/how-to-display-line-number-in-vim/
+
+### VIM on mac 
+
+Enable press and hold - https://github.com/VSCodeVim/Vim#mac 
+
+I think only `defaults write -g ApplePressAndHoldEnabled -bool false` this is enough.
+
+Ref: https://github.com/VSCodeVim/Vim/issues/1407
+

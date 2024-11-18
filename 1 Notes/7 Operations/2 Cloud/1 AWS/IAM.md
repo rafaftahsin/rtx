@@ -39,3 +39,35 @@ aws iam get-policy --policy-arn arn:aws:iam::aws:policy/ReadOnlyAccess
     }
 }
 ```
+
+### AWS IAM AssumeRole for only Members listed in role 
+
+```
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "arn:aws:iam::555555555555:root"
+      },
+      "Action": "sts:AssumeRole",
+      "Condition": {
+        "StringEquals": {
+          "aws:username": [
+            "jecarter",
+            "wjclinton",
+            "bhobama",
+            "jrbiden"
+          ]
+        },
+        "Bool": {
+          "aws:MultiFactorAuthPresent": "true"
+        }
+      }
+    }
+  ]
+}
+```
+
+Ref: https://gswallow.medium.com/aws-iam-restrict-sts-assume-role-to-specific-users-4cb308247d7
