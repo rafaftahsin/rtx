@@ -14,3 +14,8 @@ sidebar_position: 0
    7. Childhood box game
 8. 
 9. Lenden
+10. Small File Server to share file
+a. https://ably.com/tutorials/web-rtc-file-transfer#receiving-files
+b. https://sharedrop.io/
+c. https://www.reddit.com/r/WebRTC/comments/1cgjclt/i_made_a_webrtc_filesharing_web_without_the/
+d. https://medium.com/@AkashHamirwasia/new-ways-of-sharing-files-across-devices-over-the-web-using-webrtc-2554abaeb2e6

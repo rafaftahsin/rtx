@@ -25,3 +25,7 @@ https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?vi
 
 https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-environment-variables?view=sql-server-linux-ver15
 
+### MSSQL DUMP
+
+- https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-backup-and-restore-database?view=sql-server-ver16
+
