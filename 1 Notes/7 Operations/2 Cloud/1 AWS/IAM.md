@@ -71,3 +71,38 @@ aws iam get-policy --policy-arn arn:aws:iam::aws:policy/ReadOnlyAccess
 ```
 
 Ref: https://gswallow.medium.com/aws-iam-restrict-sts-assume-role-to-specific-users-4cb308247d7
+
+### S3 Object Access with IP restriction
+
+```
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListBucket",
+                "s3:ListBucketVersions",
+                "s3:GetBucketLocation",
+                "s3:PutObject",
+                "s3:PutObjectAcl"
+            ],
+            "Resource": [
+                "arn:aws:s3:::example-bucket-name",
+                "arn:aws:s3:::example-bucket-name/*",
+            ],
+            "Condition": {
+                "IpAddress": {
+                    "aws:SourceIp": [
+                        "0.0.0.0",
+                        "1.1.1.1",
+                        "2.2.2.2",
+                        "4.4.4.4"
+                    ]
+                }
+            }
+        }
+    ]
+}
+```
