@@ -29,3 +29,12 @@ https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-environme
 
 - https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-backup-and-restore-database?view=sql-server-ver16
 
+
+
+### MSSQL Server Linux - SA Password change 
+
+```
+/opt/mssql/bin/mssql-conf set-sa-password
+```
+
+Ref: https://www.sqlservercentral.com/blogs/reset-sa-password-on-sql-server-on-linux
