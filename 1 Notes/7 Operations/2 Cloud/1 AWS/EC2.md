@@ -29,3 +29,8 @@ aws ec2 modify-image-attribute \
 
 - Ref: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/sharingamis-explicit.html0.
 
+### AWS EC2 SSM Policy 
+
+- `AmazonSSMManagedInstanceCore`
+- `AmazonSSMPatchAssociation`
+
