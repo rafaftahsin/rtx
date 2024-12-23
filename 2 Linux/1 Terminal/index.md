@@ -42,3 +42,9 @@ Ref: https://www.tutorialspoint.com/how-to-record-linux-terminal-sessions
 exec -l $SHELL
 ```
 
+### Shells
+
+- Bash
+- zsh
+- Fish
+

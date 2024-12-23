@@ -10,3 +10,7 @@ https://www.jenkins.io/doc/book/system-administration/admin-password-reset-instr
 
 https://www.jenkins.io/doc/book/installing/linux/
 
+### Role Based Authorization 
+
+https://plugins.jenkins.io/role-strategy/
+
