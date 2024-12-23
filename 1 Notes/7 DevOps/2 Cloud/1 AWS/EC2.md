@@ -38,3 +38,20 @@ aws ec2 modify-image-attribute \
 
 - From Instance - https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport-prerequisites.html
 - From AMI - https://docs.aws.amazon.com/vm-import/latest/userguide/prerequisites-image-export.html
+
+### AWS Export Command 
+
+- Create Task
+
+```
+aws ec2 create-instance-export-task --instance-id i-067e656355d00e91c --target-environment vmware --export-to-s3-task DiskImageFormat=vmdk,ContainerFormat=ova,S3Bucket=bucket-name --profile profile-name --region region-name
+```
+
+- Describe Task
+
+```
+aws ec2 describe-export-tasks --export-task-ids export-i-9486d2dd5b4e4744t --profile profile-name --region region-name
+```
+
+
+
