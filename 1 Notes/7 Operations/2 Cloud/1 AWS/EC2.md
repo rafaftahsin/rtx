@@ -34,3 +34,7 @@ aws ec2 modify-image-attribute \
 - `AmazonSSMManagedInstanceCore`
 - `AmazonSSMPatchAssociation`
 
+### AWS EC2 Image Export
+
+- From Instance - https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport-prerequisites.html
+- From AMI - https://docs.aws.amazon.com/vm-import/latest/userguide/prerequisites-image-export.html
