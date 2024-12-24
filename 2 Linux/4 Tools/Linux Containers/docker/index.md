@@ -26,3 +26,11 @@ newgrp docker
 ```
 
 Ref: https://docs.docker.com/engine/install/linux-postinstall/
+
+
+### docker-compose file location 
+
+`docker inspect` -> 
+
+`"com.docker.compose.project.working_dir": "/home/ubuntu/sheba/projects/partner/docker/composes"`
+
