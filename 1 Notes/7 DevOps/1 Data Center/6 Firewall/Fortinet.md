@@ -41,3 +41,11 @@ WantedBy=multi-user.target
 ```
 
 Ref: https://github.com/adrienverge/openfortivpn/issues/93
+
+### Fortinet ping options
+
+```
+execute ping-options source  172.31.6.230
+execute ping 172.31.6.229
+```
+
