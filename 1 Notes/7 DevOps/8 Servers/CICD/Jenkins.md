@@ -14,3 +14,8 @@ https://www.jenkins.io/doc/book/installing/linux/
 
 https://plugins.jenkins.io/role-strategy/
 
+
+### Jenkins Bitbucket Plugin
+
+https://plugins.jenkins.io/bitbucket/
+
