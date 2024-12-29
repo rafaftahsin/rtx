@@ -53,3 +53,7 @@ execute ping 172.31.6.229
 
 /etc/openfortivpn/my-config
 
+### Assign Public IP to vpn client 
+
+- https://www.youtube.com/watch?v=1iTvQ1ZA0wU
+

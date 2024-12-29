@@ -77,3 +77,8 @@ https://academy.mehedishakeel.com/
 https://www.hackthebox.com/
 
 https://wazuh.com/
+
+
+### Cyber Sec Tools
+
+- https://shop.hak5.org/products/usb-rubber-ducky

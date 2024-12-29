@@ -17,7 +17,9 @@ sidebar_position: 2
 - https://vector.dev/ and https://github.com/toshi-search/Toshi
 -
 
-### Error Logging
+Ref: https://www.reddit.com/r/selfhosted/comments/cgpyi9/selfhosted_lightweight_alternative_to_elk_stack/
+
+### Error Logging 
 
 - Rollbar
 - Sentry

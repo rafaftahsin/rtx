@@ -38,3 +38,9 @@ https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-environme
 ```
 
 Ref: https://www.sqlservercentral.com/blogs/reset-sa-password-on-sql-server-on-linux
+
+### MSSQL Replication Policy and replica Server 
+
+- Availability Group - https://www.youtube.com/watch?v=BqgbzsDQMXY
+- Failover Cluster - https://www.youtube.com/watch?v=BqgbzsDQMXY&t=4s
+- Replication Server - https://www.youtube.com/watch?v=0eW6XO0DDEo&t=78s

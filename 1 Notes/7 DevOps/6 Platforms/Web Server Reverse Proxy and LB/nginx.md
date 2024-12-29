@@ -40,3 +40,8 @@ Ref: https://paigekim29.medium.com/understanding-x-forwarded-for-header-settings
 ### Handling CORS with nginx 
 
 - https://stackoverflow.com/questions/45986631/how-to-enable-cors-in-nginx-proxy-server
+
+### nginx simple http credential
+
+https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-http-basic-authentication/
+
