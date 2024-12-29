@@ -74,3 +74,12 @@ https://www.paritydeals.com/
 
 ### Chat and Collaboration
 
+- Telegram
+- Slack
+- skype
+- Mattermost
+
+### Screen Recorder
+
+- Screencastify
+- loom 
