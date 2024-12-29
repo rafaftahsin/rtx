@@ -6,6 +6,7 @@ title: SSL Certificate
 
 - Free
   - Lets Encrypt
+  - Zero SSL
 - Paid
   - DigiCert
   - NameCheap
