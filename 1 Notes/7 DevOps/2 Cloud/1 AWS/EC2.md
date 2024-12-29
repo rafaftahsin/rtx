@@ -34,17 +34,18 @@ aws ec2 modify-image-attribute \
 - `AmazonSSMManagedInstanceCore`
 - `AmazonSSMPatchAssociation`
 
+
 ### AWS EC2 Image Export
 
 - From Instance - https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport-prerequisites.html
 - From AMI - https://docs.aws.amazon.com/vm-import/latest/userguide/prerequisites-image-export.html
 
-### AWS Export Command 
+### AWS Export Command to create image for Oracle or other compatibility
 
 - Create Task
 
 ```
-aws ec2 create-instance-export-task --instance-id i-067e656355d00e91c --target-environment vmware --export-to-s3-task DiskImageFormat=vmdk,ContainerFormat=ova,S3Bucket=bucket-name --profile profile-name --region region-name
+aws ec2 create-instance-export-task --instance-id i-yfyufguyhgjh4354 --target-environment vmware --export-to-s3-task DiskImageFormat=vmdk,ContainerFormat=ova,S3Bucket=bucket-name --profile profile-name --region region-name
 ```
 
 - Describe Task
