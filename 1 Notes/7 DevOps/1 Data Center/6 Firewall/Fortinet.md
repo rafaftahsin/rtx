@@ -49,3 +49,7 @@ execute ping-options source  172.31.6.230
 execute ping 172.31.6.229
 ```
 
+### Config location 
+
+/etc/openfortivpn/my-config
+

@@ -14,3 +14,7 @@ https://wiki.archlinux.org/title/systemd/Timers
 
 - After each configuration reload
 
+#### Systemd unit file locations 
+
+- /etc/systemd/system
+- /lib/systemd/system

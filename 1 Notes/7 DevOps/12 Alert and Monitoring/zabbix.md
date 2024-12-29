@@ -39,3 +39,13 @@ Ref:
 - https://www.zabbix.com/forum/zabbix-help/404114-zabbix-agent2-shows-docker-offline
 - https://www.zabbix.com/forum/zabbix-troubleshooting-and-problems/400109-zabbix-5-0-0beta1-ubuntu-18-04-i-add-template-app-docker-get-error-not-supported#post400163
 
+### zabbix_get -> command not found ... 
+
+You need to install zabbix -get ... as of this forum ... but I'm not convinced. This should have been installed by default.
+
+Ref:  https://mangolassi.it/topic/12935/zabbix-gone-wild/21?page=2
+
+### docker monitoring with zabbix
+
+https://www.digitalocean.com/community/tutorials/how-to-monitor-docker-using-zabbix-on-ubuntu-20-04
+
