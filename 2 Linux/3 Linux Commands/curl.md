@@ -34,3 +34,5 @@ curl -s -o /dev/null -w "%{http_code}" https://www.facebook.com
 ```
 
 Ref: https://superuser.com/questions/272265/getting-curl-to-output-http-status-code
+
+### Curl with host 
