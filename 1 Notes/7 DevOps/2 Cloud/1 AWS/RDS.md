@@ -21,3 +21,8 @@ aws rds describe-db-parameters --db-parameter-group-name accounting-param-group 
 Ref: https://repost.aws/knowledge-center/rds-identify-modified-parameters
 
 
+### AWS RDS SQL Server option group to enable Backup & Restore
+
+- SQLSERVER_BACKUP_RESTORE 
+
+Ref: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.SQLServer.Options.BackupRestore.html

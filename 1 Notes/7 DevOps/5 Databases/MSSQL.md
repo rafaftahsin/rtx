@@ -28,7 +28,7 @@ https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-environme
 ### MSSQL DUMP
 
 - https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-backup-and-restore-database?view=sql-server-ver16
-
+- https://sqlbak.com/blog/how-to-backup-and-restore-sql-server-on-linux/
 
 
 ### MSSQL Server Linux - SA Password change 
