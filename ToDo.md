@@ -34,3 +34,7 @@
 - CNCF
 
 ### ¯\_(ツ)_/¯
+
+https://www.reddit.com/r/selfhosted/comments/17wub9j/looking_for_a_selfhosted_web_proxy/
+
+https://github.com/awesome-selfhosted/awesome-selfhosted#proxy
