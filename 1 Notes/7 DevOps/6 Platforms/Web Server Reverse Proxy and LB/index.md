@@ -31,3 +31,5 @@ Ref: https://ubuntu.com/server/docs/how-to-use-nginx-modules
 ### enabled nginx modules 
 
 /etc/nginx/modules-enabled/
+
+ls -al /usr/share/nginx/modules-available/

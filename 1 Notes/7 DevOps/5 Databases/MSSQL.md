@@ -31,6 +31,10 @@ https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-environme
 - https://sqlbak.com/blog/how-to-backup-and-restore-sql-server-on-linux/
 
 
+```
+sqlcmd -S <db-host> -U admin -Q 'BACKUP DATABASE [test-database] TO DISK = "/backups/sql-server/full.bak";'
+```
+
 ### MSSQL Server Linux - SA Password change 
 
 ```
