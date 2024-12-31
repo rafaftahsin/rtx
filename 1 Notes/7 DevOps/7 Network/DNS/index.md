@@ -22,6 +22,9 @@ Ref: https://www.reddit.com/r/selfhosted/comments/9v1eth/selfhosted_dns_recommen
 - NameCheap
 - https://home.omg.lol/
 - .bd and বাংলা domain - https://www.btcl.gov.bd/services/domain 
+- Freenom - https://www.freenom.com/en/index.html
+
+Ref: https://www.reddit.com/r/selfhosted/comments/1akyqir/freenom_gone_what_is_my_free_alternatives/
 
 ### Handshake Domain
 

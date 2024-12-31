@@ -9,3 +9,6 @@ title: Security
 
 - Adguard
 
+### CORS check 
+
+https://cors-test.codehappy.dev/

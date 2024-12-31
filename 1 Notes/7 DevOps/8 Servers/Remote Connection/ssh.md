@@ -21,3 +21,7 @@ title: ssh
 
 - https://www.reddit.com/r/commandline/comments/pusfjw/command_line_ssh_connection_manager/
 - https://www.ssh.com/academy/ssh/config
+
+### WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!
+
+ssh-keygen -R 192.168.3.10

@@ -50,3 +50,7 @@ Ref: https://phoenixnap.com/kb/mysql-remote-connection
 
 https://stackoverflow.com/a/39116665/4814427
 
+
+### How to install on ubuntu 
+
+https://ubuntu.com/server/docs/install-and-configure-a-mysql-server
