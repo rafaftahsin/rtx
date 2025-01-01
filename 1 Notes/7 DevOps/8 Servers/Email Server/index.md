@@ -42,3 +42,5 @@ title: Email Server
 ### Cloud Mail
 
 - https://mailshake.com/
+- MailGun
+

@@ -12,3 +12,10 @@ sudo mv composer.phar /usr/local/bin/composer
 
 Ref: https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart
 
+
+### Composer bitbucket github login 
+
+https://getcomposer.org/doc/articles/authentication-for-private-packages.md#bitbucket-oauth
+
+
+
