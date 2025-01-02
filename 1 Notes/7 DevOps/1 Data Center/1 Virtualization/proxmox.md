@@ -23,3 +23,12 @@ change the CPU type of VM
 
 https://pve.proxmox.com/wiki/Performance_Tweaks
 
+
+### How to change password of a guest vm using `qm`
+
+
+
+#### pve doc
+
+- https://pve.proxmox.com/pve-docs/pve-admin-guide.html#intro_central_management
+

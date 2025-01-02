@@ -45,3 +45,13 @@ Ref: https://paigekim29.medium.com/understanding-x-forwarded-for-header-settings
 
 https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-http-basic-authentication/
 
+### Can't Upload file over 5M
+
+```
+http {
+   # some code here
+   sendfile on;
+   client_max_body_size 888M;
+   #...
+}
+```
