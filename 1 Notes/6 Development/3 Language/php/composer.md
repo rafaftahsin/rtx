@@ -18,4 +18,16 @@ Ref: https://www.digitalocean.com/community/tutorials/how-to-install-composer-on
 https://getcomposer.org/doc/articles/authentication-for-private-packages.md#bitbucket-oauth
 
 
+Note: it doesn't generate token in bitbucket if callback url is not set. 
 
+Ref: 
+
+### Install specific version of composer 
+
+```
+php composer-setup.php --version=1.0.0-alpha8
+```
+
+Ref: 
+- https://getcomposer.org/download/
+- https://schophel.wordpress.com/2021/01/19/how-to-downgrade-or-install-a-specific-version-of-composer/

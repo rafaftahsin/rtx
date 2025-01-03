@@ -32,3 +32,6 @@ https://pve.proxmox.com/wiki/Performance_Tweaks
 
 - https://pve.proxmox.com/pve-docs/pve-admin-guide.html#intro_central_management
 
+### CLI Tools
+
+- https://pve.proxmox.com/wiki/Command_Line_Tools

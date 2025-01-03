@@ -32,3 +32,8 @@ title: Virtualization
 ### Difference betwee lxc and lxd
 
 - https://documentation.ubuntu.com/lxd/en/latest/explanation/lxd_lxc/
+
+### Image configuration 
+
+- cloud-init
+- virt-customize
