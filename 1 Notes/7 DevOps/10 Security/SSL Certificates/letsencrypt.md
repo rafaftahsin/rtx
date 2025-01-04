@@ -25,3 +25,5 @@ pip3 install certbot-dns-route53
 certbot certonly -d api-gateway.abcd.xyz --preferred-challenges dns-01 --manual --register-unsafely-without-email --agree-tos
 
 Ref: https://medium.com/@pi_45757/generate-a-lets-encrypt-certificate-using-certbot-and-dns-validation-47b41ab012d7
+
+### This certificate will not be renewed automatically. Autorenewal of --manual certificates requires the use of an authentication hook script (--manual-auth-hook) but one was not provided. To renew this certificate, repeat this same certbot command before the certificate's expiry date.
