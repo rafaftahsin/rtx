@@ -22,6 +22,6 @@ pip3 install certbot-dns-route53
 
 ### certbot dns
 
-certbot certonly -d api-gateway.shebapay.xyz --preferred-challenges dns-01 --manual --register-unsafely-without-email --agree-tos
+certbot certonly -d api-gateway.abcd.xyz --preferred-challenges dns-01 --manual --register-unsafely-without-email --agree-tos
 
 Ref: https://medium.com/@pi_45757/generate-a-lets-encrypt-certificate-using-certbot-and-dns-validation-47b41ab012d7
