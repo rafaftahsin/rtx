@@ -15,7 +15,8 @@ sidebar_position: 2
 - [Loki](https://grafana.com/oss/loki/)
 - https://www.sexilog.fr/
 - https://vector.dev/ and https://github.com/toshi-search/Toshi
--
+- Wajuh
+- BetterStack
 
 Ref: https://www.reddit.com/r/selfhosted/comments/cgpyi9/selfhosted_lightweight_alternative_to_elk_stack/
 
