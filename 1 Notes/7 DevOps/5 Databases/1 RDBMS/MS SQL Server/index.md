@@ -50,15 +50,23 @@ https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?vi
 
 https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-environment-variables?view=sql-server-linux-ver15
 
-### MSSQL DUMP
+### MSSQL DB Backup
+
+```
+sqlcmd -S <db-host> -U admin -Q 'BACKUP DATABASE [test-database] TO DISK = "/backups/sql-server/full.bak";'
+```
+
+Differential Backup 
+
+```
+sqlcmd -S <db-host> -U admin -Q 'BACKUP DATABASE [test-database] TO DISK = "/backups/sql-server/full.bak" WITH DIFFERENTIAL;'
+```
 
 - https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-backup-and-restore-database?view=sql-server-ver16
 - https://sqlbak.com/blog/how-to-backup-and-restore-sql-server-on-linux/
 
 
-```
-sqlcmd -S <db-host> -U admin -Q 'BACKUP DATABASE [test-database] TO DISK = "/backups/sql-server/full.bak";'
-```
+
 
 ### MSSQL Server Linux - SA Password change 
 
@@ -73,3 +81,4 @@ Ref: https://www.sqlservercentral.com/blogs/reset-sa-password-on-sql-server-on-l
 - Availability Group - https://www.youtube.com/watch?v=BqgbzsDQMXY
 - Failover Cluster - https://www.youtube.com/watch?v=BqgbzsDQMXY&t=4s
 - Replication Server - https://www.youtube.com/watch?v=0eW6XO0DDEo&t=78s
+
