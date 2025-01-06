@@ -70,16 +70,15 @@ sqlcmd -S <host> -U sa -Q "BACKUP DATABASE db_name TO DISK = N'/var/opt/mssql/da
 
 ### Restore DB from Backup
 
-IF you run from `sqlcmd`, add corresponding `sqlcmd` command
 
 ```
-RESTORE DATABASE Adventureworks FROM DISK = 'D:\Adventureworks_full.bak'
+sqlcmd -S <host> -U sa -Q "RESTORE DATABASE db_name FROM DISK = './db_name.bak';"
 ```
 
 If you are going to continue with restoring differential or transaction log backups after that, you need to add the `NORECOVERY` option. This will leave the backup process in a restoring state and allow you to restore extra differential or transaction log backups.
 
 ```
-RESTORE DATABASE Adventureworks FROM DISK = 'D:\Adventureworks_full.bak' WITH NORECOVERY
+sqlcmd -S <host> -U sa -Q "RESTORE DATABASE db_name FROM DISK = './db_name.bak' WITH NORECOVERY;"
 ```
 
 Insight: 
