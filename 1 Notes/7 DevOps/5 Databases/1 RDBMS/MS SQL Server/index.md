@@ -66,7 +66,17 @@ sqlcmd -S <db-host> -U admin -Q 'BACKUP DATABASE [test-database] TO DISK = "/bac
 - https://sqlbak.com/blog/how-to-backup-and-restore-sql-server-on-linux/
 
 
+### Restore DB from Backup
 
+```
+RESTORE DATABASE Adventureworks FROM DISK = 'D:\Adventureworks_full.bak'
+```
+
+If you are going to continue with restoring differential or transaction log backups after that, you need to add the `NORECOVERY` option. This will leave the backup process in a restoring state and allow you to restore extra differential or transaction log backups.
+
+```
+RESTORE DATABASE Adventureworks FROM DISK = 'D:\Adventureworks_full.bak' WITH NORECOVERY
+```
 
 ### MSSQL Server Linux - SA Password change 
 
