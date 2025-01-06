@@ -55,13 +55,13 @@ https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-environme
 ### MSSQL DB Backup
 
 ```
-sqlcmd -S <db-host> -U admin -Q 'BACKUP DATABASE [test-database] TO DISK = "/backups/sql-server/full.bak";'
+sqlcmd -S <host> -U sa -Q "BACKUP DATABASE db_name TO DISK = N'/var/opt/mssql/data/db_name.bak';"
 ```
 
 Differential Backup 
 
 ```
-sqlcmd -S <db-host> -U admin -Q 'BACKUP DATABASE [test-database] TO DISK = "/backups/sql-server/full.bak" WITH DIFFERENTIAL;'
+sqlcmd -S <host> -U sa -Q "BACKUP DATABASE db_name TO DISK = N'/var/opt/mssql/data/db_name.bak' WITH DIFFERENTIAL;"
 ```
 
 - https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-backup-and-restore-database?view=sql-server-ver16
