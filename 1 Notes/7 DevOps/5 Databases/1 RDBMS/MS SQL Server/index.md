@@ -42,6 +42,8 @@ CREATE LOGIN username WITH PASSWORD = 'P455W0RD';
 
 sqlcmd -S tcp:hostname,1433 -U username -P P455W0RD -C
 
+Ref: https://www.sqlservercentral.com/blogs/reset-sa-password-on-sql-server-on-linux
+
 ### Install MSSQL Server on ubuntu
 
 https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2004
@@ -68,6 +70,8 @@ sqlcmd -S <db-host> -U admin -Q 'BACKUP DATABASE [test-database] TO DISK = "/bac
 
 ### Restore DB from Backup
 
+IF you run from `sqlcmd`, add corresponding `sqlcmd` command
+
 ```
 RESTORE DATABASE Adventureworks FROM DISK = 'D:\Adventureworks_full.bak'
 ```
@@ -78,13 +82,38 @@ If you are going to continue with restoring differential or transaction log back
 RESTORE DATABASE Adventureworks FROM DISK = 'D:\Adventureworks_full.bak' WITH NORECOVERY
 ```
 
+Insight: 
+
+1
+
+The file 'D:\Adventureworks_full.bak' must be in the host where DB is running. 
+
+For DB Hosted in linux platform, if you specify `FROM DISK = './Adventureworks_full.bak'`, it will try to open `/var/opt/mssql/data/Adventureworks_full.bak`
+
 ### MSSQL Server Linux - SA Password change 
 
 ```
 /opt/mssql/bin/mssql-conf set-sa-password
 ```
 
-Ref: https://www.sqlservercentral.com/blogs/reset-sa-password-on-sql-server-on-linux
+2
+
+Error while restoring: `The backup set holds a backup of a database other than the existing`
+
+Use: `WITH REPLACE`
+
+Ref: https://stackoverflow.com/questions/10204480/sql-server-the-backup-set-holds-a-backup-of-a-database-other-than-the-existing
+
+3 
+
+To Restore DB from Windows to Linux 
+
+```
+sqlcmd -S <host> -U sa -Q "RESTORE DATABASE db_name FROM DISK = './db_name.bak' WITH REPLACE, MOVE 'db_name' TO '/var/opt/mssql/data/db_name.mdf', MOVE 'db_name_Log' TO '/var/opt/mssql/data/db_name_Log.ldf';"
+```
+- https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-migrate-restore-database?view=sql-server-ver16
+
+
 
 ### MSSQL Replication Policy and replica Server 
 
