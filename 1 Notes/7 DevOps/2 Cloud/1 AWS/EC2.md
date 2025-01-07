@@ -31,9 +31,10 @@ aws ec2 modify-image-attribute \
 
 ### AWS EC2 SSM Policy 
 
-- `AmazonSSMManagedInstanceCore`
+- `AmazonSSMManagedInstanceCore` *** 
 - `AmazonSSMPatchAssociation`
 
+Ref: https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/connect-to-an-amazon-ec2-instance-by-using-session-manager.html
 
 ### AWS EC2 Image Export
 

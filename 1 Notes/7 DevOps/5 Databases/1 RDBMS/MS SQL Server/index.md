@@ -120,3 +120,9 @@ sqlcmd -S <host> -U sa -Q "RESTORE DATABASE db_name FROM DISK = './db_name.bak' 
 - Failover Cluster - https://www.youtube.com/watch?v=BqgbzsDQMXY&t=4s
 - Replication Server - https://www.youtube.com/watch?v=0eW6XO0DDEo&t=78s
 
+
+### Trust Certificate 
+
+`-C`
+
+
