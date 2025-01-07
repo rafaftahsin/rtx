@@ -10,4 +10,6 @@ su - <username> -c "<commands>"
 
 ### Run as a user without a shell configured
 
+```
 su - <username> -s '/bin/bash' # or other shell -c <command>
+```

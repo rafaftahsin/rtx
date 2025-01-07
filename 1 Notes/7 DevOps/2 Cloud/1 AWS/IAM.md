@@ -109,6 +109,7 @@ Ref: https://gswallow.medium.com/aws-iam-restrict-sts-assume-role-to-specific-us
 
 ### AWS S3 Full Access to a single bucket
 
+```
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -145,6 +146,8 @@ Ref: https://gswallow.medium.com/aws-iam-restrict-sts-assume-role-to-specific-us
         }
     ]
 }
+```
+
 
 ### System Admin with MFA
 
