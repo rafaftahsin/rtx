@@ -1,5 +1,5 @@
 ---
-title: Ubuntu 20.04
+title: Ubuntu
 ---
 
 ### Desktop File Example
@@ -18,8 +18,6 @@ Terminal=false
 ```
 
 Ref: https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html
-
-
 
 
 ### Alow Remote Connection during screen lock

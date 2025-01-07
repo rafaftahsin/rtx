@@ -1,5 +1,6 @@
 ---
-title: DaaS
+title: Cloud Desktop
+sidebar_position: 300
 ---
 
 ### Desktop As A Service

@@ -1,5 +1,5 @@
 ---
-title: Data Structure and Algorithm
+title: DSA
 sidebar_position: 500
 ---
 

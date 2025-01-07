@@ -1,5 +1,5 @@
 ---
-title: Operating System
+title: Desktop OS
 sidebar_position: 200
 ---
 

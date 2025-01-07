@@ -1,5 +1,5 @@
 ---
-title: Workstation Setup
+title: Workstation
 sidebar_position: 100
 ---
 

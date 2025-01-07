@@ -1,5 +1,6 @@
 ---
 title: NIC
+sidebar_position: 800
 ---
 
 ### List of connected NIC in ubuntu

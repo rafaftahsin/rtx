@@ -1,30 +1,22 @@
 ---
 title: Laptops
+sidebar_position: 100
 ---
 
 ### My Choice of Laptop
 
+- MacBook Air / Pro 
 - Thinkpad
 
 
-### Why I prefer Thinkpad over MacBook
+### ~~Why I prefer Thinkpad over MacBook~~
 
 - Linux acts weirad with Mac Machines
 - Macbook's Wifi devices acts weired with Linux OS
 
-### ### How to disable laptop keyboard
+Edit: Januray, 2005
 
-```shell
-xinput list # `AT Translated Set 2 keyboard` and take note of its id number
-xinput float <>
-```
+- I no longer prefer thinkpad over macbook.
+- I've recently used latest macbook (macbook with m3 processor. I'm convinced with it's performance, OS stability, portability etc.)
+- MacBook's battery is way better than Thinkpad.
 
-### How to re-enable
-
-```shell
-xinput list # `AT Translated Set 2 keyboard` and take note of its id number
-# Also, take note of the number at the end, [slave keyboard (#)]
-xinput reattach <id> <master_id>
-```
-
-Ref: https://askubuntu.com/questions/160945/is-there-a-way-to-disable-a-laptops-internal-keyboard

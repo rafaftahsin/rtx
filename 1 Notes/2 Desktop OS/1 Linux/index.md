@@ -1,5 +1,5 @@
 ---
-title: Distros and Components
+title: Linux
 sidebar_position: 500
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: RAM
+sidebar_position: 300
 ---
 
 ### How to check RAM description from terminal in Ubuntu
@@ -15,4 +16,7 @@ sudo dmidecode -t 16
 ```
 
 ### Different RAM Version
+
+
+### How to clear RAM cache
 

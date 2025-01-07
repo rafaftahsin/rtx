@@ -1,5 +1,5 @@
 ---
-title: mac
+title: MacOS
 ---
 
 ### List of macOS

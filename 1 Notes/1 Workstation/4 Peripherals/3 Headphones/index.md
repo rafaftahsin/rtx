@@ -1,5 +1,6 @@
 ---
 title: Headphones
+sidebar_position: 300
 ---
 
 ### Difference between active noise cancellation vs passive noise cancellation
@@ -19,3 +20,8 @@ title: Headphones
 
 ANC - Active Noise Cancellation [ Filters out Noise from your speaker ]
 ENC - Environment Noise Cancellation [ Filters out Noise from your mic ]
+
+
+### Headphones I tried
+
+- Jabra Evolve 75

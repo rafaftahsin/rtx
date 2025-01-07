@@ -1,8 +1,6 @@
 ---
-title: Linux Desktop Environments
+title: Desktop Environments
 ---
-
-### Linux Desktop Environment
 
 ### Linux Desktop Environment
 
