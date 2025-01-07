@@ -35,8 +35,11 @@
 
 ### ¯\_(ツ)_/¯
 
-https://www.reddit.com/r/selfhosted/comments/17wub9j/looking_for_a_selfhosted_web_proxy/
+### Just Some Notes 
 
-https://github.com/awesome-selfhosted/awesome-selfhosted#proxy
-
-https://github.com/kahun/awesome-sysadmin/blob/master/README.md#log-management
+- https://www.reddit.com/r/selfhosted/comments/17wub9j/
+- looking_for_a_selfhosted_web_proxy/
+- https://github.com/awesome-selfhosted/awesome-selfhosted#proxy
+- https://github.com/kahun/awesome-sysadmin/blob/master/README.md#log-management
+- https://docs.google.com/document/d/1iXGPGNi8yIdDn-7hVPdylGRiHV4uxx9g-YllKQjbFzo/edit?tab=t.0#heading=h.izpay1p48p34
+- https://free-for.dev/#/
