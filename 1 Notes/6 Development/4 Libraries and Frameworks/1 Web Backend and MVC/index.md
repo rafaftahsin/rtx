@@ -24,6 +24,5 @@ title: Web
 - gRPC
 - GraphQL
 
-### Backend as a Service Providers
+### Backend As a Service Providers
 
-- [Platforms](/notes/7%20Operations/2%20Cloud/#paas-providers)
