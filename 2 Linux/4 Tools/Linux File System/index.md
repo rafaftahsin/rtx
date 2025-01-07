@@ -19,3 +19,6 @@ etc
 ### lvm 
 
 ### ext4 vs FAT32 vs NTFS explained
+
+### rclone 
+

@@ -35,3 +35,16 @@ https://askubuntu.com/questions/385901/how-to-see-more-lines-in-the-terminal
 - `ttyrec`
 
 Ref: https://www.tutorialspoint.com/how-to-record-linux-terminal-sessions
+
+### Restart shell session
+
+```
+exec -l $SHELL
+```
+
+### Shells
+
+- Bash
+- zsh
+- Fish
+

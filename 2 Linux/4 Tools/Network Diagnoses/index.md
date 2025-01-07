@@ -15,5 +15,6 @@ title: Network Diagnoses
 - `ethtool`
 - `nmap`
 - `traceroute`
+- `netplan` by Canonical
 
 Ref: https://www.linkedin.com/feed/update/urn:li:activity:7230523794300264448/

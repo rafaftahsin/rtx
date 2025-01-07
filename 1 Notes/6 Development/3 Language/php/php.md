@@ -66,3 +66,8 @@ https://www.digitalocean.com/community/tutorials/how-to-install-php-7-4-and-set-
 ### composer
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04
+
+### How to install php7
+
+- https://www.tutorials24x7.com/php/how-to-install-multiple-versions-of-php-on-ubuntu-2004-lts
+- https://gist.github.com/iguntur/19ac8196c4537c354a478bb73d8a8841
