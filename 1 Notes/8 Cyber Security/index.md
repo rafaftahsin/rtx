@@ -82,3 +82,8 @@ https://wazuh.com/
 ### Cyber Sec Tools
 
 - https://shop.hak5.org/products/usb-rubber-ducky
+
+### SIEM Tools 
+
+- Wazuh
+- https://www.secopsolution.com/

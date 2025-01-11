@@ -2,8 +2,8 @@
 title: WHM
 ---
 
-CPANEL
-Plesk
-
-Managed
-- https://www.dreamhost.com/
+- Self Hosted
+    - plex
+    - cpanel
+- Managed
+    - https://www.dreamhost.com/
