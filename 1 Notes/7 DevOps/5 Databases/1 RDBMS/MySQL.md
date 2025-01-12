@@ -54,3 +54,20 @@ https://stackoverflow.com/a/39116665/4814427
 ### How to install on ubuntu 
 
 https://ubuntu.com/server/docs/install-and-configure-a-mysql-server
+
+### MySQL Timezone 
+
+```
+mysql> select now();
+```
+
+Ref: https://stackoverflow.com/questions/930900/how-do-i-set-the-time-zone-of-mysql
+
+
+### Delete all rows from a table 
+
+```
+DELETE FROM <table-name>;
+```
+
+Ref: https://www.w3schools.com/sql/sql_delete.asp

@@ -55,5 +55,8 @@ aws ec2 create-instance-export-task --instance-id i-yfyufguyhgjh4354 --target-en
 aws ec2 describe-export-tasks --export-task-ids export-i-9486d2dd5b4e4744t --profile profile-name --region region-name
 ```
 
+Ref:
+
+- Troubleshooting: https://stackoverflow.com/questions/59175204/unable-to-export-ec2-instance-to-s3
 
 

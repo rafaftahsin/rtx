@@ -25,3 +25,14 @@ title: ssh
 ### WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!
 
 ssh-keygen -R 192.168.3.10
+
+### SSH Port forwarding 
+
+```
+ssh -N -L <local-port>:<remote-host>:<remote-port> <user>@<remote-host>
+```
+
+- `-N` restrics establishing a login shell to remote 
+- `-f` shell runs in the background. 
+
+Ref: https://builtin.com/software-engineering-perspectives/ssh-port-forwarding
