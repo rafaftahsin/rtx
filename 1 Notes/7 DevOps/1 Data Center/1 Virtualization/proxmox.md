@@ -35,3 +35,8 @@ https://pve.proxmox.com/wiki/Performance_Tweaks
 ### CLI Tools
 
 - https://pve.proxmox.com/wiki/Command_Line_Tools
+
+
+### Disk Resize 
+
+- https://pve.proxmox.com/wiki/Resize_disks
