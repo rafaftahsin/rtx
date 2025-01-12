@@ -13,3 +13,20 @@ sudo chmod +x /usr/local/bin/docker-compose
 ### docker-compose file reference 
 
 - https://docs.docker.com/reference/compose-file/services/
+
+### Run container as root
+
+```
+...
+services:
+    datapower:
+        build: .
+        user: root
+        ports:
+            - "9090:9090"
+        depends_on:
+            - db
+...
+```
+
+Ref: https://stackoverflow.com/questions/48727548/how-to-configure-docker-compose-yml-to-up-a-container-as-root
