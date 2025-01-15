@@ -21,3 +21,9 @@ title: User Management
 ### Password, password directory and Shell 
 
 - /etc/passwd
+
+### User without a group 
+
+Not possible. a group with the username is created.
+
+- https://askubuntu.com/questions/853399/can-we-have-a-user-without-a-primary-group

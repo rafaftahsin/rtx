@@ -15,3 +15,7 @@ Ref: https://stackoverflow.com/questions/24190085/markdown-multiline-code-blocks
 ### Escape character `\`
 
 https://bookdown.org/yihui/rmarkdown-cookbook/special-chars.html
+
+### Supported languages for syntax highlighting
+
+- https://github.com/jincheng9/markdown_supported_languages

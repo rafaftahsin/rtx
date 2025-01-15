@@ -18,3 +18,7 @@ title: SSL Certificate
 - https://www.ssllabs.com/ssltest/
 - https://securityheaders.com/
 - 
+
+### SSL vs TLS Certificate
+
+https://www.cloudpanel.io/blog/ssl-vs-tls-certificates/
