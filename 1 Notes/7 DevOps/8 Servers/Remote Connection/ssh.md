@@ -36,3 +36,15 @@ ssh -N -L <local-port>:<remote-host>:<remote-port> <user>@<remote-host>
 - `-f` shell runs in the background. 
 
 Ref: https://builtin.com/software-engineering-perspectives/ssh-port-forwarding
+
+### ssh agent forwarding configuration in config file 
+
+```
+ForwardAgent
+```
+
+Ref: https://www.ssh.com/academy/ssh/config
+
+### Config file Reference 
+
+- https://www.ssh.com/academy/ssh/config
