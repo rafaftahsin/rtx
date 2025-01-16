@@ -43,3 +43,7 @@ Ref: https://stackoverflow.com/a/22976202/4814427
 ### How revert to a previous commit in remote
 
 https://hackernoon.com/how-to-delete-commits-from-remote-in-git
+
+### git flow 
+
+- https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow

@@ -37,6 +37,7 @@ sidebar_position: 1
 ### Paging
 - PagerDuty
 - Splunk VectorOps
+- SquadCast
 
 ### Status Dashboard
 - StatusPage
