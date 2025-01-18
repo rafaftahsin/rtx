@@ -41,6 +41,14 @@ sidebar_position: 400
 - Etcher
 - Rufus
 
+
+### HDD/SDD to Image
+
+- Clonezilla
+- Acronis
+- https://www.macrium.com/reflectfree
+- https://fogproject.org/
+
 #### Media Player
 
 - VLC Media Player
