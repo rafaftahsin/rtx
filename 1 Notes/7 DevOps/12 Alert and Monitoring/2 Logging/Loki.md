@@ -126,7 +126,7 @@ frontend:
 - https://grafana.com/docs/loki/latest/send-data/docker-driver/configuration/
 - https://grafana.com/docs/loki/latest/send-data/docker-driver/
 - https://www.geeksforgeeks.org/how-to-install-grafana-loki-on-ubuntu/
-- 
+- https://medium.com/@abdullah037b/setup-loki-as-a-service-in-linux-cdf114d8e1f5
 
 #### nginx configuration for loki 
 
