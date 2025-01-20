@@ -61,3 +61,7 @@ Ref: https://unix.stackexchange.com/a/583544/158650
 - https://oper.io/?p=Ubuntu_Bridging_Network_Interfaces
 - https://www.tecmint.com/create-network-bridge-in-ubuntu/
 - 
+
+### How to set timezone 
+
+- https://linuxize.com/post/how-to-set-or-change-timezone-in-linux/

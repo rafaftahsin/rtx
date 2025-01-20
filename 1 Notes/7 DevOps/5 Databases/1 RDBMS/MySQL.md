@@ -71,3 +71,20 @@ DELETE FROM <table-name>;
 ```
 
 Ref: https://www.w3schools.com/sql/sql_delete.asp
+
+### `ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)`
+
+```
+mysql -h 127.0.0.1 -P 3306 -u root -p
+```
+
+Ref: https://stackoverflow.com/a/11658142/4814427
+
+### How to create mysqldump
+
+
+
+### Mysqld docker 
+
+https://hub.docker.com/_/mysql
+

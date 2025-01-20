@@ -30,3 +30,14 @@ services:
 ```
 
 Ref: https://stackoverflow.com/questions/48727548/how-to-configure-docker-compose-yml-to-up-a-container-as-root
+
+### Restart policies
+
+```
+    restart: "no"
+    restart: always
+    restart: on-failure
+    restart: on-failure:3
+    restart: unless-stopped
+```
+

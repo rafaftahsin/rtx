@@ -176,3 +176,13 @@ server {
 
 - https://grafana.com/docs/loki/latest/configure/
 
+### Install loki client on docker 
+
+```
+docker plugin install grafana/loki-docker-driver:latest --alias loki --grant-all-permissions
+docker plugin enable loki
+docker plugin ls
+```
+
+Ref: https://grafana.com/docs/loki/latest/send-data/docker-driver/
+

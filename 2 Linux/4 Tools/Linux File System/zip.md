@@ -7,3 +7,5 @@ title: zip
 ```
 zip -r myfiles.zip mydir
 ```
+
+Ref: https://unix.stackexchange.com/questions/57013/zip-all-files-in-directory
