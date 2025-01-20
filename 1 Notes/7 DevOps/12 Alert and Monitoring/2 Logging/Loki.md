@@ -21,7 +21,7 @@ apt-get update
 apt-get install loki
 ```
 
-After installation, check loki is running with http://<loki-url>:3100/metrics
+After installation, check loki is running with `http://<loki-url>:3100/metrics`
 
 ### If you install loki with grafana's apt repo it will fail. You need to update the following two configuration file.
 
