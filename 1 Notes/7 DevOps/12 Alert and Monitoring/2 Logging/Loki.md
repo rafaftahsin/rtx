@@ -186,3 +186,28 @@ docker plugin ls
 
 Ref: https://grafana.com/docs/loki/latest/send-data/docker-driver/
 
+### ship docker log to loki 
+
+Inside composer 
+
+```
+version: "3.7"
+services:
+  logger:
+    image: grafana/grafana
+    logging:
+      driver: loki
+      options:
+        loki-url: "https://<user_id>:<password>@logs-prod-us-central1.grafana.net/loki/api/v1/push"
+```
+
+From docker run 
+
+```
+docker run --log-driver=loki \
+    --log-opt loki-url="https://<user_id>:<password>@logs-us-west1.grafana.net/loki/api/v1/push" \
+    --log-opt loki-retries=5 \
+    --log-opt loki-batch-size=400 \
+    grafana/grafana
+```
+

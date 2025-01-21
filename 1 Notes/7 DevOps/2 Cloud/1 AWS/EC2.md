@@ -60,3 +60,7 @@ Ref:
 - Troubleshooting: https://stackoverflow.com/questions/59175204/unable-to-export-ec2-instance-to-s3
 
 
+### AWS Application Migration Service 
+
+- https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-vm-to-amazon-ec2-by-using-aws-application-migration-service.html
+
