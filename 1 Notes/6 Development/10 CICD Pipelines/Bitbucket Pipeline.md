@@ -22,3 +22,5 @@ Ref: https://support.atlassian.com/bitbucket-cloud/docs/build-and-push-a-docker-
 ### Pipeline Syntax
 
 - https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/
+
+- Reference: https://support.atlassian.com/bitbucket-cloud/docs/bitbucket-pipelines-configuration-reference/
