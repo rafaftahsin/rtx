@@ -125,4 +125,11 @@ sqlcmd -S <host> -U sa -Q "RESTORE DATABASE db_name FROM DISK = './db_name.bak' 
 
 `-C`
 
+### MSSQL Connection String URI
+
+`sqlserver://<host>:1433`
+
+Use other port if you don't run with default 1433 port
+
+
 
