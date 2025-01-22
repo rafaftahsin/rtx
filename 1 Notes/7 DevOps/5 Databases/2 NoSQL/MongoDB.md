@@ -52,11 +52,6 @@ net:
   bindIp: 0.0.0.0
 ```
 
-### Mongodb initial credential
-
-mongo-r00t-us3rn4m3
-mongo-r00t-p4ssw0rd
-
 ### How to create user and assign role 
 
 ```mongo
@@ -70,6 +65,8 @@ db.createUser(
   }
 )
 ```
+
+Ref: https://www.mongodb.com/docs/manual/tutorial/create-users/
 
 ### Mongodb builtin roles 
 
@@ -100,3 +97,11 @@ https://www.mongodb.com/docs/manual/reference/configuration-options/
 security:
    authorization: enabled
 ```
+
+### TLS Configuration
+
+- https://www.mongodb.com/docs/manual/tutorial/configure-ssl/
+
+### mongodb configuration Reference
+
+- https://www.mongodb.com/docs/manual/reference/configuration-options/

@@ -20,3 +20,5 @@ sudo dmidecode -t 16
 
 ### How to clear RAM cache
 
+- https://www.tecmint.com/clear-ram-memory-cache-buffer-and-swap-space-on-linux/
+- https://www.geeksforgeeks.org/how-to-clear-ram-memory-cache-buffer-and-swap-space-on-linux/

@@ -49,6 +49,8 @@ sidebar_position: 400
 - https://www.macrium.com/reflectfree
 - https://fogproject.org/
 
+Ref: https://www.reddit.com/r/sysadmin/comments/6j2zhm/clonezilla_alternative/
+
 #### Media Player
 
 - VLC Media Player

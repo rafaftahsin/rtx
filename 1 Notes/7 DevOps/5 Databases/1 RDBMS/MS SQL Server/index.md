@@ -131,5 +131,14 @@ sqlcmd -S <host> -U sa -Q "RESTORE DATABASE db_name FROM DISK = './db_name.bak' 
 
 Use other port if you don't run with default 1433 port
 
+### SQL DB Size
 
+- https://sqlconjuror.com/sql-server-get-size-of-all-databases-in-mb-and-gb/
 
+### Timezone of MSSQL Server
+
+```
+SELECT CURRENT_TIMEZONE();
+```
+
+Ref: https://learn.microsoft.com/en-us/sql/t-sql/functions/current-timezone-transact-sql?view=sql-server-ver16
