@@ -88,3 +88,18 @@ Ref: https://stackoverflow.com/a/11658142/4814427
 
 https://hub.docker.com/_/mysql
 
+### How to debug MySQL Heavy CPU Usage
+
+```
+### See Process
+SHOW processlist;
+SHOW full processlist;
+SELECT * FROM information_schema.processlist WHERE user='user';
+
+### Kill Process
+KILL process_id;
+```
+
+
+
+
