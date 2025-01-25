@@ -64,4 +64,12 @@ Ref: https://unix.stackexchange.com/a/583544/158650
 
 ### How to set timezone 
 
+- With `TZ` variable
+- With the `/etc/localtime` symbolic link
+- With the value of `/etc/timezone`.
+- the ZONE= attribute from `/etc/sysconfig/clock`
+
+Ref: 
+
 - https://linuxize.com/post/how-to-set-or-change-timezone-in-linux/
+- https://www.freekb.net/Article?id=965#:~:text=On%20some%20distributions%2C%20the%20%2Fetc,being%20used%20by%20the%20system.&text=The%20%2Fetc%2Ftimezone%20file%20is,the%20%2Fetc%2Ftimezone%20file.

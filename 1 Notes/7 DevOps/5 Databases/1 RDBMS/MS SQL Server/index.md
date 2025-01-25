@@ -164,4 +164,7 @@ systemctl restart mssql-server
 
 P.S. I went extra far and edited `/etc/timezone` too before I restarted mssql-server. You can try that if above doesn't work.
 
-Ref: https://stackoverflow.com/a/79386977/4814427
+Ref: 
+
+- https://stackoverflow.com/a/79386977/4814427
+- https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-time-zone?view=sql-server-ver16
