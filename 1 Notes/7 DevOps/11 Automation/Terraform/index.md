@@ -122,3 +122,15 @@ module "s3" {
 ```
 
 Ref: https://tanmay-bhat.github.io/posts/how-to-move-a-terraform-resource-into-a-module-using-moved-block/#:~:text=Move%20a%20Resource%20Into%20Module,demo%2Fs3.tf%20file.&text=Since%20we%20have%20the%20resource,demo%2Fmain.tf%20file.
+
+### Terraform sensitive information using sensitive variable
+
+```
+variable "db_username" {
+  description = "Database administrator username"
+  type        = string
+  sensitive   = true
+}
+```
+
+- https://developer.hashicorp.com/terraform/tutorials/configuration-language/sensitive-variables
