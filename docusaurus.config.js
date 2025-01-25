@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Rafaf Tahsin',
-  tagline: 'Rafaf Tahsin',
-  favicon: 'img/r.png',
+  title: 'RT',
+  tagline: 'RT',
+  // favicon: 'img/r.png',
 
   // Set the production url of your site here
   url: 'https://rfft.nl',
@@ -91,12 +91,11 @@ const config = {
       }
     ],
     [
-      '@docusaurus/plugin-content-docs',
+      '@docusaurus/plugin-content-pages',
       {
         id: 'about',
         path: '4 About',
-        routeBasePath: 'about',
-        sidebarPath: './sidebars.js'
+        routeBasePath: 'about'
       }
     ],
   ],
@@ -105,13 +104,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
-      navbar: {
-        title: 'Rafaf Tahsin',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/r.png',
-        },
+      // image: 'img/docusaurus-social-card.jpg',
+      navbar: 
+      {
+        // title: 'RT',
+        // logo: { alt: 'My Site Logo', src: 'img/r.png', },
         items: [
           // {
           //   type: 'docSidebar',
