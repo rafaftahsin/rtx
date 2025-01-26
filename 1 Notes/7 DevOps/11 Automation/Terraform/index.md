@@ -134,3 +134,12 @@ variable "db_username" {
 ```
 
 - https://developer.hashicorp.com/terraform/tutorials/configuration-language/sensitive-variables
+
+
+### How to unlock a locked state file 
+
+```
+terraform force-unlock -force LOCK_ID
+```
+
+Ref: https://stackoverflow.com/questions/65595852/terraform-statefile-is-locked-how-do-i-unlock-it
