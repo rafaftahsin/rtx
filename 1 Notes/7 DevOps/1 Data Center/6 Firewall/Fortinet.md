@@ -57,3 +57,10 @@ execute ping 172.31.6.229
 
 - https://www.youtube.com/watch?v=1iTvQ1ZA0wU
 
+### How to uninstall fortinet vpn clinet in mac
+
+There's an uninstaller app for fortinet
+
+### frotinet client on mac 
+
+- https://stackoverflow.com/questions/62454456/forticlient-vpn-from-mac-cli
