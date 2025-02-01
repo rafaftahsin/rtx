@@ -60,4 +60,9 @@ sidebar_position: 1
 - [Loki](https://grafana.com/oss/loki/) + Grafana + [Mimir](https://grafana.com/oss/mimir/)
 
 
+### Internet Speed Monitoring Tools
+
+- speedtest
+
+Ref: https://askubuntu.com/questions/104755/how-to-check-internet-speed-via-terminal
 
