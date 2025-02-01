@@ -44,3 +44,8 @@ Ref: https://stackoverflow.com/questions/48727548/how-to-configure-docker-compos
 ### Using alternative container runtime 
 
 - https://docs.docker.com/engine/daemon/alternative-runtimes/
+
+### Networking in docker-compose with links
+
+- https://docs.docker.com/compose/how-tos/networking/
+- https://docs.docker.com/reference/compose-file/services/#links

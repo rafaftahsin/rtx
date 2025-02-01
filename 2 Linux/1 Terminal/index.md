@@ -3,6 +3,8 @@ title: Terminal
 sidebar_position: 10
 ---
 
+
+
 ----
 ### Terminal Multiplexer
 - tmux
@@ -47,4 +49,5 @@ exec -l $SHELL
 - Bash
 - zsh
 - Fish
-
+- Paid
+  - [warp](https://www.warp.dev/)

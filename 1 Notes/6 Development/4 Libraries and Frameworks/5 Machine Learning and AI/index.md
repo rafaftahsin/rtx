@@ -20,3 +20,8 @@ Auto Encoder -> https://www.geeksforgeeks.org/auto-encoders/
 
 - https://www.cloudera.com/why-cloudera/enterprise-ai.html
 
+### Community, Challenge, Stacks and others
+
+- https://huggingface.co/
+- https://www.kaggle.com/
+

@@ -100,6 +100,6 @@ SELECT * FROM information_schema.processlist WHERE user='user';
 KILL process_id;
 ```
 
+### MySQL User
 
-
-
+- https://www.hostinger.com/tutorials/mysql-show-users/

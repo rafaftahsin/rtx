@@ -21,3 +21,11 @@ Do not use always, though you can. If you use `always` container will restart ev
 
 Ref: https://stackoverflow.com/a/39072476/4814427
 
+### Docker remobe build cache
+
+```
+docker builder prune
+```
+
+Ref: https://docs.docker.com/reference/cli/docker/builder/prune/
+

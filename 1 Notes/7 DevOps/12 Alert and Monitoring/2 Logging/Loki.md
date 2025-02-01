@@ -211,3 +211,6 @@ docker run --log-driver=loki \
     grafana/grafana
 ```
 
+### Loki Configuration Example
+
+- https://grafana.com/docs/loki/latest/configure/examples/configuration-examples/

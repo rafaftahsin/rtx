@@ -7,3 +7,7 @@ title: bitbucket
 - https://support.atlassian.com/bitbucket-cloud/docs/use-oauth-on-bitbucket-cloud/
 
 please note that ... if you don't set callback url, even a dummy one, it will not generate the token.
+
+### Bitbucket Cloud - Personal Workspace is now depricated
+
+- https://support.atlassian.com/bitbucket-cloud/docs/create-your-workspace/

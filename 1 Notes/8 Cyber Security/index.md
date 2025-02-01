@@ -87,3 +87,8 @@ https://wazuh.com/
 
 - Wazuh
 - https://www.secopsolution.com/
+
+
+### Encrypt Password in .env
+
+- https://stackoverflow.com/questions/65564126/encrypt-passwords-stored-in-environment-variables

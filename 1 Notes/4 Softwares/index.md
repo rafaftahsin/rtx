@@ -198,3 +198,10 @@ Ref: https://www.geeksforgeeks.org/best-ssh-client-for-mac/
 - postman
 - https://www.thunderclient.com/ (VS Code Extension)
 - https://testfully.io/
+
+
+### AI LLM 
+
+- chatgpt
+- deepseek
+- gemini

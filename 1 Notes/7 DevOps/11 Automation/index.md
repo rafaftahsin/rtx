@@ -29,3 +29,6 @@ https://groups.google.com/g/packer-tool/c/4lB4OqhILF8
 
 - Boundary
 
+### Some Already Generated Stacks
+
+- https://github.com/ninadingole/docker-compose-stacks
