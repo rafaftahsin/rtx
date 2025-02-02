@@ -50,3 +50,18 @@ title: Github Action
       - name: Image digest
         run: echo ${{ steps.docker_build.outputs.digest }}
 ```
+
+### Variable Information 
+
+- https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables
+
+### .env Variable decode with base64
+
+```
+      - name: ENV Decode
+        run: echo ${{ secrets.ENV_ENCODE_DEV }} | base64 -d > .env
+```
+
+### Github Action SSH Action 
+
+- https://github.com/appleboy/ssh-action
