@@ -3,4 +3,50 @@ title: Github Action
 ---
 
 
-### 
+### Github Action Dockerhub push
+
+```
+ name: Dev Deployment
+
+ on:
+  push:
+    branches: [ dev ]
+  pull_request:
+    branches: [ dev ]
+
+ jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Check Out Repo 
+        uses: actions/checkout@v2
+
+      - name: Login to Docker Hub
+        uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKER_HUB_USERNAME }}
+          password: ${{ secrets.DOCKER_HUB_PASSWORD }}
+
+      - name: Set up Docker Buildx
+        id: buildx
+        uses: docker/setup-buildx-action@v1
+
+      - name: get repository name
+        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+
+      - name: Build and push
+        id: docker_build
+        uses: docker/build-push-action@v2
+        with:
+          context: ./
+          file: ./Dockerfile
+          push: true
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/${{ env.REPOSITORY_NAME }}:${{github.run_number}}
+
+      - name: Image digest
+        run: echo ${{ steps.docker_build.outputs.digest }}
+```
