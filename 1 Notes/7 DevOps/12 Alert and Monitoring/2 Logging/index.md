@@ -20,7 +20,7 @@ sidebar_position: 2
 
 Ref: https://www.reddit.com/r/selfhosted/comments/cgpyi9/selfhosted_lightweight_alternative_to_elk_stack/
 
-### Error Logging 
+### Error Tracking 
 
 - Rollbar
 - Sentry

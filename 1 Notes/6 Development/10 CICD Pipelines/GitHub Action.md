@@ -65,3 +65,8 @@ title: Github Action
 ### Github Action SSH Action 
 
 - https://github.com/appleboy/ssh-action
+
+### Github Action OIDC Provider for AWS 
+
+- https://github.com/aws-actions/configure-aws-credentials?tab=readme-ov-file#oidc
+
