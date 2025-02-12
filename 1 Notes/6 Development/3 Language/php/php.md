@@ -35,6 +35,30 @@ sudo apt install php7.4 ### Or other php version php8.1 | php7.2  | php5.6
 sudo apt install php7.4-mysql php7.4-mbstring php7.4-xml php7.4-curl php7.4-cgi
 ```
 
+### How to install php 8.2 on ubuntu ? 
+
+
+```
+sudo dpkg -l | grep php | tee packages.txt
+sudo add-apt-repository ppa:ondrej/php # Press enter when prompted.
+sudo apt update
+sudo apt install php8.2 php8.2-cli php8.2-{bz2,curl,mbstring,intl}
+
+sudo apt install php8.2-fpm
+# OR
+# sudo apt install libapache2-mod-php8.2
+
+sudo a2enconf php8.2-fpm
+
+# When upgrading from older PHP version:
+sudo a2disconf php8.1-fpm
+
+## Remove old packages
+sudo apt purge php8.1*
+```
+
+Ref: https://php.watch/articles/install-php82-ubuntu-debian
+
 ### Error `Fatal error: Call to undefined function mysqli_connect()`
 
 ```shell

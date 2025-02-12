@@ -17,6 +17,11 @@ sidebar_position: 2
 - https://vector.dev/ and https://github.com/toshi-search/Toshi
 - Wajuh
 - BetterStack
+- New Relic
+- Grafana Loki
+- https://logz.io/pricing/
+- https://www.loggly.com/
+- https://newrelic.com/
 
 Ref: https://www.reddit.com/r/selfhosted/comments/cgpyi9/selfhosted_lightweight_alternative_to_elk_stack/
 

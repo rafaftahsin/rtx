@@ -70,3 +70,6 @@ title: Github Action
 
 - https://github.com/aws-actions/configure-aws-credentials?tab=readme-ov-file#oidc
 
+### AWS S3 Bucket deployment 
+
+- https://github.com/marketplace/actions/s3-deploy

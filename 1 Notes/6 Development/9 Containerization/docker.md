@@ -29,3 +29,7 @@ docker builder prune
 
 Ref: https://docs.docker.com/reference/cli/docker/builder/prune/
 
+### Docker isn't starting on MAC 
+
+`sudo launchctl remove com.docker.vmnetd`
+
