@@ -33,3 +33,10 @@ Ref: https://docs.docker.com/reference/cli/docker/builder/prune/
 
 `sudo launchctl remove com.docker.vmnetd`
 
+### How to know which docker container uses which ovelay volume ? 
+
+```
+docker inspect -f $'{{.Name}}\t{{.GraphDriver.Data.MergedDir}}' $(docker ps -aq)
+```
+
+Ref: https://stackoverflow.com/questions/50875513/how-do-i-identify-which-container-owns-which-overlay-directory
