@@ -55,3 +55,17 @@ http {
    #...
 }
 ```
+
+### nginx conf for static site 
+
+```
+server {
+    listen       80;
+    server_name  localhost;
+    root   /usr/share/nginx/html;
+    index  index.html index.htm;
+    location / {
+      try_files $uri /index.html;
+    }
+}
+```
