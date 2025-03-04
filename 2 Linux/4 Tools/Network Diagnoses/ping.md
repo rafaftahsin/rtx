@@ -15,3 +15,17 @@ PING google.com (142.250.194.142) 56(84) bytes of data.
 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 rtt min/avg/max/mdev = 87.507/87.909/88.647/0.522 ms
 ```
+
+### ping with timestamp
+
+```
+ping www.google.fr | while read pong; do echo "$(date): $pong"; done
+```
+
+Ref: https://askubuntu.com/a/137246/428566
+
+### ping just 1 time and observe last update
+
+```
+ping -c 1 google.com ;  echo $?
+```
