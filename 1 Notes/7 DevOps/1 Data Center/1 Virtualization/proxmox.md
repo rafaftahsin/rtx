@@ -40,3 +40,7 @@ https://pve.proxmox.com/wiki/Performance_Tweaks
 ### Disk Resize 
 
 - https://pve.proxmox.com/wiki/Resize_disks
+
+#### How to add ISO image in proxmox
+
+- https://www.thomas-krenn.com/en/wiki/Proxmox_upload_ISO_image
