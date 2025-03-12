@@ -103,3 +103,10 @@ KILL process_id;
 ### MySQL User
 
 - https://www.hostinger.com/tutorials/mysql-show-users/
+
+### mysql_secure_install
+
+```
+mysql_secure_installation
+```
+

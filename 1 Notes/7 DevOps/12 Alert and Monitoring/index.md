@@ -28,3 +28,9 @@ https://opentelemetry.io/
 
 
 https://openitcockpit.io/
+
+
+### Network monitoring 
+
+- https://www.paessler.com/monitoring/network/network-monitoring-tool
+

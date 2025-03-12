@@ -44,3 +44,11 @@ https://pve.proxmox.com/wiki/Performance_Tweaks
 #### How to add ISO image in proxmox
 
 - https://www.thomas-krenn.com/en/wiki/Proxmox_upload_ISO_image
+
+### unlock a VM from CLI
+
+```
+qm unlock <vm-id>
+```
+
+- https://forum.proxmox.com/threads/task-error-vm-is-locked-backup.9418/
