@@ -83,3 +83,7 @@ https://www.paritydeals.com/
 
 - Screencastify
 - loom 
+
+### QR Code Scanner
+
+- https://qrcoderaptor.com/
