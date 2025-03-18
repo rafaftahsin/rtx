@@ -63,11 +63,11 @@ Example integration in service:
 ```
 version: "3.5"
 services:
-  sheba-core-notification-service:
+  service1:
     env_file:
       - .env
-    image: spltech/sheba-core-notification-service-prod:7
-    container_name: sheba-core-notification-service
+    image: img:7
+    container_name: some_service
     ports:
       - ${PORT}:${PORT}
     networks:
