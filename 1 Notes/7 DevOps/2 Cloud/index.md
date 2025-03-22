@@ -29,10 +29,7 @@ title: Cloud
   - render.com
   - https://www.section.io/docs/
   - AWS Amplify
-  - Google Firebase / App Engine
   - https://www.amazee.io/ - Container Paas
-  - https://supabase.com/ - Firebase Alternative
-  - Amplication - Backend As a Service
   - Cyclic - https://docs.cyclic.sh/ [ Mostly Containers ]
   - https://platform.sh/
   - rig.dev
@@ -41,6 +38,15 @@ title: Cloud
   - Stackhero
 - Self Hosted
   - dokku
+
+### App Engine / Backend As a Service
+
+- Airtable
+- Google Firebase
+- https://supabase.com/ - Firebase Alternative
+- Amplication
+
+
 
 ### VM performance Comparison
 

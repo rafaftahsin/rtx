@@ -87,3 +87,7 @@ https://www.paritydeals.com/
 ### QR Code Scanner
 
 - https://qrcoderaptor.com/
+
+### Workflow Automation
+
+- https://www.make.com/en
