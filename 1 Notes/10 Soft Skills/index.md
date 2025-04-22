@@ -81,3 +81,15 @@ Interview Preparation
 | Awesome Cloud                            | https://github.com/JStumpp/awesome-cloud?tab=readme-ov-file#content-delivery-network |
 | Awesome open-source alternatives to SaaS | https://github.com/RunaCapital/awesome-oss-alternatives                              |
 | Awesome SaaS Services                    | https://github.com/GetStream/awesome-saas-services                                   |
+
+
+### SaaS Subscription Saving 
+
+- https://subscriptionpro.co/
+
+### Developer Swag
+
+### Clous Subscription Credit 
+
+- AWS Activate 
+- 
