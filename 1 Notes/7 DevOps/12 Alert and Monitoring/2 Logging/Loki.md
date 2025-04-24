@@ -214,3 +214,4 @@ docker run --log-driver=loki \
 ### Loki Configuration Example
 
 - https://grafana.com/docs/loki/latest/configure/examples/configuration-examples/
+- Multiline Setup - https://grafana.com/docs/loki/latest/send-data/promtail/stages/multiline/
