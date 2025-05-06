@@ -52,3 +52,7 @@ Ref: https://www.ssh.com/academy/ssh/config
 ### ssh Man
 
 - https://man7.org/linux/man-pages/man1/ssh.1.html
+
+### ssh proxy and jump host
+
+- https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Proxies_and_Jump_Hosts
