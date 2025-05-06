@@ -48,3 +48,7 @@ Ref: https://www.ssh.com/academy/ssh/config
 ### Config file Reference 
 
 - https://www.ssh.com/academy/ssh/config
+
+### ssh Man
+
+- https://man7.org/linux/man-pages/man1/ssh.1.html
