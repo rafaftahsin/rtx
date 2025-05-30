@@ -16,3 +16,5 @@ sudo install minikube-linux-amd64 /usr/local/bin/minikube && rm minikube-linux-a
 
 ### Minikube Alternative
 
+- [kind](https://kind.sigs.k8s.io/)
+

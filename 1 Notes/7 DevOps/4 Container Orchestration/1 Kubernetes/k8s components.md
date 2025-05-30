@@ -53,3 +53,7 @@ title: k8s components
 ### Ingress
 
 - https://kubernetes.io/docs/concepts/services-networking/ingress/
+
+### k8s controller vs operator
+
+- https://konghq.com/blog/learning-center/kubernetes-controllers-vs-operators

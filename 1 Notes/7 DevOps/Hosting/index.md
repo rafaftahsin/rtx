@@ -18,3 +18,10 @@ title: Hosting
 - https://www.stackhero.io/en/services/Docker/benefits
 - render
 - 
+
+### Cheap VPS Hosting
+
+- https://www.dhakawebhost.com/vps-server/
+- https://www.ionos.com/servers/vps
+- https://www.xeonbd.com/vps/cheap-vps/
+- 
