@@ -47,3 +47,7 @@ https://hackernoon.com/how-to-delete-commits-from-remote-in-git
 ### git flow 
 
 - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+### git rebase
+
+- https://git-scm.com/docs/git-rebase
