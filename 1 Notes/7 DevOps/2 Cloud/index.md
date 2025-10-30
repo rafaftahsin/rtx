@@ -16,6 +16,7 @@ title: Cloud
 - Vultr
 - https://platform9.com/
 - Huaweicloud
+- linode
 
 ### Major Cloud and their services comparison
 
