@@ -20,7 +20,7 @@ sidebar_position: 2
 
 Ref: https://www.reddit.com/r/selfhosted/comments/cgpyi9/selfhosted_lightweight_alternative_to_elk_stack/
 
-### Error Logging 
+### Error Logging
 
 - Rollbar
 - Sentry
@@ -33,3 +33,8 @@ Ref: https://www.reddit.com/r/selfhosted/comments/cgpyi9/selfhosted_lightweight_
 - Fluentd
 - Vector [ vector.dev ]
 - Filebeat [ elastic component ]
+
+
+### SIEM Tool
+- Wazuh
+- Seceon
