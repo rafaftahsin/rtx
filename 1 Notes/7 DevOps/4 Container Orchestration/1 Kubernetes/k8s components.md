@@ -82,3 +82,8 @@ https://www.redhat.com/en/blog/kubernetes-namespaces-demystified-how-to-make-the
 ### kubelet
 
 - https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/
+
+### servcie Accounts
+
+- https://kubernetes.io/docs/concepts/security/service-accounts/
+

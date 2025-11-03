@@ -38,6 +38,7 @@ aws eks update-kubeconfig --region region-code --name my-cluster
 - Load Balancer Controller: https://github.com/kubernetes-sigs/aws-load-balancer-controller
 - Load Balancer Controller: https://kubernetes-sigs.github.io/aws-load-balancer-controller/latest/
 - https://github.com/aws/eks-charts/tree/master/stable/aws-load-balancer-controller
+- https://docs.aws.amazon.com/eks/latest/userguide/lbc-helm.html
 
 Troubleshooting:
 
