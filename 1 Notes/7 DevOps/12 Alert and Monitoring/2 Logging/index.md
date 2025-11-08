@@ -37,4 +37,4 @@ Ref: https://www.reddit.com/r/selfhosted/comments/cgpyi9/selfhosted_lightweight_
 
 ### SIEM Tool
 - Wazuh
-- Seceon
+- [Seceon](https://seceon.com/)

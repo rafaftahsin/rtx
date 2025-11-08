@@ -44,3 +44,7 @@ title: Email Server
 - https://mailshake.com/
 - MailGun
 
+
+### Email Gateway
+
+- https://www.barracuda.com/products/email-protection/secure-email-gateway

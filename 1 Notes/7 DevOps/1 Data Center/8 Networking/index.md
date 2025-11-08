@@ -15,7 +15,6 @@ title: Networking
 
 ### SDN
 - https://www.youtube.com/watch?v=Xfxm68Mn7bU
--
 
 ### Swith OS
 - SONIC

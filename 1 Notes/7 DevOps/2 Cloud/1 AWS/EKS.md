@@ -6,7 +6,7 @@ title: EKS
 ### Tags for subnet for LB to be created
 
 - private subnets - `kubernetes.io/role/internal-elb` value = `1`
-- public subnets - `kubernetes.io/role/elb` value = `1` 
+- public subnets - `kubernetes.io/role/elb` value = `1`
 
 Ref: https://docs.aws.amazon.com/eks/latest/userguide/alb-ingress.html
 
@@ -27,7 +27,7 @@ aws eks update-kubeconfig --region region-code --name my-cluster
 ```
 - Ref: https://docs.aws.amazon.com/eks/latest/userguide/create-kubeconfig.html
 
-### Connect to Cluster 
+### Connect to Cluster
 
 - https://docs.aws.amazon.com/eks/latest/userguide/create-kubeconfig.html
 
@@ -51,3 +51,11 @@ vpcID must be specified otherwise pod fails to get EC2 instance metadata
 - https://catalog.workshops.aws/eks-auto-mode/en-US
 - https://docs.aws.amazon.com/eks/latest/userguide/automode.html
 
+
+### How to get eks config for kubectl
+
+```
+aws eks update-kubeconfig --region region-code --name my-cluster
+```
+
+Ref: https://docs.aws.amazon.com/eks/latest/userguide/create-kubeconfig.html

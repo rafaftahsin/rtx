@@ -26,3 +26,6 @@ title: Web
 
 ### Backend As a Service Providers
 
+- supabase
+- https://backendless.com/features/#backendless-core
+- https://github.com/PostgREST/postgrest
