@@ -168,7 +168,9 @@ Ref:
 
 ### Productivity Tools
 
-- ToDo 
+- ToDo
+  - Trello
+  - AkiWeb
   - Google Tasks (*)
   - MS Todo
 - Short Notes
@@ -178,10 +180,12 @@ Ref:
 - Calendar
   - Google Calendar (*)
   - Apple Calendar
+- Flashcard
+  - Anki
 
-### SSH Connection Manager 
+### SSH Connection Manager
 
-- Windows 
+- Windows
   - MobaXTerm
 - Linux (GNOME Desktop)
   - [Gnome Connection Manager](https://github.com/kuthulux/gnome-connection-manager/tree/master)
@@ -193,7 +197,7 @@ Ref:
 Ref: https://www.geeksforgeeks.org/best-ssh-client-for-mac/
 
 
-### API Testing 
+### API Testing
 
 - postman
 - https://www.thunderclient.com/ (VS Code Extension)
@@ -205,3 +209,9 @@ Ref: https://www.geeksforgeeks.org/best-ssh-client-for-mac/
 - chatgpt
 - deepseek
 - gemini
+
+### AI Agent
+
+- ChatGPT
+- Local Agent
+  - https://github.com/Fosowl/agenticSeek

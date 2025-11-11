@@ -5,4 +5,4 @@ title: Multipass
 
 ### Multipass
 
-https://multipass.run/install
+https://canonical.com/multipass

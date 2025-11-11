@@ -54,3 +54,12 @@ title: Kubernetes
 
 https://kubernetes.io/docs/reference/kubectl/quick-reference/
 
+
+### kubernetes Addons
+
+- https://kubernetes.io/docs/concepts/cluster-administration/addons/
+
+
+### K8s Networking
+
+- https://spacelift.io/blog/kubernetes-networking

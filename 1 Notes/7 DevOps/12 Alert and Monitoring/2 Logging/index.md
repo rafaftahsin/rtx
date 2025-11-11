@@ -42,3 +42,8 @@ Ref:
 - Fluentd
 - Vector [ vector.dev ]
 - Filebeat [ elastic component ]
+
+
+### SIEM Tool
+- Wazuh
+- [Seceon](https://seceon.com/)

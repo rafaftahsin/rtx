@@ -57,3 +57,36 @@ title: k8s components
 ### k8s controller vs operator
 
 - https://konghq.com/blog/learning-center/kubernetes-controllers-vs-operators
+
+### deployment
+
+- https://stackoverflow.com/questions/73026333/how-kubernetes-port-forward-choose-pod-when-forward-to-a-deployment
+
+### k8s addons
+
+- https://kubernetes.io/docs/concepts/cluster-administration/addons/
+
+### Not all objects are in namespace
+
+```
+# In a namespace
+kubectl api-resources --namespaced=true
+
+# Not in a namespace
+kubectl api-resources --namespaced=false
+```
+
+Ref: https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/
+
+### k8s namespace
+
+https://www.redhat.com/en/blog/kubernetes-namespaces-demystified-how-to-make-the-most-of-them
+
+### kubelet
+
+- https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/
+
+### servcie Accounts
+
+- https://kubernetes.io/docs/concepts/security/service-accounts/
+

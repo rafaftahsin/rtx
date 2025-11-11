@@ -6,3 +6,4 @@ title: BI Tools
 
 - Metabase
 - Superset
+- Google Analytics
