@@ -6,6 +6,9 @@ title: netplan
 
 - https://netplan.io/
 
+### Netplan Documentation
+
+- https://netplan.readthedocs.io/en/stable/
 
 ### Configuration 
 
