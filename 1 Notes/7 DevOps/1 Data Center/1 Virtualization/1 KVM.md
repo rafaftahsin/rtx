@@ -16,3 +16,7 @@ Ref :https://libguestfs.org/virt-customize.1.html
 - https://www.freecodecamp.org/news/turn-ubuntu-2404-into-a-kvm-hypervisor/
 - https://www.linuxtechi.com/how-to-install-kvm-on-ubuntu/ ** - describe bridge network here
 - https://sysguides.com/install-kvm-on-linux
+- https://computingforgeeks.com/install-kvm-virtualization-on-ubuntu-noble-numbat/
+- https://linuxconfig.org/setting-up-virtual-machines-with-qemu-kvm-and-virt-manager-on-debian-ubuntu
+- https://forum.virtualmin.com/t/creating-a-virtual-machine-using-ubuntus-kvm/134666
+- https://www.linuxtechi.com/how-to-install-kvm-on-ubuntu/
