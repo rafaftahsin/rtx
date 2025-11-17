@@ -8,3 +8,11 @@ title: KVM
 - virt-customize -a /var/lib/vz/images/101/vm-101-disk-0.qcow2 --root-password password:topSecretPassword
 
 Ref :https://libguestfs.org/virt-customize.1.html
+
+### How to install kvm on ubuntu 
+
+- https://phoenixnap.com/kb/ubuntu-install-kvm
+- https://www.cherryservers.com/blog/install-kvm-ubuntu
+- https://www.freecodecamp.org/news/turn-ubuntu-2404-into-a-kvm-hypervisor/
+- https://www.linuxtechi.com/how-to-install-kvm-on-ubuntu/ ** - describe bridge network here
+- https://sysguides.com/install-kvm-on-linux
