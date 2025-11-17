@@ -177,6 +177,7 @@ Ref:
   - Google Keep
   - MS One Note
   - Apple Notes
+  - Obsedian * 
 - Calendar
   - Google Calendar (*)
   - Apple Calendar
@@ -215,3 +216,9 @@ Ref: https://www.geeksforgeeks.org/best-ssh-client-for-mac/
 - ChatGPT
 - Local Agent
   - https://github.com/Fosowl/agenticSeek
+
+
+### All in One Storage Drive (rclone backed)
+
+- S3 Drive (https://docs.s3drive.app/)
+-
