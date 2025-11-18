@@ -20,3 +20,6 @@ Ref :https://libguestfs.org/virt-customize.1.html
 - https://linuxconfig.org/setting-up-virtual-machines-with-qemu-kvm-and-virt-manager-on-debian-ubuntu
 - https://forum.virtualmin.com/t/creating-a-virtual-machine-using-ubuntus-kvm/134666
 - https://www.linuxtechi.com/how-to-install-kvm-on-ubuntu/
+
+
+### KVM image permission issue
