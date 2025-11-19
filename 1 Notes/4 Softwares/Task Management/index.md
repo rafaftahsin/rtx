@@ -14,7 +14,10 @@ title: Task Management
   - very seamless in both trello & akiflow
 - Feature : Can Add task from mail, IM, jira etc
   - Trello has inbox and you can add any task to it.
-  - 
+  - So do Akiflow 
+- Task Grouping 
+  - aki flow enforces you to create a project first and put every task under project. 
+  - Trello's approach is better. You have task. you can group them by adding cover color to them. 
 
 Need to checkout 
 - ToDoist 
