@@ -32,3 +32,7 @@ Passwd: fibranne
 ### Updates
 
 - https://support.hpe.com/connect/s/softwaredetails?language=en_US&collectionId=MTX-44f4992a9bc14835&tab=releaseNotes
+
+### SAN Switch cheet sheet 
+
+- http://www.datadisk.co.uk/html_docs/emc/emc_switch_cs.html

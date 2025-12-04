@@ -7,3 +7,7 @@ title: laravel
 - shows current config 
 
 Ref: https://tinkerwell.app/blog/the-ultimate-guide-to-php-artisan-tinker
+
+### Laravel postman generator
+
+- https://laravel-news.com/generate-postman-collections-from-laravel-routes

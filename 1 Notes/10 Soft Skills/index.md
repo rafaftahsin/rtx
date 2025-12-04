@@ -99,3 +99,6 @@ Interview Preparation
 
 - https://www.eraser.io/decision-node
 - 
+
+### 
+Responsibility Without Authority: A Recipe for Failure

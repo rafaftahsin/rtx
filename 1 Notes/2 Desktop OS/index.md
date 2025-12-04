@@ -12,3 +12,7 @@ MBR vs GPT
 ### Writting my own boot loader file 
 
 https://dev.to/frosnerd/writing-my-own-boot-loader-3mld
+
+### Boot Option
+
+- grub

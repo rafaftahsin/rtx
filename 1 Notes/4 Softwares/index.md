@@ -3,7 +3,7 @@ title: Softwares
 sidebar_position: 400
 ---
 
----
+
 ### Office Suits
 
 - Destop Apps
@@ -100,7 +100,7 @@ Ref: https://www.reddit.com/r/sysadmin/comments/6j2zhm/clonezilla_alternative/
   - Illustrator
 
 #### Photo Editing
-  - GNU GIMP
+  - GNU GIMPscreen
   - Photoshop
 
 #### Video Editing
@@ -112,7 +112,7 @@ Ref: https://www.reddit.com/r/sysadmin/comments/6j2zhm/clonezilla_alternative/
 
 #### Animation (2D)
   - Synfig
-  - opentoonz
+  - opentoonzscreen
 
 #### Audio Editing
   - Audacity
@@ -227,3 +227,12 @@ Ref: https://www.geeksforgeeks.org/best-ssh-client-for-mac/
 ### GPG Frontend Tool
 
 - [GpgFrontend](https://gpgfrontend.bktus.com/overview/downloads/)
+
+### Online whiteboard
+
+- https://excalidraw.com/
+
+
+### Voice Cloning 
+
+- https://github.com/OpenBMB/VoxCPM

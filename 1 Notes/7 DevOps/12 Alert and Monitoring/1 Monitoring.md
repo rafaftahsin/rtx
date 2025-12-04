@@ -7,6 +7,7 @@ sidebar_position: 1
 - Prometheus
 - icinga
 - Sysdig
+- https://pulsimo.github.io/
 
 ### Dashboard
 - grafana
@@ -29,6 +30,7 @@ sidebar_position: 1
 - pingdom
 - RunScope
 - testfully
+- https://github.com/abhixdd/UptimeKit-CLI
 - postman
 - datadog
 - https://treblle.com/
@@ -66,4 +68,3 @@ sidebar_position: 1
 - speedtest
 
 Ref: https://askubuntu.com/questions/104755/how-to-check-internet-speed-via-terminal
-
