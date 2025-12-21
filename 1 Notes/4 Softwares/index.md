@@ -24,6 +24,9 @@ sidebar_position: 400
   - https://www.linkedin.com/posts/nayeemahmad_20-ai-tools-for-writing-activity-7100492956243017728-QkPF/
   - Grammerly
 
+### AI Voice Capture
+  - https://wisprflow.ai/pricing
+
 #### Bangla Keyboard
 - Avro Keyboard
 
@@ -59,6 +62,8 @@ Ref: https://www.reddit.com/r/sysadmin/comments/6j2zhm/clonezilla_alternative/
 #### Browser
 - Chrome
 - Brave
+- Arc 
+- 
 - Tor
 - Edge
 - Firefox
