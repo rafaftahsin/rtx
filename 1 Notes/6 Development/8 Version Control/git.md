@@ -52,13 +52,14 @@ https://hackernoon.com/how-to-delete-commits-from-remote-in-git
 
 - https://git-scm.com/docs/git-rebase
 
-### Encryption inside git 
+### git encrypt
 
-- To encrypt some specific file 
-  - git-crypt
-- Encrypt full repository 
-  - git-remote-gcrypt
+- git-encrypt 
+  - to encrypt some of credential files
 
-### Large File in git
 
-- https://git-lfs.com/
+### Differene between 
+
+git config pull.rebase false  # merge
+git config pull.rebase true   # rebase
+git config pull.ff only       # fast-forward only

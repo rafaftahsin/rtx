@@ -12,6 +12,7 @@ title: HTTP Server
 - Lighttpd
 - gunicorn
 - LiteSpeed
+- Wildfly
 
 ### Paid Managed Alternatives
 
@@ -41,4 +42,4 @@ ls -al /usr/share/nginx/modules-available/
 - tomcat 
 - pm2
 - forever
-- 
+-
