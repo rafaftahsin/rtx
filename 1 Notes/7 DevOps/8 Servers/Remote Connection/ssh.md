@@ -56,3 +56,27 @@ Ref: https://www.ssh.com/academy/ssh/config
 ### ssh proxy and jump host
 
 - https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Proxies_and_Jump_Hosts
+
+
+### Run ssh on specific port
+
+```
+ubuntu@ip-172-31-13-46:~$ cat /etc/ssh/sshd_config
+
+# This is the sshd server system-wide configuration file.  See
+# sshd_config(5) for more information.
+
+# This sshd was compiled with PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+
+# The strategy used for options in the default sshd_config shipped with
+# OpenSSH is to specify options with their default value where
+# possible, but leave them commented.  Uncommented options override the
+# default value.
+
+Include /etc/ssh/sshd_config.d/*.conf
+
+Port 443
+#AddressFamily any
+#ListenAddress 0.0.0.0
+#ListenAddress ::
+```
