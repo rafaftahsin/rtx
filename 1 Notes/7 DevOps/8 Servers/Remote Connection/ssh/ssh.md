@@ -80,3 +80,25 @@ Port 443
 #ListenAddress 0.0.0.0
 #ListenAddress ::
 ```
+
+### Auto SSH 
+
+- https://medium.com/@souri.rv/autossh-for-keeping-ssh-tunnels-alive-5c14207c6ba9
+
+
+### How Can I Set Up Reverse SSH Tunneling?
+Setting up this in real life is fairly straightforward if you work with open ports. Here’s a basic example:
+
+1. On LocalMachine:
+
+```
+ssh -R 9000:localhost:22 user@RemoteServer
+```
+
+Here, 9000 is the port on RemoteServer that will be used for the tunnel, and 22 is the SSH port of LocalMachine.
+
+2. On RemoteServer:
+
+```
+ssh -p 9000 user@localhost
+```
