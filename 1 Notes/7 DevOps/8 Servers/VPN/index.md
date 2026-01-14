@@ -9,6 +9,7 @@ title: VPN
   - P2P
   - OpenVPN
   - WireGuard
+  - Open Connect
 
 ### VPNs
 
@@ -20,6 +21,10 @@ title: VPN
 - Super VPN
 - WARP
 
+### Types of VPN
+
+- Client to Site VPN
+- Site to Site VPN
+
 Ref: 
 - VPN Service comparison - https://www.listvpn.net, https://vpnstore.com.
- 

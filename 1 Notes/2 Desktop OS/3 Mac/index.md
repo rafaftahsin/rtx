@@ -62,3 +62,9 @@ Ref: https://forums.macrumors.com/threads/a-way-to-make-the-mouse-pointer-feel-l
 ### Quickly align scattered folders
 
 - Quickly realign icons: Choose Clean Up after right click
+
+### How to set Lock Screen Shortcut on Mac 
+
+use System Settings > Keyboard > Keyboard Shortcuts > App Shortcuts, 
+add a new shortcut for the "Lock Screen" menu title (type it exactly), 
+and assign your desired key combination, like Cmd+L.
