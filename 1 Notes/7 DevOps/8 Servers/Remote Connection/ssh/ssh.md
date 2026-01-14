@@ -34,7 +34,7 @@ ssh -N -L <local-port>:<remote-host>:<remote-port> <user>@<remote-host>
 
 - `-N` restrics establishing a login shell to remote 
 - `-f` shell runs in the background. 
-- `-T` (Disable pseudo-terminal allocation) options so that I don’t get a tty connection on the <bastion/jump server>
+- `-T` (Disable pseudo-terminal allocation) options so that I don’t get a tty connection on the (bastion/jump server)
 
 Ref: https://builtin.com/software-engineering-perspectives/ssh-port-forwarding
 
