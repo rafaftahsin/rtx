@@ -34,6 +34,7 @@ ssh -N -L <local-port>:<remote-host>:<remote-port> <user>@<remote-host>
 
 - `-N` restrics establishing a login shell to remote 
 - `-f` shell runs in the background. 
+- `-T` (Disable pseudo-terminal allocation) options so that I don’t get a tty connection on the <bastion/jump server>
 
 Ref: https://builtin.com/software-engineering-perspectives/ssh-port-forwarding
 
@@ -101,4 +102,18 @@ Here, 9000 is the port on RemoteServer that will be used for the tunnel, and 22 
 
 ```
 ssh -p 9000 user@localhost
+```
+
+### How to check if ssh is running 
+
+```
+sudo systemctl status ssh
+```
+
+### How to disable root remote login via ssh
+
+put the following line to `/etc/ssh/sshd_config`:
+
+```
+PermitRootLogin no
 ```
