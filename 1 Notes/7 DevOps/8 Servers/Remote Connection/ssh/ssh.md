@@ -59,6 +59,15 @@ Ref: https://www.ssh.com/academy/ssh/config
 - https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Proxies_and_Jump_Hosts
 
 
+### ssh config 
+
+### How do I disable remote SSH login as root from a server?
+
+`/etc/ssh/sshd_config` => `PermitRootLogin no`
+
+Ref: https://askubuntu.com/questions/27559/how-do-i-disable-remote-ssh-login-as-root-from-a-server
+
+
 ### Run ssh on specific port
 
 ```
