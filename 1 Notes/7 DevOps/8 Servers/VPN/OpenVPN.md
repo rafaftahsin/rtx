@@ -14,3 +14,8 @@ vpn3/debian focal main" >> /etc/apt/sources.list.d/openvpn3.list
 
 apt update 
 apt install openvpn3
+
+
+### How to install OpenVPN
+
+- https://documentation.ubuntu.com/server/how-to/security/install-openvpn/
