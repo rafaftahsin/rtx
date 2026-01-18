@@ -110,3 +110,8 @@ KILL process_id;
 mysql_secure_installation
 ```
 
+### How to install mysql offline 
+
+### MySQL Download packages
+
+- https://dev.mysql.com/downloads/mysql/

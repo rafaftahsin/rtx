@@ -2,3 +2,5 @@
 title: IDEs
 ---
 
+- Jetbrains
+- xcode
