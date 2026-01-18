@@ -127,3 +127,15 @@ put the following line to `/etc/ssh/sshd_config`:
 ```
 PermitRootLogin no
 ```
+
+### ssh config 
+
+```
+Host dev-vm
+  HostName 192.168.0.5
+  User ubuntu
+  Port 22
+  IdentityFile ~/.ssh/id_rsa
+  # This forces ssh to use only the specified IdentityFile for authentication
+  IdentitiesOnly yes 
+```
