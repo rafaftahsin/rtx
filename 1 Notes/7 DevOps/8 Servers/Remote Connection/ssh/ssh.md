@@ -102,6 +102,7 @@ Setting up this in real life is fairly straightforward if you work with open por
 1. On LocalMachine:
 
 ```
+ssh -R <Remote-Host-Port>:localhost:<Local-Host-Port> user@RemoteServer
 ssh -R 9000:localhost:22 user@RemoteServer
 ```
 
