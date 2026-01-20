@@ -14,3 +14,9 @@ title: Elastic Search
 ### How to fix circuit breaking exception 
 
 - https://discuss.elastic.co/t/circuit-breaking-exception/302698
+
+### How to check if elasticsearch is running 
+
+```
+curl localhost:9200/
+```

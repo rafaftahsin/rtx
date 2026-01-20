@@ -139,3 +139,7 @@ Host dev-vm
   # This forces ssh to use only the specified IdentityFile for authentication
   IdentitiesOnly yes 
 ```
+
+### SSH is taking too long to login
+
+Edit your `/etc/ssh/sshd_config` to set `GSSAPIAuthentication no`
