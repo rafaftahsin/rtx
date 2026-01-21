@@ -68,3 +68,8 @@ Ref: https://forums.macrumors.com/threads/a-way-to-make-the-mouse-pointer-feel-l
 use System Settings > Keyboard > Keyboard Shortcuts > App Shortcuts, 
 add a new shortcut for the "Lock Screen" menu title (type it exactly), 
 and assign your desired key combination, like Cmd+L.
+
+
+### Restrict Mac from disconnecting from internet when in Lock
+
+Settings > Battery > Options > Wake for Network Access = Always
