@@ -112,6 +112,15 @@ mysql_secure_installation
 
 ### How to install mysql offline 
 
+```
+wget https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-server_8.0.44-1ubuntu22.04_amd64.deb-bundle.tar
+tar -xvf tar -xvf mysql-server_8.0.44-1ubuntu22.04_amd64.deb-bundle.tar
+dpkg -i mysql-common_8.0.44-1ubuntu22.04_amd64.deb
+dpkg -i mysql-community-client-plugins_8.0.44-1ubuntu22.04_amd64.deb
+dpkg -i mysql-client_8.0.44-1ubuntu22.04_amd64.deb
+dpkg -i libmysqlclient21_8.0.44-1ubuntu22.04_amd64.deb
+```
+
 ### MySQL Download packages
 
 - https://dev.mysql.com/downloads/mysql/
