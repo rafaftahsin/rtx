@@ -63,3 +63,8 @@ https://hackernoon.com/how-to-delete-commits-from-remote-in-git
 git config pull.rebase false  # merge
 git config pull.rebase true   # rebase
 git config pull.ff only       # fast-forward only
+
+
+#### git proxy config 
+
+git config --global http.proxy http://172.16.56.149:80
