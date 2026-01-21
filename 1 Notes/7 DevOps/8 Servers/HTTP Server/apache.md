@@ -34,3 +34,22 @@ ssl module - `sudo a2enmod ssl`
                 ProxyPassReverse / http://example.com/
         </VirtualHost>
 ```
+
+
+### Apache www-data user 
+
+- Home Directory /var/www
+
+```
+root@dev-vm:/var/www# su -l www-data -s /bin/bash
+www-data@dev-vm:~$ echo $HOME
+/var/www
+```
+
+### su - www user
+
+```
+sudo su -l www-data -s /bin/bash
+```
+
+Ref: https://askubuntu.com/questions/486346/this-account-is-currently-not-available-error-when-trying-to-ssh
