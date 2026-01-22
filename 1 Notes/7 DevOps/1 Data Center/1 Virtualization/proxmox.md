@@ -52,3 +52,7 @@ qm unlock <vm-id>
 ```
 
 - https://forum.proxmox.com/threads/task-error-vm-is-locked-backup.9418/
+
+### USB Passthrough
+
+- https://www.youtube.com/watch?v=EXh2qfeL61s
