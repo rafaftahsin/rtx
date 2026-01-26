@@ -53,3 +53,14 @@ sudo su -l www-data -s /bin/bash
 ```
 
 Ref: https://askubuntu.com/questions/486346/this-account-is-currently-not-available-error-when-trying-to-ssh
+
+### How to Increase File Upload Size In Apache Config
+
+Update config in `/etc/php/8.1/apache2/php.ini` file
+
+```
+upload_max_filesize=30M
+post_max_size=31M
+memory_limit = 100M
+max_execution_time = 120
+```

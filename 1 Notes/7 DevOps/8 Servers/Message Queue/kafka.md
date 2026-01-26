@@ -84,3 +84,8 @@ networks:
   kafka:
     external: true
 ```
+
+
+### KAFKA topic partition
+
+- https://stackoverflow.com/questions/38024514/understanding-kafka-topics-and-partitions

@@ -15,3 +15,5 @@ Ref: https://tinkerwell.app/blog/the-ultimate-guide-to-php-artisan-tinker
 ### Laravel Auth 
 
 - https://github.com/hasinhayder/tyro-login
+
+### Create

@@ -143,3 +143,15 @@ Host dev-vm
 ### SSH is taking too long to login
 
 Edit your `/etc/ssh/sshd_config` to set `GSSAPIAuthentication no`
+
+### Allow ssh Reverse proxied connection to any IP 
+
+ssh-client  --------> ssh-server <-------- Access 
+
+Update config (`/etc/ssh/sshd_config`) in ssh-server 
+
+```
+GatewayPorts yes
+```
+
+Write reverse proxy connection like `-R 0.0.0.0:3306:10.20.30.40:3306`
