@@ -10,3 +10,6 @@ title: Others
 
 - https://dev.to/paul_freeman/heres-what-i-learned-from-building-a-chrome-extension-1986
 
+### Embeded Systems
+
+- [OpenWRT](https://openwrt.org/)
