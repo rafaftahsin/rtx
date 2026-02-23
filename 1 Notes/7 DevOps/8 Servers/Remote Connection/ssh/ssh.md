@@ -155,3 +155,7 @@ GatewayPorts yes
 ```
 
 Write reverse proxy connection like `-R 0.0.0.0:3306:10.20.30.40:3306`
+
+Ref: 
+- https://serverfault.com/questions/478171/reverse-ssh-tunnel-connexion-refused
+- https://superuser.com/a/588773/514114

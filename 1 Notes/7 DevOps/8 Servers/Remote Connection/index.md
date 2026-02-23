@@ -23,5 +23,8 @@ title: Remote Connection
 
 ### Remote Control [Paid]
 
-- Team Viewer
-- Any Desk
+- Managed
+  - Team Viewer
+  - Any Desk
+- Self Hosted
+  - RunDeck

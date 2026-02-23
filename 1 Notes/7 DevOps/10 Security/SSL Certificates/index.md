@@ -27,3 +27,6 @@ https://www.cloudpanel.io/blog/ssl-vs-tls-certificates/
 
 - https://www.namecheap.com/support/knowledgebase/article.aspx/9446/2290/generating-csr-on-apache-opensslmodsslnginx-heroku/
 
+### SSL Certificate Full Chain
+
+cat certificate ca-bundle > fullchain
