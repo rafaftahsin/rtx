@@ -17,3 +17,7 @@ Ref: https://tinkerwell.app/blog/the-ultimate-guide-to-php-artisan-tinker
 - https://github.com/hasinhayder/tyro-login
 
 ### Create
+
+### How to deploy laravel application
+
+- https://docs.vultr.com/how-to-deploy-laravel-with-apache-on-ubuntu-24-04

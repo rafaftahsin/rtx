@@ -8,3 +8,7 @@ sidebar_position: 0
 ### linux namespace
 
 - https://www.redhat.com/en/blog/7-linux-namespaces
+
+### Other Linux Documentation
+
+- https://ss64.com/bash/

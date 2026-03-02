@@ -17,6 +17,8 @@ title: Cloud
 - https://platform9.com/
 - Huaweicloud
 - linode
+- [Ten Byte BD](https://www.tenbyte.io/)
+- https://cloudxen.com/
 
 ### Major Cloud and their services comparison
 
@@ -54,4 +56,4 @@ title: Cloud
 - https://dev.to/dkechag/cloud-provider-comparison-2024-vm-performance-price-3h4l
 - https://www.vpsbenchmarks.com/compare/ec2_vs_oracle
 - https://docs.google.com/spreadsheets/d/e/2PACX-1vRgXdKU98EnDTTANJONPjUh61dNRwuYx8ClOmBkhHxc2oWfJnW0HDfS4kgPcDub850n7C0gz69AmIc1/pubhtml
-- 
+-

@@ -7,7 +7,7 @@ title: HTTP Server
 - Nginx
 - Apache HTTP Server
 - HAProxy
-- Caddy
+- [Caddy](https://caddyserver.com/)
 - Tomcat
 - Lighttpd
 - gunicorn
