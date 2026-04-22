@@ -5,6 +5,7 @@ title: HTTP Server
 ### List of Web Servers
 
 - Nginx
+- https://openresty.org/en/
 - Apache HTTP Server
 - HAProxy
 - [Caddy](https://caddyserver.com/)

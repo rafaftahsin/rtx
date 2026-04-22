@@ -25,3 +25,7 @@ Auto Encoder -> https://www.geeksforgeeks.org/auto-encoders/
 - https://huggingface.co/
 - https://www.kaggle.com/
 
+### AI Bot 
+
+- https://docs.pipecat.ai/getting-started/introduction
+-

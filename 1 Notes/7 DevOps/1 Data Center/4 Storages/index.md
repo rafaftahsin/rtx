@@ -24,3 +24,8 @@ title: Storages
 ### DAS
 - Direct-attached storage
 - https://en.wikipedia.org/wiki/Direct-attached_storage
+
+### Storage Cluster / Pool
+
+- Ceph
+- ZFS
