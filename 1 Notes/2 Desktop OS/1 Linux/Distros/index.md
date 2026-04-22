@@ -11,5 +11,6 @@ title: Distros
 - ZorinOS
 - https://nixos.org/
 - https://www.deepin.org/index/en
+- https://cachyos.org/
 
 Ref: https://distrowatch.com/

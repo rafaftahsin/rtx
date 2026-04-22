@@ -56,3 +56,8 @@ qm unlock <vm-id>
 ### USB Passthrough
 
 - https://www.youtube.com/watch?v=EXh2qfeL61s
+
+
+### PVE Admin Guide
+
+- https://pve.proxmox.com/pve-docs/pve-admin-guide.html#intro_central_management

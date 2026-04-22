@@ -64,3 +64,8 @@ There's an uninstaller app for fortinet
 ### frotinet client on mac 
 
 - https://stackoverflow.com/questions/62454456/forticlient-vpn-from-mac-cli
+
+
+### Junos OS User Guide 
+
+- https://www.juniper.net/documentation/product/us/en/junos-os/#cat=user_guides

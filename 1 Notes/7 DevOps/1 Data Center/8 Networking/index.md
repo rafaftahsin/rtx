@@ -19,3 +19,7 @@ title: Networking
 
 ### Swith OS
 - SONIC
+
+### trunk mode vs access mode
+
+Access mode connects end-devices (PCs, printers) to a single VLAN via untagged frames, while trunk mode connects network devices (switches, routers) and carries traffic for multiple VLANs simultaneously using tagging (802.1Q)
